@@ -19955,27 +19955,6 @@
     "type": "static"
   },
   {
-    "name": "science",
-    "do": "",
-    "dont": "",
-    "tags": [
-      "beaker",
-      "chemical",
-      "chemistry",
-      "experiment",
-      "flask",
-      "glass",
-      "laboratory",
-      "research",
-      "science",
-      "tube"
-    ],
-    "category": [
-      "social"
-    ],
-    "type": "static"
-  },
-  {
     "name": "score",
     "do": "",
     "dont": "",

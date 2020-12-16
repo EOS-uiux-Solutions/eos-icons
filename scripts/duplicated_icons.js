@@ -68,6 +68,7 @@ const duplicatedIcons = [
   'wb_cloudy',
   'qr_code_2',
   'request_page',
+  'science',
   'star_rate',
   'sentiment_satisfied_alt',
   'sticky_note_2',
