@@ -52,9 +52,9 @@ const downloadSvgFile = async (mdIcon) => {
   }
 
   const downloadFiles = async (mdSvg) => {
-    let filePath = path.resolve(__dirname, `../svg/material/${nameIcon}.svg`)
-    let url = `https://fonts.gstatic.com/s/i/materialicons/${mdSvg[0].name}/v${mdSvg[0].version}/24px.svg`
-    let file = fs.createWriteStream(filePath)
+    const filePath = path.resolve(__dirname, `../svg/material/${nameIcon}.svg`)
+    const url = `https://fonts.gstatic.com/s/i/materialicons/${mdSvg[0].name}/v${mdSvg[0].version}/24px.svg`
+    const file = fs.createWriteStream(filePath)
 
     const response = await axios({
       url,

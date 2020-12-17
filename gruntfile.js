@@ -180,7 +180,7 @@ module.exports = function (grunt) {
         eosMdIconsDifferences({
           targetDirMd: './svg/material',
           icons: duplicatedIcons
-        }).then( async res => {
+        }).then(async (res) => {
           if (res.answer === 'Yes') {
             const iconList = [...res.iconsList]
             /* Download MD svgs and create models */
@@ -192,7 +192,8 @@ module.exports = function (grunt) {
             done()
           }
         })
-      ).then()
+      )
+      .then()
   })
 
   /* Checks for each models to make sure it has all the properties we expect. */
