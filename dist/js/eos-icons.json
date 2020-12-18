@@ -1422,6 +1422,22 @@
     "type": "static"
   },
   {
+    "name": "push_pin",
+    "do": "",
+    "dont": "",
+    "tags": [
+      "nail",
+      "badge",
+      "brooch",
+      "placed",
+      "pinned"
+    ],
+    "category": [
+      "content"
+    ],
+    "type": "static"
+  },
+  {
     "name": "quota",
     "do": "<ul><li>Use to describe the amount of space for a determined hard drive.</li></ul>",
     "dont": "",
@@ -18631,22 +18647,6 @@
     ],
     "category": [
       "action"
-    ],
-    "type": "static"
-  },
-  {
-    "name": "push_pin",
-    "do": "",
-    "dont": "",
-    "tags": [
-      "nail",
-      "badge",
-      "brooch",
-      "placed",
-      "pinned"
-    ],
-    "category": [
-      "content"
     ],
     "type": "static"
   },
