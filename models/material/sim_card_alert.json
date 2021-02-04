@@ -2,8 +2,14 @@
   "name": "sim_card_alert",
   "do": "",
   "dont": "",
-  "tags": ["telephone", "communication"],
-  "category": ["hardware"],
+  "tags": [
+    "telephone",
+    "communication"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

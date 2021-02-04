@@ -2,8 +2,17 @@
   "name": "wb_incandescent",
   "do": "",
   "dont": "",
-  "tags": ["photo", "image", "settings", "effects", "camera"],
-  "category": ["image"],
+  "tags": [
+    "photo",
+    "image",
+    "settings",
+    "effects",
+    "camera"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

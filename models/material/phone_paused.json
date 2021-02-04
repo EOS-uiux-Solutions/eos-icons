@@ -2,8 +2,16 @@
   "name": "phone_paused",
   "do": "",
   "dont": "",
-  "tags": ["mobile", "smartphone", "call", "communication"],
-  "category": ["notification"],
+  "tags": [
+    "mobile",
+    "smartphone",
+    "call",
+    "communication"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

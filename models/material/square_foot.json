@@ -14,7 +14,10 @@
     "set",
     "square"
   ],
-  "category": ["content"],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

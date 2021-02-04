@@ -2,8 +2,17 @@
   "name": "wash",
   "do": "",
   "dont": "",
-  "tags": ["clean", "hand", "soak", "rinse", "cleanse"],
-  "category": ["places"],
+  "tags": [
+    "clean",
+    "hand",
+    "soak",
+    "rinse",
+    "cleanse"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

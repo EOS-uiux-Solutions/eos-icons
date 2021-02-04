@@ -2,8 +2,18 @@
   "name": "notifications_off",
   "do": "",
   "dont": "",
-  "tags": ["bell", "alert", "notification", "alarm", "ring", "sleep mode"],
-  "category": ["social"],
+  "tags": [
+    "bell",
+    "alert",
+    "notification",
+    "alarm",
+    "ring",
+    "sleep mode"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

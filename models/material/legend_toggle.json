@@ -2,8 +2,14 @@
   "name": "legend_toggle",
   "do": "",
   "dont": "",
-  "tags": ["caption", "subtitle"],
-  "category": ["navigation"],
+  "tags": [
+    "caption",
+    "subtitle"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

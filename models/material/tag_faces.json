@@ -2,8 +2,17 @@
   "name": "tag_faces",
   "do": "",
   "dont": "",
-  "tags": ["camera", "setting", "photo", "face recognition", "detection"],
-  "category": ["image"],
+  "tags": [
+    "camera",
+    "setting",
+    "photo",
+    "face recognition",
+    "detection"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,13 @@
   "name": "no_backpack",
   "do": "",
   "dont": "",
-  "tags": ["rucksack"],
-  "category": ["places"],
+  "tags": [
+    "rucksack"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

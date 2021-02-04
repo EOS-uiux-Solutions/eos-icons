@@ -17,7 +17,10 @@
     "statstics",
     "chart"
   ],
-  "category": ["editor"],
+  "category": [
+    "editor"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

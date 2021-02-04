@@ -2,8 +2,18 @@
   "name": "sensor_window",
   "do": "",
   "dont": "",
-  "tags": ["access", "automatic", "alarm", "guard", "protection", "security"],
-  "category": ["home"],
+  "tags": [
+    "access",
+    "automatic",
+    "alarm",
+    "guard",
+    "protection",
+    "security"
+  ],
+  "category": [
+    "home"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

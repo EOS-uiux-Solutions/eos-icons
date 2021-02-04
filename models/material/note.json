@@ -2,8 +2,17 @@
   "name": "note",
   "do": "",
   "dont": "",
-  "tags": ["bookmark", "paper", "Note", "message", "mark"],
-  "category": ["av"],
+  "tags": [
+    "bookmark",
+    "paper",
+    "Note",
+    "message",
+    "mark"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

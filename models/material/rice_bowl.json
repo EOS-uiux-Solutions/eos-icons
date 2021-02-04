@@ -2,8 +2,16 @@
   "name": "rice_bowl",
   "do": "",
   "dont": "",
-  "tags": ["food", "bowl", "box", "meal"],
-  "category": ["places"],
+  "tags": [
+    "food",
+    "bowl",
+    "box",
+    "meal"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

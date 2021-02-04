@@ -2,8 +2,18 @@
   "name": "picture_in_picture_alt",
   "do": "",
   "dont": "",
-  "tags": ["overlap", "shape", "photo", "cropped", "crop", "picture"],
-  "category": ["action"],
+  "tags": [
+    "overlap",
+    "shape",
+    "photo",
+    "cropped",
+    "crop",
+    "picture"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "photo_filter",
   "do": "",
   "dont": "",
-  "tags": ["photography", "image", "edit", "custom"],
-  "category": ["image"],
+  "tags": [
+    "photography",
+    "image",
+    "edit",
+    "custom"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

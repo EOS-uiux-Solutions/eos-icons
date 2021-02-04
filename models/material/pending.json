@@ -2,8 +2,18 @@
   "name": "pending",
   "do": "",
   "dont": "",
-  "tags": ["waiting", "paused", "awaiting", "dots", "loading", "charging"],
-  "category": ["action"],
+  "tags": [
+    "waiting",
+    "paused",
+    "awaiting",
+    "dots",
+    "loading",
+    "charging"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

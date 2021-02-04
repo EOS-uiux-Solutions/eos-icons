@@ -2,8 +2,14 @@
   "name": "not_started",
   "do": "",
   "dont": "",
-  "tags": ["paused", "stopped"],
-  "category": ["action"],
+  "tags": [
+    "paused",
+    "stopped"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

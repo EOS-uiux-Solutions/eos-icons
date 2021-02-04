@@ -2,8 +2,13 @@
   "name": "elevator",
   "do": "",
   "dont": "",
-  "tags": ["lift"],
-  "category": ["places"],
+  "tags": [
+    "lift"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,18 @@
   "name": "radio_button_unchecked",
   "do": "",
   "dont": "",
-  "tags": ["unconfirmed", "unselected", "unmarked", "clean", "option", "blank"],
-  "category": ["toggle"],
+  "tags": [
+    "unconfirmed",
+    "unselected",
+    "unmarked",
+    "clean",
+    "option",
+    "blank"
+  ],
+  "category": [
+    "toggle"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

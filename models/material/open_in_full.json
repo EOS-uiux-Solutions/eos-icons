@@ -2,8 +2,15 @@
   "name": "open_in_full",
   "do": "",
   "dont": "",
-  "tags": ["full screen", "full size", "resize"],
-  "category": ["action"],
+  "tags": [
+    "full screen",
+    "full size",
+    "resize"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

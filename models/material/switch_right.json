@@ -2,8 +2,16 @@
   "name": "switch_right",
   "do": "",
   "dont": "",
-  "tags": ["control", "setting", "arrow", "shuffle"],
-  "category": ["navigation"],
+  "tags": [
+    "control",
+    "setting",
+    "arrow",
+    "shuffle"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,14 @@
   "name": "assistant",
   "do": "",
   "dont": "",
-  "tags": ["aide", "help"],
-  "category": ["roles"],
+  "tags": [
+    "aide",
+    "help"
+  ],
+  "category": [
+    "roles"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

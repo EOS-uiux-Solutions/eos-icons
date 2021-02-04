@@ -2,8 +2,19 @@
   "name": "wb_sunny",
   "do": "",
   "dont": "",
-  "tags": ["sun", "weather", "summer", "filter", "camera", "setting", "photo"],
-  "category": ["image"],
+  "tags": [
+    "sun",
+    "weather",
+    "summer",
+    "filter",
+    "camera",
+    "setting",
+    "photo"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

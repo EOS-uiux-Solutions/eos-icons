@@ -2,8 +2,16 @@
   "name": "pest_control",
   "do": "",
   "dont": "",
-  "tags": ["menace", "animals", "bugs", "manage"],
-  "category": ["maps"],
+  "tags": [
+    "menace",
+    "animals",
+    "bugs",
+    "manage"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "vertical_distribute",
   "do": "",
   "dont": "",
-  "tags": ["disperse", "partition", "allot", "scatter"],
-  "category": ["editor"],
+  "tags": [
+    "disperse",
+    "partition",
+    "allot",
+    "scatter"
+  ],
+  "category": [
+    "editor"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

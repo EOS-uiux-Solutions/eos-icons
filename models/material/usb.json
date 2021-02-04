@@ -2,8 +2,17 @@
   "name": "usb",
   "do": "",
   "dont": "",
-  "tags": ["wire", "usb", "connection", "cable", "device"],
-  "category": ["device"],
+  "tags": [
+    "wire",
+    "usb",
+    "connection",
+    "cable",
+    "device"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

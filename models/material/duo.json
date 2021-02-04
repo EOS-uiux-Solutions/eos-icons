@@ -2,8 +2,18 @@
   "name": "duo",
   "do": "",
   "dont": "",
-  "tags": ["Duo", "call", "chat", "conference", "device", "video"],
-  "category": ["communication"],
+  "tags": [
+    "Duo",
+    "call",
+    "chat",
+    "conference",
+    "device",
+    "video"
+  ],
+  "category": [
+    "communication"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "whatshot",
   "do": "",
   "dont": "",
-  "tags": ["new", "trend", "latest", "current"],
-  "category": ["social"],
+  "tags": [
+    "new",
+    "trend",
+    "latest",
+    "current"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

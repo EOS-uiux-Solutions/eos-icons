@@ -2,8 +2,15 @@
   "name": "groups",
   "do": "",
   "dont": "",
-  "tags": ["team", "people", "users"],
-  "category": ["social"],
+  "tags": [
+    "team",
+    "people",
+    "users"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "archive",
   "do": "",
   "dont": "",
-  "tags": ["mail", "archive", "store", "inbox"],
-  "category": ["content"],
+  "tags": [
+    "mail",
+    "archive",
+    "store",
+    "inbox"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

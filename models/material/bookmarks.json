@@ -2,8 +2,17 @@
   "name": "bookmarks",
   "do": "",
   "dont": "",
-  "tags": ["bookmarks", "remember", "bookmark", "stack", "save"],
-  "category": ["action"],
+  "tags": [
+    "bookmarks",
+    "remember",
+    "bookmark",
+    "stack",
+    "save"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

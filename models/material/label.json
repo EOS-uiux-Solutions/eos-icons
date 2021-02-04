@@ -2,8 +2,17 @@
   "name": "label",
   "do": "",
   "dont": "",
-  "tags": ["indent", "sticker", "stamp", "label", "tag"],
-  "category": ["action"],
+  "tags": [
+    "indent",
+    "sticker",
+    "stamp",
+    "label",
+    "tag"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

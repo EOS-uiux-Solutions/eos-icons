@@ -2,8 +2,18 @@
   "name": "sd_card",
   "do": "",
   "dont": "",
-  "tags": ["information", "data", "memory", "usb", "drive", "storage"],
-  "category": ["notification"],
+  "tags": [
+    "information",
+    "data",
+    "memory",
+    "usb",
+    "drive",
+    "storage"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

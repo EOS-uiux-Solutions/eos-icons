@@ -2,8 +2,17 @@
   "name": "bug_report",
   "do": "",
   "dont": "",
-  "tags": ["file", "bug", "insect", "report", "animal"],
-  "category": ["action"],
+  "tags": [
+    "file",
+    "bug",
+    "insect",
+    "report",
+    "animal"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

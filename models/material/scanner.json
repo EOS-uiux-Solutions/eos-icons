@@ -2,8 +2,14 @@
   "name": "scanner",
   "do": "",
   "dont": "",
-  "tags": ["ocr", "digitalize"],
-  "category": ["hardware"],
+  "tags": [
+    "ocr",
+    "digitalize"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

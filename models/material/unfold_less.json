@@ -2,8 +2,15 @@
   "name": "unfold_less",
   "do": "",
   "dont": "",
-  "tags": ["lower", "lessen", "shrink"],
-  "category": ["navigation"],
+  "tags": [
+    "lower",
+    "lessen",
+    "shrink"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,19 @@
   "name": "upgrade",
   "do": "",
   "dont": "",
-  "tags": ["boost", "arrow", "elevate", "promote", "up", "enhance", "increase"],
-  "category": ["action"],
+  "tags": [
+    "boost",
+    "arrow",
+    "elevate",
+    "promote",
+    "up",
+    "enhance",
+    "increase"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

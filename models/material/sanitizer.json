@@ -2,8 +2,17 @@
   "name": "sanitizer",
   "do": "",
   "dont": "",
-  "tags": ["disinfect", "disinfection", "antiseptic", "sanitize", "virus"],
-  "category": ["social"],
+  "tags": [
+    "disinfect",
+    "disinfection",
+    "antiseptic",
+    "sanitize",
+    "virus"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "polymer",
   "do": "",
   "dont": "",
-  "tags": ["polymer", "logo", "emblem", "mark"],
-  "category": ["action"],
+  "tags": [
+    "polymer",
+    "logo",
+    "emblem",
+    "mark"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

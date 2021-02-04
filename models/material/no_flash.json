@@ -2,8 +2,13 @@
   "name": "no_flash",
   "do": "",
   "dont": "",
-  "tags": ["light"],
-  "category": ["places"],
+  "tags": [
+    "light"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,17 @@
   "name": "wifi",
   "do": "",
   "dont": "",
-  "tags": ["internet", "wireless", "network", "signal", "communication"],
-  "category": ["notification"],
+  "tags": [
+    "internet",
+    "wireless",
+    "network",
+    "signal",
+    "communication"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

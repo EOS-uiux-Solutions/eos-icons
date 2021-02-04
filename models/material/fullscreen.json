@@ -2,8 +2,16 @@
   "name": "fullscreen",
   "do": "",
   "dont": "",
-  "tags": ["entire", "frame", "image", "big screen"],
-  "category": ["navigation"],
+  "tags": [
+    "entire",
+    "frame",
+    "image",
+    "big screen"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

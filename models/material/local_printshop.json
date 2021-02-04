@@ -2,8 +2,17 @@
   "name": "local_printshop",
   "do": "",
   "dont": "",
-  "tags": ["composer", "pressroom", "printer", "pressroom", "ink"],
-  "category": ["maps"],
+  "tags": [
+    "composer",
+    "pressroom",
+    "printer",
+    "pressroom",
+    "ink"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

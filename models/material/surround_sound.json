@@ -2,8 +2,18 @@
   "name": "surround_sound",
   "do": "",
   "dont": "",
-  "tags": ["system", "speaker", "volumn", "Sound", "circle", "surround"],
-  "category": ["av"],
+  "tags": [
+    "system",
+    "speaker",
+    "volumn",
+    "Sound",
+    "circle",
+    "surround"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

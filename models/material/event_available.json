@@ -2,8 +2,17 @@
   "name": "event_available",
   "do": "",
   "dont": "",
-  "tags": ["calendar", "appointment", "date", "free", "vacant"],
-  "category": ["notification"],
+  "tags": [
+    "calendar",
+    "appointment",
+    "date",
+    "free",
+    "vacant"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

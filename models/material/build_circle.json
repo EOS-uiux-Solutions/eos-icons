@@ -2,8 +2,15 @@
   "name": "build_circle",
   "do": "",
   "dont": "",
-  "tags": ["wrench", "settings", "configure"],
-  "category": ["action"],
+  "tags": [
+    "wrench",
+    "settings",
+    "configure"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

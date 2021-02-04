@@ -2,8 +2,19 @@
   "name": "forward",
   "do": "",
   "dont": "",
-  "tags": ["mail", "arrow", "forward", "playback", "right", "message", "sent"],
-  "category": ["content"],
+  "tags": [
+    "mail",
+    "arrow",
+    "forward",
+    "playback",
+    "right",
+    "message",
+    "sent"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "mobile_friendly",
   "do": "",
   "dont": "",
-  "tags": ["check", "device", "friendly", "mobile"],
-  "category": ["device"],
+  "tags": [
+    "check",
+    "device",
+    "friendly",
+    "mobile"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

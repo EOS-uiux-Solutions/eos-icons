@@ -2,8 +2,18 @@
   "name": "gesture",
   "do": "",
   "dont": "",
-  "tags": ["finger", "motion", "Gesture", "drawing", "gestures", "hand"],
-  "category": ["content"],
+  "tags": [
+    "finger",
+    "motion",
+    "Gesture",
+    "drawing",
+    "gestures",
+    "hand"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

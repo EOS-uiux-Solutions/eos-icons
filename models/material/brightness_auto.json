@@ -12,7 +12,10 @@
     "monitor",
     "sun"
   ],
-  "category": ["device"],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

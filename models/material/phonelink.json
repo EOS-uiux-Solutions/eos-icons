@@ -2,8 +2,14 @@
   "name": "phonelink",
   "do": "",
   "dont": "",
-  "tags": ["phone", "link"],
-  "category": ["hardware"],
+  "tags": [
+    "phone",
+    "link"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

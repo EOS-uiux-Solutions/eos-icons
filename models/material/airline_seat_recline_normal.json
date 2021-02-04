@@ -2,8 +2,15 @@
   "name": "airline_seat_recline_normal",
   "do": "",
   "dont": "",
-  "tags": ["plane", "airplane", "chair"],
-  "category": ["notification"],
+  "tags": [
+    "plane",
+    "airplane",
+    "chair"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

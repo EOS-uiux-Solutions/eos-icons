@@ -2,8 +2,17 @@
   "name": "foundation",
   "do": "",
   "dont": "",
-  "tags": ["structure", "understructure", "basis", "base", "premise"],
-  "category": ["places"],
+  "tags": [
+    "structure",
+    "understructure",
+    "basis",
+    "base",
+    "premise"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

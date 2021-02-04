@@ -2,8 +2,17 @@
   "name": "attachment",
   "do": "",
   "dont": "",
-  "tags": ["link", "stapler", "add", "clip", "link"],
-  "category": ["file"],
+  "tags": [
+    "link",
+    "stapler",
+    "add",
+    "clip",
+    "link"
+  ],
+  "category": [
+    "file"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

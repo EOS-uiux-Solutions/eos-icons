@@ -2,8 +2,17 @@
   "name": "arrow_forward",
   "do": "",
   "dont": "",
-  "tags": ["direction", "right", "indicator", "ahead", "onward"],
-  "category": ["navigation"],
+  "tags": [
+    "direction",
+    "right",
+    "indicator",
+    "ahead",
+    "onward"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

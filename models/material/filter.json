@@ -2,8 +2,18 @@
   "name": "filter",
   "do": "",
   "dont": "",
-  "tags": ["filter", "images", "mountain", "photo", "collection", "media"],
-  "category": ["image"],
+  "tags": [
+    "filter",
+    "images",
+    "mountain",
+    "photo",
+    "collection",
+    "media"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

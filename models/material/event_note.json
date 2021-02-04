@@ -2,8 +2,17 @@
   "name": "event_note",
   "do": "",
   "dont": "",
-  "tags": ["calendar", "appointment", "date", "notice", "observation"],
-  "category": ["notification"],
+  "tags": [
+    "calendar",
+    "appointment",
+    "date",
+    "notice",
+    "observation"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

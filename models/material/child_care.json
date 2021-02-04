@@ -2,8 +2,16 @@
   "name": "child_care",
   "do": "",
   "dont": "",
-  "tags": ["children", "baby", "face", "babysit"],
-  "category": ["places"],
+  "tags": [
+    "children",
+    "baby",
+    "face",
+    "babysit"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

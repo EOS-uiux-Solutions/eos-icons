@@ -2,8 +2,17 @@
   "name": "backpack",
   "do": "",
   "dont": "",
-  "tags": ["rucksack", "knapsack", "pack", "bag", "hike"],
-  "category": ["places"],
+  "tags": [
+    "rucksack",
+    "knapsack",
+    "pack",
+    "bag",
+    "hike"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

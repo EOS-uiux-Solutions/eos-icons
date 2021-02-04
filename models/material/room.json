@@ -2,8 +2,19 @@
   "name": "room",
   "do": "",
   "dont": "",
-  "tags": ["pin", "marker", "spot", "place", "map", "mark", "room"],
-  "category": ["action"],
+  "tags": [
+    "pin",
+    "marker",
+    "spot",
+    "place",
+    "map",
+    "mark",
+    "room"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

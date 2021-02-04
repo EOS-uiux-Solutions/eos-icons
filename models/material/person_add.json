@@ -2,8 +2,16 @@
   "name": "person_add",
   "do": "",
   "dont": "",
-  "tags": ["user", "avatar", "person", "profile"],
-  "category": ["roles"],
+  "tags": [
+    "user",
+    "avatar",
+    "person",
+    "profile"
+  ],
+  "category": [
+    "roles"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

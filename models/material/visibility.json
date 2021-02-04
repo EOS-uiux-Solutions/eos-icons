@@ -2,8 +2,19 @@
   "name": "visibility",
   "do": "",
   "dont": "",
-  "tags": ["eye", "see", "view", "reveal", "show", "visability", "on"],
-  "category": ["action"],
+  "tags": [
+    "eye",
+    "see",
+    "view",
+    "reveal",
+    "show",
+    "visability",
+    "on"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

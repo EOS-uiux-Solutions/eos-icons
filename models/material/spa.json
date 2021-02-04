@@ -2,8 +2,16 @@
   "name": "spa",
   "do": "",
   "dont": "",
-  "tags": ["health", "lotus", "flower", "Nymphaea nelumbo"],
-  "category": ["places"],
+  "tags": [
+    "health",
+    "lotus",
+    "flower",
+    "Nymphaea nelumbo"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

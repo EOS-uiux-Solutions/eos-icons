@@ -2,8 +2,14 @@
   "name": "system_update",
   "do": "",
   "dont": "",
-  "tags": ["refresh", "sync"],
-  "category": ["action"],
+  "tags": [
+    "refresh",
+    "sync"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -11,7 +11,10 @@
     "worker",
     "steam fitter"
   ],
-  "category": ["maps"],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

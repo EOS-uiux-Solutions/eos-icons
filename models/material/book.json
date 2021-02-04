@@ -2,8 +2,16 @@
   "name": "book",
   "do": "",
   "dont": "",
-  "tags": ["bookmark", "read", "book", "reading"],
-  "category": ["action"],
+  "tags": [
+    "bookmark",
+    "read",
+    "book",
+    "reading"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,18 @@
   "name": "view_column",
   "do": "",
   "dont": "",
-  "tags": ["view", "website", "grid", "column", "format", "vertical"],
-  "category": ["action"],
+  "tags": [
+    "view",
+    "website",
+    "grid",
+    "column",
+    "format",
+    "vertical"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

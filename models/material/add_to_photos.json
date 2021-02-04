@@ -2,8 +2,18 @@
   "name": "add_to_photos",
   "do": "",
   "dont": "",
-  "tags": ["image", "picture", "snapshot", "add", "photo", "photography"],
-  "category": ["image"],
+  "tags": [
+    "image",
+    "picture",
+    "snapshot",
+    "add",
+    "photo",
+    "photography"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

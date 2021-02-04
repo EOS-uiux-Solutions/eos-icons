@@ -2,8 +2,19 @@
   "name": "stars",
   "do": "",
   "dont": "",
-  "tags": ["love", "star", "like", "rate", "rating", "circle", "favorite"],
-  "category": ["action"],
+  "tags": [
+    "love",
+    "star",
+    "like",
+    "rate",
+    "rating",
+    "circle",
+    "favorite"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

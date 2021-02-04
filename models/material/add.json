@@ -2,8 +2,17 @@
   "name": "add",
   "do": "",
   "dont": "",
-  "tags": ["add", "new", "create", "+", "plus"],
-  "category": ["content"],
+  "tags": [
+    "add",
+    "new",
+    "create",
+    "+",
+    "plus"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

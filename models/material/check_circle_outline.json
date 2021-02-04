@@ -2,8 +2,18 @@
   "name": "check_circle_outline",
   "do": "",
   "dont": "",
-  "tags": ["check", "circle", "complete", "done", "finished", "outline"],
-  "category": ["action"],
+  "tags": [
+    "check",
+    "circle",
+    "complete",
+    "done",
+    "finished",
+    "outline"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,16 @@
   "name": "video_label",
   "do": "",
   "dont": "",
-  "tags": ["Video", "screen", "label", "device"],
-  "category": ["av"],
+  "tags": [
+    "Video",
+    "screen",
+    "label",
+    "device"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,17 @@
   "name": "fact_check",
   "do": "",
   "dont": "",
-  "tags": ["list", "verify", "inspect", "scrutinize", "survey"],
-  "category": ["action"],
+  "tags": [
+    "list",
+    "verify",
+    "inspect",
+    "scrutinize",
+    "survey"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

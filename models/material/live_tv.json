@@ -2,8 +2,17 @@
   "name": "live_tv",
   "do": "",
   "dont": "",
-  "tags": ["telly", "video", "television", "screen", "real time"],
-  "category": ["notification"],
+  "tags": [
+    "telly",
+    "video",
+    "television",
+    "screen",
+    "real time"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

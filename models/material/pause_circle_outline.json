@@ -2,8 +2,17 @@
   "name": "pause_circle_outline",
   "do": "",
   "dont": "",
-  "tags": ["Pause", "controls", "music", "control", "video"],
-  "category": ["av"],
+  "tags": [
+    "Pause",
+    "controls",
+    "music",
+    "control",
+    "video"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

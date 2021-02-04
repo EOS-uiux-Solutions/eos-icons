@@ -12,7 +12,10 @@
     "omit",
     "remove"
   ],
-  "category": ["file"],
+  "category": [
+    "file"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

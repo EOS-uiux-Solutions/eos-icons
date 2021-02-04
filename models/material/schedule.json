@@ -2,8 +2,19 @@
   "name": "schedule",
   "do": "",
   "dont": "",
-  "tags": ["calendar", "date", "schedule", "save", "clock", "time", "mark"],
-  "category": ["action"],
+  "tags": [
+    "calendar",
+    "date",
+    "schedule",
+    "save",
+    "clock",
+    "time",
+    "mark"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -13,7 +13,10 @@
     "mark",
     "triangle"
   ],
-  "category": ["alert"],
+  "category": [
+    "alert"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

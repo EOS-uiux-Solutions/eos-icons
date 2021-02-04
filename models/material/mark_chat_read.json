@@ -2,8 +2,15 @@
   "name": "mark_chat_read",
   "do": "",
   "dont": "",
-  "tags": ["chat", "conversation", "on"],
-  "category": ["communication"],
+  "tags": [
+    "chat",
+    "conversation",
+    "on"
+  ],
+  "category": [
+    "communication"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

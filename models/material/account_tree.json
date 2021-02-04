@@ -2,8 +2,18 @@
   "name": "account_tree",
   "do": "",
   "dont": "",
-  "tags": ["account", "connect", "process", "square", "structure", "tree"],
-  "category": ["notification"],
+  "tags": [
+    "account",
+    "connect",
+    "process",
+    "square",
+    "structure",
+    "tree"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

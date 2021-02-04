@@ -2,8 +2,14 @@
   "name": "videogame_asset",
   "do": "",
   "dont": "",
-  "tags": ["device", "game"],
-  "category": ["hardware"],
+  "tags": [
+    "device",
+    "game"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

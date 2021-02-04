@@ -2,8 +2,14 @@
   "name": "file_upload",
   "do": "",
   "dont": "",
-  "tags": ["store", "load"],
-  "category": ["content"],
+  "tags": [
+    "store",
+    "load"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

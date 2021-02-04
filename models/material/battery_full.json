@@ -2,8 +2,18 @@
   "name": "battery_full",
   "do": "",
   "dont": "",
-  "tags": ["charge", "Battery", "mobile", "power", "cell", "full"],
-  "category": ["device"],
+  "tags": [
+    "charge",
+    "Battery",
+    "mobile",
+    "power",
+    "cell",
+    "full"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

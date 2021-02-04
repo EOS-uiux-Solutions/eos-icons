@@ -2,8 +2,17 @@
   "name": "stroller",
   "do": "",
   "dont": "",
-  "tags": ["baby", "care", "kid", "pushchair", "child"],
-  "category": ["places"],
+  "tags": [
+    "baby",
+    "care",
+    "kid",
+    "pushchair",
+    "child"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

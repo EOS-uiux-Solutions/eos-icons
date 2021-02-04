@@ -2,8 +2,15 @@
   "name": "north_east",
   "do": "",
   "dont": "",
-  "tags": ["diagonal", "corner", "up right"],
-  "category": ["navigation"],
+  "tags": [
+    "diagonal",
+    "corner",
+    "up right"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -87,7 +87,7 @@ const createNewModel = async ({ ModelsMissingSVGs }) => {
 
       await inputForModel().then(async (response) => {
         const today = new Date().toLocaleDateString()
-        const iconModel = [{ name: ModelsMissingSVGs[i], date: today, label: 'EOS', ...response }].reduce(
+        const iconModel = [{ name: ModelsMissingSVGs[i], ...response }].reduce(
           (acc, cur) => {
             const arrayOftags = cur.tags
               .split(',')
@@ -98,7 +98,9 @@ const createNewModel = async ({ ModelsMissingSVGs }) => {
               ...cur,
               do: `<ul><li>${[cur.do]}</li></ul>`,
               dont: `<ul><li>${[cur.dont]}</li></ul>`,
-              tags: [...arrayOftags]
+              tags: [...arrayOftags],
+              date: today, 
+              label: 'EOS'
             }
 
             return acc

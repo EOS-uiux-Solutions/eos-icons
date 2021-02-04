@@ -2,8 +2,17 @@
   "name": "compare_arrows",
   "do": "",
   "dont": "",
-  "tags": ["compare", "arrow", "arrows", "facing", "pointing"],
-  "category": ["action"],
+  "tags": [
+    "compare",
+    "arrow",
+    "arrows",
+    "facing",
+    "pointing"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

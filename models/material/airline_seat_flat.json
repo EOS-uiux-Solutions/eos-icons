@@ -2,8 +2,17 @@
   "name": "airline_seat_flat",
   "do": "",
   "dont": "",
-  "tags": ["plane", "airplane", "horizontal", "bed", "sleep"],
-  "category": ["notification"],
+  "tags": [
+    "plane",
+    "airplane",
+    "horizontal",
+    "bed",
+    "sleep"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

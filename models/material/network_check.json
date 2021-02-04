@@ -2,8 +2,16 @@
   "name": "network_check",
   "do": "",
   "dont": "",
-  "tags": ["speed test", "speedcheck", "odometer", "odograph"],
-  "category": ["notification"],
+  "tags": [
+    "speed test",
+    "speedcheck",
+    "odometer",
+    "odograph"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

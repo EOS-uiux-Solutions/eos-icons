@@ -2,8 +2,15 @@
   "name": "sync",
   "do": "",
   "dont": "",
-  "tags": ["refresh", "reload", "update"],
-  "category": ["notification"],
+  "tags": [
+    "refresh",
+    "reload",
+    "update"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

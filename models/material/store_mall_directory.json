@@ -2,8 +2,19 @@
   "name": "store_mall_directory",
   "do": "",
   "dont": "",
-  "tags": ["shop", "mall", "front", "place", "store", "directory", "shopping"],
-  "category": ["maps"],
+  "tags": [
+    "shop",
+    "mall",
+    "front",
+    "place",
+    "store",
+    "directory",
+    "shopping"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }
