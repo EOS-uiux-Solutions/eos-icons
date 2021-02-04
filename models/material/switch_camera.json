@@ -2,8 +2,17 @@
   "name": "switch_camera",
   "do": "",
   "dont": "",
-  "tags": ["camera", "setting", "image", "photo", "photography"],
-  "category": ["image"],
+  "tags": [
+    "camera",
+    "setting",
+    "image",
+    "photo",
+    "photography"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

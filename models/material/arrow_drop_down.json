@@ -2,8 +2,16 @@
   "name": "arrow_drop_down",
   "do": "",
   "dont": "",
-  "tags": ["direction", "down", "downward", "caret"],
-  "category": ["navigation"],
+  "tags": [
+    "direction",
+    "down",
+    "downward",
+    "caret"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,19 @@
   "name": "turned_in_not",
   "do": "",
   "dont": "",
-  "tags": ["remember", "bookmark", "not", "outline", "turned", "in", "save"],
-  "category": ["action"],
+  "tags": [
+    "remember",
+    "bookmark",
+    "not",
+    "outline",
+    "turned",
+    "in",
+    "save"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

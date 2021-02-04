@@ -2,8 +2,16 @@
   "name": "phone_android",
   "do": "",
   "dont": "",
-  "tags": ["google", "smarthphone", "telephone", "mobile"],
-  "category": ["hardware"],
+  "tags": [
+    "google",
+    "smarthphone",
+    "telephone",
+    "mobile"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

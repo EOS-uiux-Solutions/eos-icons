@@ -2,8 +2,16 @@
   "name": "wallpaper",
   "do": "",
   "dont": "",
-  "tags": ["image", "wallpaper", "background", "landscape"],
-  "category": ["device"],
+  "tags": [
+    "image",
+    "wallpaper",
+    "background",
+    "landscape"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

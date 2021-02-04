@@ -2,8 +2,18 @@
   "name": "view_headline",
   "do": "",
   "dont": "",
-  "tags": ["paragraph", "view", "website", "format", "text", "headline"],
-  "category": ["action"],
+  "tags": [
+    "paragraph",
+    "view",
+    "website",
+    "format",
+    "text",
+    "headline"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

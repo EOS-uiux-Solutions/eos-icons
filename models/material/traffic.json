@@ -2,8 +2,18 @@
   "name": "traffic",
   "do": "",
   "dont": "",
-  "tags": ["light", "street", "map", "signal", "direction", "traffic"],
-  "category": ["maps"],
+  "tags": [
+    "light",
+    "street",
+    "map",
+    "signal",
+    "direction",
+    "traffic"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

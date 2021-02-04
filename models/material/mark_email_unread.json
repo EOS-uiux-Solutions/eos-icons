@@ -2,8 +2,15 @@
   "name": "mark_email_unread",
   "do": "",
   "dont": "",
-  "tags": ["message", "not seen", "unseen"],
-  "category": ["communication"],
+  "tags": [
+    "message",
+    "not seen",
+    "unseen"
+  ],
+  "category": [
+    "communication"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

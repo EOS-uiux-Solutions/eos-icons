@@ -2,8 +2,16 @@
   "name": "edit",
   "do": "",
   "dont": "",
-  "tags": ["pen", "change", "modify", "publish"],
-  "category": ["image"],
+  "tags": [
+    "pen",
+    "change",
+    "modify",
+    "publish"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

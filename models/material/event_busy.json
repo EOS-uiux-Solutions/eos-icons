@@ -2,8 +2,17 @@
   "name": "event_busy",
   "do": "",
   "dont": "",
-  "tags": ["calendar", "appointment", "date", "unavailable", "occupied"],
-  "category": ["notification"],
+  "tags": [
+    "calendar",
+    "appointment",
+    "date",
+    "unavailable",
+    "occupied"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

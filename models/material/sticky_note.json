@@ -2,8 +2,15 @@
   "name": "sticky_note",
   "do": "",
   "dont": "",
-  "tags": ["paper", "post", "reminder"],
-  "category": ["action"],
+  "tags": [
+    "paper",
+    "post",
+    "reminder"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

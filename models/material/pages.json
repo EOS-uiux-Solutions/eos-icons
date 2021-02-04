@@ -2,8 +2,15 @@
   "name": "pages",
   "do": "",
   "dont": "",
-  "tags": ["documents", "files", "document"],
-  "category": ["social"],
+  "tags": [
+    "documents",
+    "files",
+    "document"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

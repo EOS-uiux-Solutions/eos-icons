@@ -2,8 +2,19 @@
   "name": "query_builder",
   "do": "",
   "dont": "",
-  "tags": ["hour", "query", "builder", "save", "clock", "time", "minute"],
-  "category": ["action"],
+  "tags": [
+    "hour",
+    "query",
+    "builder",
+    "save",
+    "clock",
+    "time",
+    "minute"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

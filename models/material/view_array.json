@@ -2,8 +2,16 @@
   "name": "view_array",
   "do": "",
   "dont": "",
-  "tags": ["view", "website", "array", "format"],
-  "category": ["action"],
+  "tags": [
+    "view",
+    "website",
+    "array",
+    "format"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

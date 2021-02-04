@@ -2,8 +2,16 @@
   "name": "backup_table",
   "do": "",
   "dont": "",
-  "tags": ["backup", "cloud", "stack", "table"],
-  "category": ["action"],
+  "tags": [
+    "backup",
+    "cloud",
+    "stack",
+    "table"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

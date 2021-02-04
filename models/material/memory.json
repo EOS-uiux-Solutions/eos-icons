@@ -2,8 +2,16 @@
   "name": "memory",
   "do": "",
   "dont": "",
-  "tags": ["ram", "chip", "rom", "hard drive"],
-  "category": ["hardware"],
+  "tags": [
+    "ram",
+    "chip",
+    "rom",
+    "hard drive"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

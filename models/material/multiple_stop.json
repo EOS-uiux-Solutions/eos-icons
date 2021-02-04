@@ -2,8 +2,14 @@
   "name": "multiple_stop",
   "do": "",
   "dont": "",
-  "tags": ["various", "halt"],
-  "category": ["maps"],
+  "tags": [
+    "various",
+    "halt"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

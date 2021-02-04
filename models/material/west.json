@@ -2,8 +2,14 @@
   "name": "west",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "left"],
-  "category": ["navigation"],
+  "tags": [
+    "arrow",
+    "left"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

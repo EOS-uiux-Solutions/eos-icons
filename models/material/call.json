@@ -2,8 +2,17 @@
   "name": "call",
   "do": "",
   "dont": "",
-  "tags": ["Call", "phone", "mobile", "talk", "device"],
-  "category": ["communication"],
+  "tags": [
+    "Call",
+    "phone",
+    "mobile",
+    "talk",
+    "device"
+  ],
+  "category": [
+    "communication"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

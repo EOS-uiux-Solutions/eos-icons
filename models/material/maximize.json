@@ -2,8 +2,15 @@
   "name": "maximize",
   "do": "",
   "dont": "",
-  "tags": ["line", "maximize", "shape"],
-  "category": ["action"],
+  "tags": [
+    "line",
+    "maximize",
+    "shape"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

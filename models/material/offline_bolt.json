@@ -2,8 +2,19 @@
   "name": "offline_bolt",
   "do": "",
   "dont": "",
-  "tags": ["bolt", "circle", "flash", "lightning", "spark", "ray", "electric"],
-  "category": ["action"],
+  "tags": [
+    "bolt",
+    "circle",
+    "flash",
+    "lightning",
+    "spark",
+    "ray",
+    "electric"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

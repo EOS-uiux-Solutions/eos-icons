@@ -2,8 +2,16 @@
   "name": "arrow_circle_up",
   "do": "",
   "dont": "",
-  "tags": ["direction", "up", "right", "arrows"],
-  "category": ["action"],
+  "tags": [
+    "direction",
+    "up",
+    "right",
+    "arrows"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

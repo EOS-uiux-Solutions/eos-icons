@@ -2,8 +2,19 @@
   "name": "volume_down",
   "do": "",
   "dont": "",
-  "tags": ["tv", "music", "Volume", "sound", "control", "audio", "down"],
-  "category": ["av"],
+  "tags": [
+    "tv",
+    "music",
+    "Volume",
+    "sound",
+    "control",
+    "audio",
+    "down"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

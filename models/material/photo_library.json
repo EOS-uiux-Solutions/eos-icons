@@ -2,8 +2,15 @@
   "name": "photo_library",
   "do": "",
   "dont": "",
-  "tags": ["photography", "image", "collection"],
-  "category": ["image"],
+  "tags": [
+    "photography",
+    "image",
+    "collection"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

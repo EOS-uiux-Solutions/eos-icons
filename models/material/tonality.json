@@ -2,8 +2,17 @@
   "name": "tonality",
   "do": "",
   "dont": "",
-  "tags": ["tool", "tone", "setting", "design", "graphic"],
-  "category": ["image"],
+  "tags": [
+    "tool",
+    "tone",
+    "setting",
+    "design",
+    "graphic"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

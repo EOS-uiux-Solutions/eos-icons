@@ -2,8 +2,18 @@
   "name": "privacy_tip",
   "do": "",
   "dont": "",
-  "tags": ["clue", "suggest", "caution", "advise", "warn", "hint"],
-  "category": ["action"],
+  "tags": [
+    "clue",
+    "suggest",
+    "caution",
+    "advise",
+    "warn",
+    "hint"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

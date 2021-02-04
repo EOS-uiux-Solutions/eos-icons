@@ -2,8 +2,16 @@
   "name": "clean_hands",
   "do": "",
   "dont": "",
-  "tags": ["sanitizer", "cleaner", "soap", "wash hands"],
-  "category": ["social"],
+  "tags": [
+    "sanitizer",
+    "cleaner",
+    "soap",
+    "wash hands"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

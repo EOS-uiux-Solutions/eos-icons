@@ -2,8 +2,16 @@
   "name": "delete_sweep",
   "do": "",
   "dont": "",
-  "tags": ["can", "delete", "remove", "trash"],
-  "category": ["content"],
+  "tags": [
+    "can",
+    "delete",
+    "remove",
+    "trash"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

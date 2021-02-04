@@ -2,8 +2,16 @@
   "name": "time_to_leave",
   "do": "",
   "dont": "",
-  "tags": ["timer", "alarm", "schedule", "exit"],
-  "category": ["notification"],
+  "tags": [
+    "timer",
+    "alarm",
+    "schedule",
+    "exit"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

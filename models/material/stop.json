@@ -2,8 +2,19 @@
   "name": "stop",
   "do": "",
   "dont": "",
-  "tags": ["play", "controls", "music", "vide", "Stop", "arrow", "control"],
-  "category": ["av"],
+  "tags": [
+    "play",
+    "controls",
+    "music",
+    "vide",
+    "Stop",
+    "arrow",
+    "control"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

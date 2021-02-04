@@ -2,8 +2,17 @@
   "name": "swap_horiz",
   "do": "",
   "dont": "",
-  "tags": ["horizontal", "arrow", "arrows", "back", "direction"],
-  "category": ["action"],
+  "tags": [
+    "horizontal",
+    "arrow",
+    "arrows",
+    "back",
+    "direction"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

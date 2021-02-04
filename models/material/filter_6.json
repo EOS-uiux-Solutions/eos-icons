@@ -2,8 +2,17 @@
   "name": "filter_6",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "image", "edit", "six"],
-  "category": ["image"],
+  "tags": [
+    "photography",
+    "photo",
+    "image",
+    "edit",
+    "six"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

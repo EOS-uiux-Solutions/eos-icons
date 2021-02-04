@@ -2,8 +2,16 @@
   "name": "tv",
   "do": "",
   "dont": "",
-  "tags": ["television", "watch", "tube", "screen"],
-  "category": ["device"],
+  "tags": [
+    "television",
+    "watch",
+    "tube",
+    "screen"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

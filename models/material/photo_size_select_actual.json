@@ -2,8 +2,17 @@
   "name": "photo_size_select_actual",
   "do": "",
   "dont": "",
-  "tags": ["photography", "image", "custom", "resize", "edit"],
-  "category": ["image"],
+  "tags": [
+    "photography",
+    "image",
+    "custom",
+    "resize",
+    "edit"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

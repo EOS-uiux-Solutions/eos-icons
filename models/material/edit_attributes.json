@@ -2,8 +2,16 @@
   "name": "edit_attributes",
   "do": "",
   "dont": "",
-  "tags": ["attribution", "check", "edit", "change"],
-  "category": ["maps"],
+  "tags": [
+    "attribution",
+    "check",
+    "edit",
+    "change"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

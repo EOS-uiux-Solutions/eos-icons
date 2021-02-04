@@ -2,8 +2,16 @@
   "name": "local_florist",
   "do": "",
   "dont": "",
-  "tags": ["shop", "florist", "local", "flower"],
-  "category": ["maps"],
+  "tags": [
+    "shop",
+    "florist",
+    "local",
+    "flower"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

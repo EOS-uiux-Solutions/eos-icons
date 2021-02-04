@@ -2,8 +2,15 @@
   "name": "indeterminate_check_box",
   "do": "",
   "dont": "",
-  "tags": ["undetermined", "undefined", "unspecified"],
-  "category": ["toggle"],
+  "tags": [
+    "undetermined",
+    "undefined",
+    "unspecified"
+  ],
+  "category": [
+    "toggle"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

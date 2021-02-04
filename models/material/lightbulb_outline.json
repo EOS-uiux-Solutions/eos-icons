@@ -2,8 +2,14 @@
   "name": "lightbulb_outline",
   "do": "",
   "dont": "",
-  "tags": ["light", "idea"],
-  "category": ["hardware"],
+  "tags": [
+    "light",
+    "idea"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

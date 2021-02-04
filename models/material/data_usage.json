@@ -2,8 +2,17 @@
   "name": "data_usage",
   "do": "",
   "dont": "",
-  "tags": ["data", "management", "results", "reports", "usage"],
-  "category": ["device"],
+  "tags": [
+    "data",
+    "management",
+    "results",
+    "reports",
+    "usage"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

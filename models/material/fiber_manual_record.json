@@ -2,8 +2,19 @@
   "name": "fiber_manual_record",
   "do": "",
   "dont": "",
-  "tags": ["play", "watch", "Fiber", "record", "dot", "circle", "manual"],
-  "category": ["av"],
+  "tags": [
+    "play",
+    "watch",
+    "Fiber",
+    "record",
+    "dot",
+    "circle",
+    "manual"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,13 @@
   "name": "close_fullscreen",
   "do": "",
   "dont": "",
-  "tags": ["minimize"],
-  "category": ["action"],
+  "tags": [
+    "minimize"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

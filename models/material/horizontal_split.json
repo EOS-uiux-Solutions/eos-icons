@@ -2,8 +2,16 @@
   "name": "horizontal_split",
   "do": "",
   "dont": "",
-  "tags": ["bars", "horizontal", "split", "stacked"],
-  "category": ["action"],
+  "tags": [
+    "bars",
+    "horizontal",
+    "split",
+    "stacked"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

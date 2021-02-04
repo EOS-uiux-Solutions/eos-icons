@@ -2,8 +2,18 @@
   "name": "cake",
   "do": "",
   "dont": "",
-  "tags": ["dessert", "food", "sweet", "birthday", "party", "celebration"],
-  "category": ["social"],
+  "tags": [
+    "dessert",
+    "food",
+    "sweet",
+    "birthday",
+    "party",
+    "celebration"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

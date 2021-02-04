@@ -2,8 +2,17 @@
   "name": "list",
   "do": "",
   "dont": "",
-  "tags": ["file", "format", "index", "list", "menu"],
-  "category": ["action"],
+  "tags": [
+    "file",
+    "format",
+    "index",
+    "list",
+    "menu"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

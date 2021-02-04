@@ -12,7 +12,10 @@
     "online",
     "connection"
   ],
-  "category": ["social"],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

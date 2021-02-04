@@ -2,8 +2,18 @@
   "name": "info_outline",
   "do": "",
   "dont": "",
-  "tags": ["alert", "bubble", "i", "information", "announcement", "info"],
-  "category": ["action"],
+  "tags": [
+    "alert",
+    "bubble",
+    "i",
+    "information",
+    "announcement",
+    "info"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

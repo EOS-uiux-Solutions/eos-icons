@@ -2,8 +2,16 @@
   "name": "location_city",
   "do": "",
   "dont": "",
-  "tags": ["map", "location", "navigation", "places"],
-  "category": ["social"],
+  "tags": [
+    "map",
+    "location",
+    "navigation",
+    "places"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

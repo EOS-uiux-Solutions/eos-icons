@@ -2,8 +2,16 @@
   "name": "voice_chat",
   "do": "",
   "dont": "",
-  "tags": ["message", "communication", "talk", "conversation"],
-  "category": ["notification"],
+  "tags": [
+    "message",
+    "communication",
+    "talk",
+    "conversation"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

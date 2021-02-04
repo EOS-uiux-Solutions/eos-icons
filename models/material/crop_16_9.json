@@ -2,8 +2,17 @@
   "name": "crop_16_9",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "image", "cut", "reduce"],
-  "category": ["image"],
+  "tags": [
+    "photography",
+    "photo",
+    "image",
+    "cut",
+    "reduce"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

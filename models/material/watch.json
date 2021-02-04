@@ -2,8 +2,15 @@
   "name": "watch",
   "do": "",
   "dont": "",
-  "tags": ["device", "time", "clock"],
-  "category": ["hardware"],
+  "tags": [
+    "device",
+    "time",
+    "clock"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

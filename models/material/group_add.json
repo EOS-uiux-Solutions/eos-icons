@@ -2,8 +2,17 @@
   "name": "group_add",
   "do": "",
   "dont": "",
-  "tags": ["team", "people", "users", "plus", "new"],
-  "category": ["roles"],
+  "tags": [
+    "team",
+    "people",
+    "users",
+    "plus",
+    "new"
+  ],
+  "category": [
+    "roles"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -13,5 +13,7 @@
     "containers"
   ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "date": "30/11/2020",
+  "label": "EOS"
 }

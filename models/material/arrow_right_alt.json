@@ -2,8 +2,16 @@
   "name": "arrow_right_alt",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "pointing", "right", "shape"],
-  "category": ["action"],
+  "tags": [
+    "arrow",
+    "pointing",
+    "right",
+    "shape"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

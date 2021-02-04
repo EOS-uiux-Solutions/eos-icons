@@ -2,8 +2,18 @@
   "name": "loop",
   "do": "",
   "dont": "",
-  "tags": ["Loop", "rotate", "music", "arrow", "repeat", "arrows"],
-  "category": ["av"],
+  "tags": [
+    "Loop",
+    "rotate",
+    "music",
+    "arrow",
+    "repeat",
+    "arrows"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

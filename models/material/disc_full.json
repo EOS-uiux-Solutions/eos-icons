@@ -2,8 +2,16 @@
   "name": "disc_full",
   "do": "",
   "dont": "",
-  "tags": ["space", "disk", "hard drive", "storage"],
-  "category": ["hardware"],
+  "tags": [
+    "space",
+    "disk",
+    "hard drive",
+    "storage"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

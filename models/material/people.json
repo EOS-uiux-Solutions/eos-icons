@@ -2,8 +2,16 @@
   "name": "people",
   "do": "",
   "dont": "",
-  "tags": ["group", "team", "business", "users"],
-  "category": ["roles"],
+  "tags": [
+    "group",
+    "team",
+    "business",
+    "users"
+  ],
+  "category": [
+    "roles"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,18 @@
   "name": "cached",
   "do": "",
   "dont": "",
-  "tags": ["rotate", "cache", "arrow", "cached", "inprogress", "renew"],
-  "category": ["action"],
+  "tags": [
+    "rotate",
+    "cache",
+    "arrow",
+    "cached",
+    "inprogress",
+    "renew"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

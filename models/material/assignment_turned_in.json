@@ -2,8 +2,18 @@
   "name": "assignment_turned_in",
   "do": "",
   "dont": "",
-  "tags": ["assignment", "finished", "check", "complete", "clipboard", "done"],
-  "category": ["action"],
+  "tags": [
+    "assignment",
+    "finished",
+    "check",
+    "complete",
+    "clipboard",
+    "done"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

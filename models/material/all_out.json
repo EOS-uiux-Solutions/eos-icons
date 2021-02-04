@@ -2,8 +2,16 @@
   "name": "all_out",
   "do": "",
   "dont": "",
-  "tags": ["all", "shape", "circle", "out"],
-  "category": ["action"],
+  "tags": [
+    "all",
+    "shape",
+    "circle",
+    "out"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

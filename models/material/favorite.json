@@ -2,8 +2,19 @@
   "name": "favorite",
   "do": "",
   "dont": "",
-  "tags": ["love", "remember", "shape", "like", "save", "favorite", "heart"],
-  "category": ["action"],
+  "tags": [
+    "love",
+    "remember",
+    "shape",
+    "like",
+    "save",
+    "favorite",
+    "heart"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

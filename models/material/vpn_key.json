@@ -2,8 +2,19 @@
   "name": "vpn_key",
   "do": "",
   "dont": "",
-  "tags": ["password", "code", "unlock", "Vpn", "lock", "key", "passcode"],
-  "category": ["communication"],
+  "tags": [
+    "password",
+    "code",
+    "unlock",
+    "Vpn",
+    "lock",
+    "key",
+    "passcode"
+  ],
+  "category": [
+    "communication"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

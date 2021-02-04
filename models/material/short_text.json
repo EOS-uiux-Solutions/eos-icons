@@ -2,8 +2,19 @@
   "name": "short_text",
   "do": "",
   "dont": "",
-  "tags": ["brief", "note", "document", "doc", "short", "comment", "text"],
-  "category": ["editor"],
+  "tags": [
+    "brief",
+    "note",
+    "document",
+    "doc",
+    "short",
+    "comment",
+    "text"
+  ],
+  "category": [
+    "editor"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

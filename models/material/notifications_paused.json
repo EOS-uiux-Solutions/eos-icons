@@ -2,8 +2,17 @@
   "name": "notifications_paused",
   "do": "",
   "dont": "",
-  "tags": ["bell", "alert", "notification", "alarm", "ring"],
-  "category": ["social"],
+  "tags": [
+    "bell",
+    "alert",
+    "notification",
+    "alarm",
+    "ring"
+  ],
+  "category": [
+    "social"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

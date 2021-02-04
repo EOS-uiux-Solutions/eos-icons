@@ -2,8 +2,18 @@
   "name": "filter_center_focus",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "image", "centered", "focused", "alignment"],
-  "category": ["image"],
+  "tags": [
+    "photography",
+    "photo",
+    "image",
+    "centered",
+    "focused",
+    "alignment"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

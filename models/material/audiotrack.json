@@ -2,8 +2,15 @@
   "name": "audiotrack",
   "do": "",
   "dont": "",
-  "tags": ["audio", "music", "note"],
-  "category": ["image"],
+  "tags": [
+    "audio",
+    "music",
+    "note"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

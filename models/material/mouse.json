@@ -2,8 +2,14 @@
   "name": "mouse",
   "do": "",
   "dont": "",
-  "tags": ["click", "point"],
-  "category": ["hardware"],
+  "tags": [
+    "click",
+    "point"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

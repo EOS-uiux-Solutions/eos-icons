@@ -2,8 +2,20 @@
   "name": "calculate",
   "do": "",
   "dont": "",
-  "tags": ["+", "-", "=", "account", "calculate", "count", "fiance", "math"],
-  "category": ["content"],
+  "tags": [
+    "+",
+    "-",
+    "=",
+    "account",
+    "calculate",
+    "count",
+    "fiance",
+    "math"
+  ],
+  "category": [
+    "content"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

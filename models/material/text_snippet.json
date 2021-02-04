@@ -2,8 +2,14 @@
   "name": "text_snippet",
   "do": "",
   "dont": "",
-  "tags": ["shortcut", "keyboard"],
-  "category": ["file"],
+  "tags": [
+    "shortcut",
+    "keyboard"
+  ],
+  "category": [
+    "file"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,18 @@
   "name": "hourglass_disabled",
   "do": "",
   "dont": "",
-  "tags": ["off", "time", "countdown", "loading", "waiting", "minutes"],
-  "category": ["action"],
+  "tags": [
+    "off",
+    "time",
+    "countdown",
+    "loading",
+    "waiting",
+    "minutes"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

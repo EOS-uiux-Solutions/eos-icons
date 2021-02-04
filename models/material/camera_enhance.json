@@ -2,8 +2,18 @@
   "name": "camera_enhance",
   "do": "",
   "dont": "",
-  "tags": ["photo", "camera", "lens", "picture", "enhance", "quality"],
-  "category": ["action"],
+  "tags": [
+    "photo",
+    "camera",
+    "lens",
+    "picture",
+    "enhance",
+    "quality"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

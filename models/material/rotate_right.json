@@ -2,8 +2,16 @@
   "name": "rotate_right",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "direction", "next", "arrows"],
-  "category": ["image"],
+  "tags": [
+    "arrow",
+    "direction",
+    "next",
+    "arrows"
+  ],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

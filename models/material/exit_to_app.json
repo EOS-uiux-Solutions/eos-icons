@@ -2,8 +2,18 @@
   "name": "exit_to_app",
   "do": "",
   "dont": "",
-  "tags": ["exit", "arrow", "leave", "back", "pointing", "right"],
-  "category": ["action"],
+  "tags": [
+    "exit",
+    "arrow",
+    "leave",
+    "back",
+    "pointing",
+    "right"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

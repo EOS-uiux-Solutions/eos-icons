@@ -2,8 +2,18 @@
   "name": "message",
   "do": "",
   "dont": "",
-  "tags": ["Message", "bubble", "speech", "chat", "talk", "text"],
-  "category": ["communication"],
+  "tags": [
+    "Message",
+    "bubble",
+    "speech",
+    "chat",
+    "talk",
+    "text"
+  ],
+  "category": [
+    "communication"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

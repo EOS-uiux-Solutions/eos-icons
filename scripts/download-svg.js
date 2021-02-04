@@ -73,12 +73,12 @@ const createSvgModels = async (mdSvg, nameIcon) => {
   const today = new Date().toLocaleDateString()
   const newObject = {
     name: nameIcon,
-    date: today,
     do: '',
     dont: '',
     tags: mdSvg[0].tags,
     category: mdSvg[0].categories,
-    type: 'static'
+    type: 'static',
+    date: today
   }
 
   fs.writeFileSync(

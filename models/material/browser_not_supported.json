@@ -2,8 +2,13 @@
   "name": "browser_not_supported",
   "do": "",
   "dont": "",
-  "tags": ["unsupported"],
-  "category": ["hardware"],
+  "tags": [
+    "unsupported"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

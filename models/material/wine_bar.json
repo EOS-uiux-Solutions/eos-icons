@@ -2,8 +2,15 @@
   "name": "wine_bar",
   "do": "",
   "dont": "",
-  "tags": ["glass", "drink", "beverage"],
-  "category": ["maps"],
+  "tags": [
+    "glass",
+    "drink",
+    "beverage"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

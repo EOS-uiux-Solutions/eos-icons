@@ -2,8 +2,17 @@
   "name": "enhanced_encryption",
   "do": "",
   "dont": "",
-  "tags": ["decrypt", "decipher", "add", "include", "increase"],
-  "category": ["notification"],
+  "tags": [
+    "decrypt",
+    "decipher",
+    "add",
+    "include",
+    "increase"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

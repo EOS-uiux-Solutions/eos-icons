@@ -2,8 +2,16 @@
   "name": "golf_course",
   "do": "",
   "dont": "",
-  "tags": ["sport", "game", "fun", "play"],
-  "category": ["places"],
+  "tags": [
+    "sport",
+    "game",
+    "fun",
+    "play"
+  ],
+  "category": [
+    "places"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

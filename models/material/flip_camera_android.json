@@ -14,7 +14,10 @@
     "rotate",
     "turn"
   ],
-  "category": ["image"],
+  "category": [
+    "image"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

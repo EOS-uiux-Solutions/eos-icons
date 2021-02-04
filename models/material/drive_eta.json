@@ -2,8 +2,17 @@
   "name": "drive_eta",
   "do": "",
   "dont": "",
-  "tags": ["car", "estimated time of arrival", "auto", "automobile", "ride"],
-  "category": ["notification"],
+  "tags": [
+    "car",
+    "estimated time of arrival",
+    "auto",
+    "automobile",
+    "ride"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,14 @@
   "name": "outbound",
   "do": "",
   "dont": "",
-  "tags": ["outward", "arrow"],
-  "category": ["action"],
+  "tags": [
+    "outward",
+    "arrow"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

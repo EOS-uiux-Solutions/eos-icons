@@ -2,8 +2,17 @@
   "name": "stacked_line_chart",
   "do": "",
   "dont": "",
-  "tags": ["2d", "chart", "graph", "data", "analytics"],
-  "category": ["editor"],
+  "tags": [
+    "2d",
+    "chart",
+    "graph",
+    "data",
+    "analytics"
+  ],
+  "category": [
+    "editor"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

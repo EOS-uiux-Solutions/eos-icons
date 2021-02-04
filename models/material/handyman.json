@@ -2,8 +2,14 @@
   "name": "handyman",
   "do": "",
   "dont": "",
-  "tags": ["helper", "man-of-all-work"],
-  "category": ["maps"],
+  "tags": [
+    "helper",
+    "man-of-all-work"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

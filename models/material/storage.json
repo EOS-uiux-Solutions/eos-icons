@@ -2,8 +2,17 @@
   "name": "storage",
   "do": "",
   "dont": "",
-  "tags": ["computer", "memory", "data", "storage", "drive"],
-  "category": ["device"],
+  "tags": [
+    "computer",
+    "memory",
+    "data",
+    "storage",
+    "drive"
+  ],
+  "category": [
+    "device"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

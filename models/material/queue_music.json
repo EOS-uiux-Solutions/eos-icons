@@ -2,8 +2,19 @@
   "name": "queue_music",
   "do": "",
   "dont": "",
-  "tags": ["add", "music", "playlist", "stream", "collection", "list", "Queue"],
-  "category": ["av"],
+  "tags": [
+    "add",
+    "music",
+    "playlist",
+    "stream",
+    "collection",
+    "list",
+    "Queue"
+  ],
+  "category": [
+    "av"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

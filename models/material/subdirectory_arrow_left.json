@@ -2,8 +2,17 @@
   "name": "subdirectory_arrow_left",
   "do": "",
   "dont": "",
-  "tags": ["subdirectory", "down", "below", "left", "arrow"],
-  "category": ["navigation"],
+  "tags": [
+    "subdirectory",
+    "down",
+    "below",
+    "left",
+    "arrow"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

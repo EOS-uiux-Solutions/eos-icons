@@ -2,8 +2,18 @@
   "name": "local_gas_station",
   "do": "",
   "dont": "",
-  "tags": ["auto", "oil", "car", "gas", "station", "vehicle"],
-  "category": ["maps"],
+  "tags": [
+    "auto",
+    "oil",
+    "car",
+    "gas",
+    "station",
+    "vehicle"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

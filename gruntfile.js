@@ -10,6 +10,7 @@ module.exports = function (grunt) {
     materialOutlineModels,
     eosIconsOutlineModels
   } = require('./scripts/models-checker')
+  const { addDate } = require('./scripts/add-date-label.js')
   const { createNewModel } = require('./scripts/models-creation')
   const { checkSvgName, renameSvgTo } = require('./scripts/svg-checker')
   const { duplicatedIcons } = require('./scripts/duplicated_icons')
@@ -252,6 +253,14 @@ module.exports = function (grunt) {
             )}`
           )
         : done()
+    })
+  })
+
+  grunt.registerTask('addDateLabel', async function () {
+    const done = this.async()
+
+    addDate().then((result) => {
+        done()
     })
   })
 

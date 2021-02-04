@@ -2,8 +2,16 @@
   "name": "arrow_left",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "arrows", "direction", "left"],
-  "category": ["navigation"],
+  "tags": [
+    "arrow",
+    "arrows",
+    "direction",
+    "left"
+  ],
+  "category": [
+    "navigation"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

@@ -2,8 +2,17 @@
   "name": "star",
   "do": "",
   "dont": "",
-  "tags": ["review", "rating", "valuation", "appraisal", "rank"],
-  "category": ["toggle"],
+  "tags": [
+    "review",
+    "rating",
+    "valuation",
+    "appraisal",
+    "rank"
+  ],
+  "category": [
+    "toggle"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

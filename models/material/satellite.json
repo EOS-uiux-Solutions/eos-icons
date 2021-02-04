@@ -2,8 +2,17 @@
   "name": "satellite",
   "do": "",
   "dont": "",
-  "tags": ["images", "mountain", "maps", "location", "satellite"],
-  "category": ["maps"],
+  "tags": [
+    "images",
+    "mountain",
+    "maps",
+    "location",
+    "satellite"
+  ],
+  "category": [
+    "maps"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

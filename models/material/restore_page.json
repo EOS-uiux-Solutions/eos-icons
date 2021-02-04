@@ -2,8 +2,18 @@
   "name": "restore_page",
   "do": "",
   "dont": "",
-  "tags": ["rotate", "paper", "restore", "arrow", "refresh", "page"],
-  "category": ["action"],
+  "tags": [
+    "rotate",
+    "paper",
+    "restore",
+    "arrow",
+    "refresh",
+    "page"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

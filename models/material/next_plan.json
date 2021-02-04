@@ -2,8 +2,14 @@
   "name": "next_plan",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "following"],
-  "category": ["action"],
+  "tags": [
+    "arrow",
+    "following"
+  ],
+  "category": [
+    "action"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

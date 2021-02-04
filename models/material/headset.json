@@ -2,8 +2,18 @@
   "name": "headset",
   "do": "",
   "dont": "",
-  "tags": ["audio", "music", "sound", "conference", "listen", "input"],
-  "category": ["hardware"],
+  "tags": [
+    "audio",
+    "music",
+    "sound",
+    "conference",
+    "listen",
+    "input"
+  ],
+  "category": [
+    "hardware"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }

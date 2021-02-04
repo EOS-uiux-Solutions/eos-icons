@@ -2,8 +2,17 @@
   "name": "mms",
   "do": "",
   "dont": "",
-  "tags": ["Multimedia Messaging Service", "image", "message", "media", "text"],
-  "category": ["notification"],
+  "tags": [
+    "Multimedia Messaging Service",
+    "image",
+    "message",
+    "media",
+    "text"
+  ],
+  "category": [
+    "notification"
+  ],
   "type": "static",
-  "hasOutlined": true
+  "hasOutlined": true,
+  "date": "30/11/2020"
 }
