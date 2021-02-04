@@ -203,7 +203,7 @@ const checkModelKeys = async () => {
 
 /* Checks an object to see if it matches the given keys in the array */
 const checkForKeys = (model) => {
-  return ['name', 'do', 'dont', 'tags', 'category', 'type'].every((key) =>
+  return ['name', 'do', 'dont', 'tags', 'category', 'type', 'date'].every((key) =>
     model.includes(key)
   )
 }
