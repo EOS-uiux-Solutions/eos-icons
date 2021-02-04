@@ -193,7 +193,7 @@ const checkModelKeys = async () => {
     /* If a key is missing, add the error to the array */
     if (!checkForKeys(Object.keys(model))) {
       errors.push(
-        `\n⛔️ Properties missing in: ${model.fileName}. Make sure it has: name, do, dont, tags, category, and type`
+        `\n⛔️ Properties missing in: ${model.fileName}. Make sure it has: name, do, dont, tags, category, type, and date.`
       )
     }
   })
