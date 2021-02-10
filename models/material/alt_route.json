@@ -2,7 +2,18 @@
   "name": "alt_route",
   "do": "",
   "dont": "",
-  "tags": ["map", "location", "navigation", "direction", "pin"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "map",
+    "location",
+    "navigation",
+    "direction",
+    "pin"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

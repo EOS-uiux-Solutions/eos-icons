@@ -20,6 +20,11 @@
     "type",
     "writing"
   ],
-  "category": ["editor"],
-  "type": "static"
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,20 @@
   "name": "video_call",
   "do": "",
   "dont": "",
-  "tags": ["call", "conference", "Video", "chat", "screen", "camera", "plus"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "call",
+    "conference",
+    "Video",
+    "chat",
+    "screen",
+    "camera",
+    "plus"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

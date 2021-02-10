@@ -2,7 +2,20 @@
   "name": "widgets",
   "do": "",
   "dont": "",
-  "tags": ["app", "square", "ui", "box", "menu", "widgets", "setting"],
-  "category": ["device"],
-  "type": "static"
+  "tags": [
+    "app",
+    "square",
+    "ui",
+    "box",
+    "menu",
+    "widgets",
+    "setting"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

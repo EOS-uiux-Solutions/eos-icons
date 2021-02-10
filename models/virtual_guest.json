@@ -2,7 +2,13 @@
   "name": "virtual_guest",
   "do": "<ul><li>To represent a virtual machine.</li></ul>",
   "dont": "<ul><li>To represent a system.</li></ul>",
-  "tags": ["virtual machine", "visitor", "visitant"],
+  "tags": [
+    "virtual machine",
+    "visitor",
+    "visitant"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

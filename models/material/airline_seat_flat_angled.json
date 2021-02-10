@@ -2,7 +2,18 @@
   "name": "airline_seat_flat_angled",
   "do": "",
   "dont": "",
-  "tags": ["plane", "airplane", "inclined", "bed", "sleep"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "plane",
+    "airplane",
+    "inclined",
+    "bed",
+    "sleep"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

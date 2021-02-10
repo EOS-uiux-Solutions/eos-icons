@@ -2,7 +2,19 @@
   "name": "free_breakfast",
   "do": "",
   "dont": "",
-  "tags": ["coffee", "tee", "mug", "cup", "brunch", "meal"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "coffee",
+    "tee",
+    "mug",
+    "cup",
+    "brunch",
+    "meal"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

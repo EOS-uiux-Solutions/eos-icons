@@ -2,7 +2,18 @@
   "name": "vpn_lock",
   "do": "",
   "dont": "",
-  "tags": ["security", "secure", "protection", "key", "private"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "security",
+    "secure",
+    "protection",
+    "key",
+    "private"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

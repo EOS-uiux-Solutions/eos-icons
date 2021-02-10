@@ -2,7 +2,14 @@
   "name": "installing",
   "do": "<ul><li>The user is waiting for an installation process to finalize.</li></ul>",
   "dont": "<ul><li>As feedback for refreshing, reloading or syncing data.</li></ul>",
-  "tags": ["installation", "fit", "fitting", "install"],
+  "tags": [
+    "installation",
+    "fit",
+    "fitting",
+    "install"
+  ],
   "category": "virtualization",
-  "type": "animated"
+  "type": "animated",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,20 @@
   "name": "unarchive",
   "do": "",
   "dont": "",
-  "tags": ["undo", "mail", "arrow", "archive", "store", "up", "inbox"],
-  "category": ["content"],
-  "type": "static"
+  "tags": [
+    "undo",
+    "mail",
+    "arrow",
+    "archive",
+    "store",
+    "up",
+    "inbox"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,16 @@
   "name": "pool",
   "do": "",
   "dont": "",
-  "tags": ["swim", "float", "bath"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "swim",
+    "float",
+    "bath"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,13 @@
   "name": "bubble_loading",
   "do": "<ul><li>Use it when the user is waiting for new content to be served.</li></ul>",
   "dont": "<ul><li>Don't use it if no content will be retrieved, or if the user will be redirected to another page.</li></ul>",
-  "tags": ["loading", "fill", "charge"],
+  "tags": [
+    "loading",
+    "fill",
+    "charge"
+  ],
   "category": "virtualization",
-  "type": "animated"
+  "type": "animated",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

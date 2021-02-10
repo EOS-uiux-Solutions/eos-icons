@@ -2,7 +2,16 @@
   "name": "escalator_warning",
   "do": "",
   "dont": "",
-  "tags": ["caution", "staircase", "stairway"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "caution",
+    "staircase",
+    "stairway"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

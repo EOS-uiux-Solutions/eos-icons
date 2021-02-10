@@ -2,7 +2,14 @@
   "name": "persistent_volume",
   "do": "<ul><li>To represent perservation of data over an prolonged period of time.</li></ul>",
   "dont": "<ul><li>To represent infinit storage capacity.</li></ul>",
-  "tags": ["network", "servers", "cloud", "kubernetes"],
+  "tags": [
+    "network",
+    "servers",
+    "cloud",
+    "kubernetes"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

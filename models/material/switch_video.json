@@ -2,7 +2,19 @@
   "name": "switch_video",
   "do": "",
   "dont": "",
-  "tags": ["camera", "setting", "movie", "media", "mode", "play"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "camera",
+    "setting",
+    "movie",
+    "media",
+    "mode",
+    "play"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

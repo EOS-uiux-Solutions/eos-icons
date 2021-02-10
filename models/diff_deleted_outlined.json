@@ -2,7 +2,15 @@
   "name": "diff_deleted_outlined",
   "do": "<ul><li>Use it to display when a diff has been deleted.</li></ul>",
   "dont": "<ul><li>Don't use it to display an operation.</li></ul>",
-  "tags": ["change", "divergence", "removed", "old", "cleared"],
+  "tags": [
+    "change",
+    "divergence",
+    "removed",
+    "old",
+    "cleared"
+  ],
   "category": "editor",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

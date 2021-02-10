@@ -2,7 +2,20 @@
   "name": "login",
   "do": "",
   "dont": "",
-  "tags": ["access", "arrow", "enter", "input", "left", "login", "sign in"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "access",
+    "arrow",
+    "enter",
+    "input",
+    "left",
+    "login",
+    "sign in"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

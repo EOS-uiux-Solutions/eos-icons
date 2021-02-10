@@ -2,7 +2,18 @@
   "name": "video_library",
   "do": "",
   "dont": "",
-  "tags": ["play", "libary", "Video", "collection", "camera"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "play",
+    "libary",
+    "Video",
+    "collection",
+    "camera"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

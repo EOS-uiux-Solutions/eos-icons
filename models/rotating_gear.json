@@ -2,7 +2,13 @@
   "name": "rotating_gear",
   "do": "<ul><li>Use it when the process of applying configuration is undergoing.</li></ul>",
   "dont": "<ul><li>Don't use it for loading or installing.</li></ul>",
-  "tags": ["configure", "settings", "applying"],
+  "tags": [
+    "configure",
+    "settings",
+    "applying"
+  ],
   "category": "virtualization",
-  "type": "animated"
+  "type": "animated",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

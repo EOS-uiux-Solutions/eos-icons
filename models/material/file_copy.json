@@ -13,6 +13,11 @@
     "multiple",
     "past"
   ],
-  "category": ["content"],
-  "type": "static"
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,18 @@
   "name": "pets",
   "do": "",
   "dont": "",
-  "tags": ["paw", "animal", "dog", "pet", "hand"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "paw",
+    "animal",
+    "dog",
+    "pet",
+    "hand"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,20 @@
   "name": "volume_mute",
   "do": "",
   "dont": "",
-  "tags": ["tv", "music", "Volume", "sound", "control", "mute", "audio"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "tv",
+    "music",
+    "Volume",
+    "sound",
+    "control",
+    "mute",
+    "audio"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

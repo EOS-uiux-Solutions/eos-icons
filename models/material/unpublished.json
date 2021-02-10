@@ -2,7 +2,15 @@
   "name": "unpublished",
   "do": "",
   "dont": "",
-  "tags": ["unprinted", "not public"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "unprinted",
+    "not public"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

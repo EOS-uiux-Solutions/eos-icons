@@ -2,7 +2,13 @@
   "name": "sandbox",
   "do": "<ul><li>For a special setting in software which uses dummy data to test APIs.</li></ul>",
   "dont": "",
-  "tags": ["playground", "software", "dummy database"],
+  "tags": [
+    "playground",
+    "software",
+    "dummy database"
+  ],
   "category": "development",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

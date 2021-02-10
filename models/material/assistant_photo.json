@@ -2,7 +2,15 @@
   "name": "assistant_photo",
   "do": "",
   "dont": "",
-  "tags": ["aide", "help"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "aide",
+    "help"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

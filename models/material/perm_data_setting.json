@@ -2,7 +2,18 @@
   "name": "perm_data_setting",
   "do": "",
   "dont": "",
-  "tags": ["settings", "data", "information", "gear", "info"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "settings",
+    "data",
+    "information",
+    "gear",
+    "info"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

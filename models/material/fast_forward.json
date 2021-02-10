@@ -2,7 +2,20 @@
   "name": "fast_forward",
   "do": "",
   "dont": "",
-  "tags": ["music", "forward", "control", "time", "video", "Fast", "speed"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "music",
+    "forward",
+    "control",
+    "time",
+    "video",
+    "Fast",
+    "speed"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

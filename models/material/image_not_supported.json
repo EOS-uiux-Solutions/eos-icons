@@ -2,7 +2,16 @@
   "name": "image_not_supported",
   "do": "",
   "dont": "",
-  "tags": ["no image", "unsupported", "invalid"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "no image",
+    "unsupported",
+    "invalid"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

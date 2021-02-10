@@ -2,7 +2,19 @@
   "name": "local_movies",
   "do": "",
   "dont": "",
-  "tags": ["teather", "cinema", "movie", "film", "hollywood", "ticket"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "teather",
+    "cinema",
+    "movie",
+    "film",
+    "hollywood",
+    "ticket"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

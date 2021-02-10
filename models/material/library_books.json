@@ -2,7 +2,19 @@
   "name": "library_books",
   "do": "",
   "dont": "",
-  "tags": ["add", "books", "book", "Library", "audio", "collection"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "add",
+    "books",
+    "book",
+    "Library",
+    "audio",
+    "collection"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

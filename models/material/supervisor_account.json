@@ -18,6 +18,11 @@
     "supervisor",
     "parents"
   ],
-  "category": ["roles"],
-  "type": "static"
+  "category": [
+    "roles"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

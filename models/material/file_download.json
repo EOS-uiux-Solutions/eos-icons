@@ -2,7 +2,15 @@
   "name": "file_download",
   "do": "",
   "dont": "",
-  "tags": ["get", "load"],
-  "category": ["content"],
-  "type": "static"
+  "tags": [
+    "get",
+    "load"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

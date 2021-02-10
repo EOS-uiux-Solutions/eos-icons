@@ -2,7 +2,16 @@
   "name": "network_cell",
   "do": "",
   "dont": "",
-  "tags": ["chain", "grid", "net"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "chain",
+    "grid",
+    "net"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

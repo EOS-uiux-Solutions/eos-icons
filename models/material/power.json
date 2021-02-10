@@ -2,7 +2,19 @@
   "name": "power",
   "do": "",
   "dont": "",
-  "tags": ["energy", "switch", "electricity", "on", "connector", "plug"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "energy",
+    "switch",
+    "electricity",
+    "on",
+    "connector",
+    "plug"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,13 @@
   "name": "pod",
   "do": "<ul><li>To represent a group of containers.</li></ul>",
   "dont": "<ul><li>To represent a single container.</li></ul>",
-  "tags": ["kubernetes", "pod", "containers"],
+  "tags": [
+    "kubernetes",
+    "pod",
+    "containers"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

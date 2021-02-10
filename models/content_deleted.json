@@ -2,7 +2,15 @@
   "name": "content_deleted",
   "do": "<ul><li>Use to display that a file has been deleted.</li></ul>",
   "dont": "<ul><li>Don't use to display cancelling an action.</li></ul>",
-  "tags": ["delete", "remove", "less", "composition", "file"],
+  "tags": [
+    "delete",
+    "remove",
+    "less",
+    "composition",
+    "file"
+  ],
   "category": "editor",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

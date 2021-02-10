@@ -2,7 +2,18 @@
   "name": "android",
   "do": "",
   "dont": "",
-  "tags": ["character", "mascot", "android", "logo", "toy"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "character",
+    "mascot",
+    "android",
+    "logo",
+    "toy"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

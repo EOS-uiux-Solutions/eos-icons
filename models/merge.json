@@ -15,5 +15,7 @@
     "git"
   ],
   "category": "development",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

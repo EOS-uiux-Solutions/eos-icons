@@ -2,7 +2,18 @@
   "name": "masks",
   "do": "",
   "dont": "",
-  "tags": ["covid", "virus", "face mask", "facemask", "chinstrap"],
-  "category": ["social"],
-  "type": "static"
+  "tags": [
+    "covid",
+    "virus",
+    "face mask",
+    "facemask",
+    "chinstrap"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

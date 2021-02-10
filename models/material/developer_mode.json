@@ -17,6 +17,11 @@
     "device",
     "hardware"
   ],
-  "category": ["device"],
-  "type": "static"
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

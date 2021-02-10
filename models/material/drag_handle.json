@@ -2,7 +2,18 @@
   "name": "drag_handle",
   "do": "",
   "dont": "",
-  "tags": ["move", "ui", "handle", "drag", "menu"],
-  "category": ["editor"],
-  "type": "static"
+  "tags": [
+    "move",
+    "ui",
+    "handle",
+    "drag",
+    "menu"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

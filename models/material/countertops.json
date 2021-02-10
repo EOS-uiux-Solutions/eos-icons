@@ -2,7 +2,15 @@
   "name": "countertops",
   "do": "",
   "dont": "",
-  "tags": ["surface", "worktable"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "surface",
+    "worktable"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

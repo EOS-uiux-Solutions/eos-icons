@@ -2,7 +2,17 @@
   "name": "grass",
   "do": "",
   "dont": "",
-  "tags": ["green", "turf", "lawn", "greenery"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "green",
+    "turf",
+    "lawn",
+    "greenery"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

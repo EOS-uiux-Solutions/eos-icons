@@ -2,7 +2,19 @@
   "name": "play_circle_outline",
   "do": "",
   "dont": "",
-  "tags": ["Play", "controls", "music", "arrow", "control", "video"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "Play",
+    "controls",
+    "music",
+    "arrow",
+    "control",
+    "video"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

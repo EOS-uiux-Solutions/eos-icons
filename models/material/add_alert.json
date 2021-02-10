@@ -2,7 +2,18 @@
   "name": "add_alert",
   "do": "",
   "dont": "",
-  "tags": ["add", "notification", "alert", "bell", "plus"],
-  "category": ["alert"],
-  "type": "static"
+  "tags": [
+    "add",
+    "notification",
+    "alert",
+    "bell",
+    "plus"
+  ],
+  "category": [
+    "alert"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

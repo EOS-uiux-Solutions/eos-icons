@@ -2,7 +2,20 @@
   "name": "add_comment",
   "do": "",
   "dont": "",
-  "tags": ["add", "bubble", "chat", "comment", "feedback", "message", "plus"],
-  "category": ["editor"],
-  "type": "static"
+  "tags": [
+    "add",
+    "bubble",
+    "chat",
+    "comment",
+    "feedback",
+    "message",
+    "plus"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,19 @@
   "name": "library_add",
   "do": "",
   "dont": "",
-  "tags": ["add", "music", "Library", "collection", "video", "plus"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "add",
+    "music",
+    "Library",
+    "collection",
+    "video",
+    "plus"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

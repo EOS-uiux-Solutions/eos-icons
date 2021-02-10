@@ -2,7 +2,18 @@
   "name": "pause_circle_filled",
   "do": "",
   "dont": "",
-  "tags": ["Pause", "controls", "music", "control", "video"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "Pause",
+    "controls",
+    "music",
+    "control",
+    "video"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

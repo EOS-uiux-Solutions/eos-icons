@@ -2,7 +2,12 @@
   "name": "collocation",
   "do": "<ul><li>For the action of placing or arranging tasks together.</li></ul>",
   "dont": "<ul><li>For location purposes.</li></ul>",
-  "tags": ["collocation", "collocation constraint"],
+  "tags": [
+    "collocation",
+    "collocation constraint"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

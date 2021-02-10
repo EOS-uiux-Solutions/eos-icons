@@ -70,13 +70,16 @@ const downloadSvgFile = async (mdIcon) => {
 }
 
 const createSvgModels = async (mdSvg, nameIcon) => {
+  const today = new Date().toLocaleDateString()
   const newObject = {
     name: nameIcon,
     do: '',
     dont: '',
     tags: mdSvg[0].tags,
     category: mdSvg[0].categories,
-    type: 'static'
+    type: 'static',
+    label: 'None',
+    date: today
   }
 
   fs.writeFileSync(

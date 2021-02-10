@@ -2,7 +2,15 @@
   "name": "luggage",
   "do": "",
   "dont": "",
-  "tags": ["baggage", "bag"],
-  "category": ["social"],
-  "type": "static"
+  "tags": [
+    "baggage",
+    "bag"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,15 @@
   "name": "sim_card",
   "do": "",
   "dont": "",
-  "tags": ["telephone", "communication"],
-  "category": ["hardware"],
-  "type": "static"
+  "tags": [
+    "telephone",
+    "communication"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

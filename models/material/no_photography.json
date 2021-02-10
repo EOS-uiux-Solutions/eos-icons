@@ -2,7 +2,18 @@
   "name": "no_photography",
   "do": "",
   "dont": "",
-  "tags": ["photo", "camera", "selfie", "picture", "forbidden"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "photo",
+    "camera",
+    "selfie",
+    "picture",
+    "forbidden"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

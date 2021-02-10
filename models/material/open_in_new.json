@@ -2,7 +2,18 @@
   "name": "open_in_new",
   "do": "",
   "dont": "",
-  "tags": ["new", "arrow", "box", "window", "open"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "new",
+    "arrow",
+    "box",
+    "window",
+    "open"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

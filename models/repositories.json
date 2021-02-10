@@ -2,7 +2,14 @@
   "name": "repositories",
   "do": "<ul><li>To indicate product repositories.</li></ul>",
   "dont": "",
-  "tags": ["products", "architecture", "url", "rpm"],
+  "tags": [
+    "products",
+    "architecture",
+    "url",
+    "rpm"
+  ],
   "category": "development",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

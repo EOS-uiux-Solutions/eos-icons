@@ -2,7 +2,20 @@
   "name": "radio",
   "do": "",
   "dont": "",
-  "tags": ["antenna", "music", "Radio", "device", "listen", "tune", "player"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "antenna",
+    "music",
+    "Radio",
+    "device",
+    "listen",
+    "tune",
+    "player"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

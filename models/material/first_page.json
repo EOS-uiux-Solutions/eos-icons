@@ -2,7 +2,17 @@
   "name": "first_page",
   "do": "",
   "dont": "",
-  "tags": ["move", "beginning", "front", "before"],
-  "category": ["navigation"],
-  "type": "static"
+  "tags": [
+    "move",
+    "beginning",
+    "front",
+    "before"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

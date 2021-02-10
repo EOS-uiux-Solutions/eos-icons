@@ -2,7 +2,13 @@
   "name": "virtual_reality",
   "do": "<ul><li>use it to represent virtual reality applications in an interface. To deploy or play a VR game.</li></ul>",
   "dont": "<ul><li>don't use it for user account, general glasses, or to represent augmented reality applications/games.</li></ul>",
-  "tags": ["virtual reality", "vr", "simulation"],
+  "tags": [
+    "virtual reality",
+    "vr",
+    "simulation"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

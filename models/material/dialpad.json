@@ -2,7 +2,19 @@
   "name": "dialpad",
   "do": "",
   "dont": "",
-  "tags": ["Dial", "call", "number", "pad", "numbers", "device"],
-  "category": ["communication"],
-  "type": "static"
+  "tags": [
+    "Dial",
+    "call",
+    "number",
+    "pad",
+    "numbers",
+    "device"
+  ],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

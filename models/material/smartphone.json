@@ -2,7 +2,19 @@
   "name": "smartphone",
   "do": "",
   "dont": "",
-  "tags": ["android", "phone", "iphone", "ios", "telephone", "apple"],
-  "category": ["hardware"],
-  "type": "static"
+  "tags": [
+    "android",
+    "phone",
+    "iphone",
+    "ios",
+    "telephone",
+    "apple"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

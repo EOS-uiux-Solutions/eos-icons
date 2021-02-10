@@ -2,7 +2,14 @@
   "name": "quota",
   "do": "<ul><li>Use to describe the amount of space for a determined hard drive.</li></ul>",
   "dont": "",
-  "tags": ["space", "quota", "kubernetes", "capacity"],
+  "tags": [
+    "space",
+    "quota",
+    "kubernetes",
+    "capacity"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

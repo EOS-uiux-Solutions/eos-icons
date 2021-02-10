@@ -2,7 +2,18 @@
   "name": "dashboard",
   "do": "",
   "dont": "",
-  "tags": ["square", "cards", "shapes", "rectangle", "dashboard"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "square",
+    "cards",
+    "shapes",
+    "rectangle",
+    "dashboard"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

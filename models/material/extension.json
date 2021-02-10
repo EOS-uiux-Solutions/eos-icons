@@ -2,7 +2,19 @@
   "name": "extension",
   "do": "",
   "dont": "",
-  "tags": ["extension", "shape", "piece", "puzzle", "jigsaw", "extended"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "extension",
+    "shape",
+    "piece",
+    "puzzle",
+    "jigsaw",
+    "extended"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

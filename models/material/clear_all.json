@@ -2,7 +2,19 @@
   "name": "clear_all",
   "do": "",
   "dont": "",
-  "tags": ["all", "document", "format", "doc", "list", "Clear"],
-  "category": ["communication"],
-  "type": "static"
+  "tags": [
+    "all",
+    "document",
+    "format",
+    "doc",
+    "list",
+    "Clear"
+  ],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

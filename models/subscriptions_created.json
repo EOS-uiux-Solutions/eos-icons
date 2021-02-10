@@ -2,7 +2,12 @@
   "name": "subscriptions_created",
   "do": "<ul><li>To represent a successfully activated subscription.</li></ul>",
   "dont": "<ul><li>To create a subscription.</li></ul>",
-  "tags": ["subscription", "activated"],
+  "tags": [
+    "subscription",
+    "activated"
+  ],
   "category": "services",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

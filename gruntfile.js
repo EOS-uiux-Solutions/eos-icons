@@ -1,9 +1,15 @@
 module.exports = function (grunt) {
   const { compareFolders } = require('./scripts/md-name-checker')
-  const { combineIconsModels } = require('./scripts/combine-eos-icons')
+  const {
+    combineIconsModels,
+    showMissingOutlinedFiles
+  } = require('./scripts/combine-eos-icons')
   const {
     checkForMissingModelsOrIcons,
-    checkModelKeys
+    checkModelKeys,
+    materialOutlineModels,
+    eosIconsOutlineModels,
+    outlineModelsAndSvgTest
   } = require('./scripts/models-checker')
   const { createNewModel } = require('./scripts/models-creation')
   const { checkSvgName, renameSvgTo } = require('./scripts/svg-checker')
@@ -17,6 +23,8 @@ module.exports = function (grunt) {
   // Append path to your svg below
   // EOS-set and MD svg path
   const srcEosSet = ['svg/*.svg', 'svg/material/*.svg']
+  const srcEosSetOutlined = ['temp/*.svg', 'temp/material/*.svg']
+
   grunt.initConfig({
     webfont: {
       icons: {
@@ -50,6 +58,32 @@ module.exports = function (grunt) {
             }
           ]
         }
+      },
+      outlined: {
+        src: srcEosSetOutlined,
+        dest: 'dist/outlined/fonts/',
+        destCss: 'dist/outlined/css/',
+        destScss: 'dist/outlined/css/',
+        destLess: 'dist/outlined/css/',
+        options: {
+          font: 'eos-icons-outlined',
+          syntax: 'bootstrap',
+          version: '1.0.0',
+          ligatures: true,
+          normalize: true,
+          types: 'woff2,woff,ttf,svg,eot',
+          metadata: 'something here',
+          templateOptions: {
+            baseClass: 'eos-icons',
+            classPrefix: 'eos-',
+            template: 'templates/css-template.css',
+            iconsStyles: false
+          },
+          stylesheets: ['less', 'scss', 'css'],
+          destHtml: 'dist/outlined',
+          htmlDemoTemplate: 'templates/index-template-outlined.html',
+          htmlDemoFilename: 'index'
+        }
       }
     },
     concat: {
@@ -74,7 +108,18 @@ module.exports = function (grunt) {
       files: './scripts/eos-md-icons-log-differences',
       tasks: ['coffee']
     },
+    copy: {
+      outlined: {
+        expand: true,
+        dest: 'temp',
+        cwd: 'svg-outlined/',
+        src: '*'
+      }
+    },
     clean: {
+      tempFolder: {
+        src: './temp'
+      },
       icons: {
         expand: true,
         cwd: './svg/material/',
@@ -94,6 +139,31 @@ module.exports = function (grunt) {
     }
   })
 
+  grunt.registerTask('checkMissingModelsOutlined', async function () {
+    const done = this.async()
+
+    outlineModelsAndSvgTest({
+      normalSvgs: './svg',
+      outlinedSvgs: './svg-outlined'
+    }).then((data) => {
+      const { difference } = data
+      if (difference.length) {
+        console.log(
+          '\x1b[33m%s\x1b[0m',
+          `⚠️  === WARNING === ⚠️ \n${
+            difference.length
+          } SVG missing: we found the outlined version of # ${difference.map(
+            (ele) => ele
+          )} # but not the SVG inside /svg. \n Please make sure to generate the filled version before adding the outlined one.`
+        )
+        process.exit(1)
+      } else {
+        console.log('✅  No extra outlined icons were found.')
+        done()
+      }
+    })
+  })
+
   /* Looks into the models and svg folders and finds the differences */
   grunt.registerTask('checkMissingModelandSVG', function () {
     const done = this.async()
@@ -105,9 +175,15 @@ module.exports = function (grunt) {
       iconsSrc: './svg',
       animatedSrc: './animated-svg'
     }).then(async (data) => {
-      const { SVGsMissingModels, ModelsMissingSVGs } = data
+      const { SVGsMissingModelsEOS,
+        SVGsMissingModelsMd,
+        ModelsMissingSVGsEos,
+        ModelsMissingSVGsMd } = data
 
-      if (SVGsMissingModels.length || ModelsMissingSVGs.length) {
+      let SVGsMissingModels = [ ...SVGsMissingModelsMd, ...SVGsMissingModelsEOS ]
+      let ModelsMissingSVGs
+
+      if (SVGsMissingModels.length || ModelsMissingSVGsEos.length || ModelsMissingSVGsMd.length ) {
         if (SVGsMissingModels.length) {
           console.log(
             `⚠️ ${
@@ -119,17 +195,34 @@ module.exports = function (grunt) {
           process.exit(1)
         }
 
-        if (ModelsMissingSVGs.length) {
+        if (ModelsMissingSVGsEos.length || ModelsMissingSVGsMd.length) {
+          ModelsMissingSVGs = ModelsMissingSVGsEos
+
           console.log(
             `⚠️ ${
               ModelsMissingSVGs.length
-            } Model missing: we found the SVG # ${ModelsMissingSVGs.map(
+            } EOS model missing: we found the SVG # ${ModelsMissingSVGs.map(
               (ele) => ele
             )} # but not the model inside /models. Please create one below.`
           )
 
           /* If any model is missing, send it to be created. */
-          await createNewModel({ ModelsMissingSVGs }).then(done)
+          await createNewModel({ ModelsMissingSVGs, modelsSrc: './models' }).then(async () => {
+            
+            if (ModelsMissingSVGsMd.length) {
+              ModelsMissingSVGs = ModelsMissingSVGsMd
+              console.log(
+                `⚠️ ${
+                  ModelsMissingSVGs.length
+                } MD Model missing: we found the SVG # ${ModelsMissingSVGs.map(
+                  (ele) => ele
+                )} # but not the model inside ./models/material. Please create one below.`
+              )
+    
+              /* If any model is missing, send it to be created. */
+              await createNewModel({ ModelsMissingSVGs, modelsSrc: './models/material' }).then(done)
+            }
+          })
         }
       } else {
         console.log(
@@ -211,6 +304,37 @@ module.exports = function (grunt) {
     })
   })
 
+  // Handle MD Icons Outline model
+  grunt.registerTask('materialOutlineModels', async function () {
+    const done = this.async()
+
+    return materialOutlineModels({ modelsDir: './models/material' }).then(done)
+  })
+
+  // Handle EOS Icons Outline model
+  grunt.registerTask('eosIconsOutlineModels', async function () {
+    const done = this.async()
+
+    return eosIconsOutlineModels({
+      outlineSvgDir: './svg-outlined',
+      modelsFolder: './models'
+    }).then(done)
+  })
+
+  // Temporaty folder mix
+  grunt.registerTask('temp_svg_collection', async function () {
+    const done = this.async()
+
+    showMissingOutlinedFiles({
+      outlineSvgDir: './svg-outlined',
+      normalSvgDir: './svg',
+      tempFolder: './temp'
+    }).then((data) => {
+      console.log(data)
+      done()
+    })
+  })
+
   /* Checks for SVGs names returns the one with a wrong naming convention */
   grunt.registerTask('checkNameConvention', async function () {
     const done = this.async()
@@ -257,21 +381,29 @@ module.exports = function (grunt) {
     'clean:hidden',
     'clean:dist',
     'clean:icons',
-    'clean:models'
+    'clean:models',
+    'clean:tempFolder'
   ])
   grunt.registerTask('build', [
     'clean:all',
     'concat',
-    'webfont',
+    'copy:outlined',
+    'temp_svg_collection',
+    'webfont:icons',
+    'webfont:outlined',
     'replace',
-    'combineAllIconsModels'
+    'combineAllIconsModels',
+    'clean:tempFolder'
   ])
   grunt.registerTask('test', [
     'importMdIcons',
     'findDuplicateNames',
     'checkNameConvention',
     'checkModelKeysTask',
-    'checkMissingModelandSVG'
+    'checkMissingModelandSVG',
+    'materialOutlineModels',
+    'eosIconsOutlineModels',
+    'checkMissingModelsOutlined'
   ])
   grunt.registerTask('default', ['test', 'build'])
 }

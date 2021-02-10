@@ -2,7 +2,15 @@
   "name": "burst_mode",
   "do": "",
   "dont": "",
-  "tags": ["photography", "camera"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "photography",
+    "camera"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

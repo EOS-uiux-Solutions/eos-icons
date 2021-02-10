@@ -2,7 +2,17 @@
   "name": "room_service",
   "do": "",
   "dont": "",
-  "tags": ["maid service", "housekeeping", "food", "serve"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "maid service",
+    "housekeeping",
+    "food",
+    "serve"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

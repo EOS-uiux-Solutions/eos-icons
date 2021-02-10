@@ -2,7 +2,18 @@
   "name": "texture",
   "do": "",
   "dont": "",
-  "tags": ["camera", "pattern", "background", "setting", "photo"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "camera",
+    "pattern",
+    "background",
+    "setting",
+    "photo"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

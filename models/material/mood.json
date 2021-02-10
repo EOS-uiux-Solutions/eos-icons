@@ -2,7 +2,19 @@
   "name": "mood",
   "do": "",
   "dont": "",
-  "tags": ["emoticon", "face", "emotion", "expression", "sad", "happy"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "emoticon",
+    "face",
+    "emotion",
+    "expression",
+    "sad",
+    "happy"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

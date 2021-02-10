@@ -2,7 +2,18 @@
   "name": "fiber_smart_record",
   "do": "",
   "dont": "",
-  "tags": ["play", "watch", "Fiber", "record", "smart"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "play",
+    "watch",
+    "Fiber",
+    "record",
+    "smart"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

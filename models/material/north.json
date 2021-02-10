@@ -2,7 +2,14 @@
   "name": "north",
   "do": "",
   "dont": "",
-  "tags": ["up"],
-  "category": ["navigation"],
-  "type": "static"
+  "tags": [
+    "up"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

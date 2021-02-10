@@ -2,7 +2,17 @@
   "name": "trip_origin",
   "do": "",
   "dont": "",
-  "tags": ["circle", "departure", "origin", "trip"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "circle",
+    "departure",
+    "origin",
+    "trip"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

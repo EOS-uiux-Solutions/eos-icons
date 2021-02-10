@@ -2,7 +2,16 @@
   "name": "developer_board",
   "do": "",
   "dont": "",
-  "tags": ["dashboard", "home", "mosaic"],
-  "category": ["hardware"],
-  "type": "static"
+  "tags": [
+    "dashboard",
+    "home",
+    "mosaic"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

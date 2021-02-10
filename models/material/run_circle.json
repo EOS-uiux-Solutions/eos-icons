@@ -2,7 +2,21 @@
   "name": "run_circle",
   "do": "",
   "dont": "",
-  "tags": ["man", "user", "woman", "running", "sprint", "race", "rush", "exit"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "man",
+    "user",
+    "woman",
+    "running",
+    "sprint",
+    "race",
+    "rush",
+    "exit"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

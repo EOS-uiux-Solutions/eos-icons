@@ -2,7 +2,16 @@
   "name": "confirmation_number",
   "do": "",
   "dont": "",
-  "tags": ["ticket", "card", "coupon"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "ticket",
+    "card",
+    "coupon"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

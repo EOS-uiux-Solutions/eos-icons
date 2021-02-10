@@ -2,7 +2,15 @@
   "name": "microwave",
   "do": "",
   "dont": "",
-  "tags": ["food", "heating"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "food",
+    "heating"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

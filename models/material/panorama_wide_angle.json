@@ -2,7 +2,18 @@
   "name": "panorama_wide_angle",
   "do": "",
   "dont": "",
-  "tags": ["image", "perspective", "ratio", "photography", "photo"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "image",
+    "perspective",
+    "ratio",
+    "photography",
+    "photo"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

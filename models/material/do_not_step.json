@@ -2,7 +2,19 @@
   "name": "do_not_step",
   "do": "",
   "dont": "",
-  "tags": ["stop", "forbidden", "prohibited", "banned", "footstep", "walk"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "stop",
+    "forbidden",
+    "prohibited",
+    "banned",
+    "footstep",
+    "walk"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

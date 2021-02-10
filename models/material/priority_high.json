@@ -2,7 +2,17 @@
   "name": "priority_high",
   "do": "",
   "dont": "",
-  "tags": ["alert", "warning", "attention", "important"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "alert",
+    "warning",
+    "attention",
+    "important"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

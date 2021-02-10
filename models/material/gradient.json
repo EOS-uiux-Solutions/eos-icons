@@ -2,7 +2,20 @@
   "name": "gradient",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "image", "style", "custom", "edit", "angle"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "photography",
+    "photo",
+    "image",
+    "style",
+    "custom",
+    "edit",
+    "angle"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,12 @@
   "name": "three_dots_loading",
   "do": "<ul><li>Use it for loading</li></ul>",
   "dont": "<ul><li>n/a</li></ul>",
-  "tags": ["loading", "dots"],
+  "tags": [
+    "loading",
+    "dots"
+  ],
   "category": "action",
-  "type": "animated"
+  "type": "animated",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

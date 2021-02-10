@@ -2,7 +2,19 @@
   "name": "language",
   "do": "",
   "dont": "",
-  "tags": ["website", "globe", "world", "planet", "www", "language"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "website",
+    "globe",
+    "world",
+    "planet",
+    "www",
+    "language"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

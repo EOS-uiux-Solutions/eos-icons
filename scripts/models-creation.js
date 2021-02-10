@@ -70,6 +70,12 @@ const inputForModel = async () => {
         name: 'type',
         message: '⚙️  Indicate the type:',
         choices: ['static', 'animated']
+      },
+      {
+        type: 'list',
+        name: 'label',
+        message: '⚙️  Indicate the EOS label:',
+        choices: ['EOS', 'None']
       }
     ])
   } catch (error) {
@@ -77,7 +83,7 @@ const inputForModel = async () => {
   }
 }
 
-const createNewModel = async ({ ModelsMissingSVGs }) => {
+const createNewModel = async ({ ModelsMissingSVGs, modelsSrc }) => {
   try {
     for (let i = 0; i < ModelsMissingSVGs.length; i++) {
       console.log('===============================================')
@@ -86,6 +92,7 @@ const createNewModel = async ({ ModelsMissingSVGs }) => {
       )
 
       await inputForModel().then(async (response) => {
+        const today = new Date().toLocaleDateString()
         const iconModel = [{ name: ModelsMissingSVGs[i], ...response }].reduce(
           (acc, cur) => {
             const arrayOftags = cur.tags
@@ -97,7 +104,9 @@ const createNewModel = async ({ ModelsMissingSVGs }) => {
               ...cur,
               do: `<ul><li>${[cur.do]}</li></ul>`,
               dont: `<ul><li>${[cur.dont]}</li></ul>`,
-              tags: [...arrayOftags]
+              tags: [...arrayOftags],
+              label: `${[cur.label]}`,
+              date: today
             }
 
             return acc
@@ -106,12 +115,12 @@ const createNewModel = async ({ ModelsMissingSVGs }) => {
         )
 
         fs.writeFileSync(
-          `models/${ModelsMissingSVGs[i]}.json`,
+          `${modelsSrc}/${ModelsMissingSVGs[i]}.json`,
           JSON.stringify(iconModel, null, 2)
         )
 
         return console.log(
-          `File saved:  ../models/${ModelsMissingSVGs[i]}.json. Please always check it manually to be sure.`
+          `File saved:  ../${modelsSrc}/${ModelsMissingSVGs[i]}.json. Please always check it manually to be sure.`
         )
       })
     }

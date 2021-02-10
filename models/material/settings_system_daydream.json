@@ -2,7 +2,17 @@
   "name": "settings_system_daydream",
   "do": "",
   "dont": "",
-  "tags": ["cloud", "system", "daydream", "setting"],
-  "category": ["device"],
-  "type": "static"
+  "tags": [
+    "cloud",
+    "system",
+    "daydream",
+    "setting"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,16 @@
   "name": "carpenter",
   "do": "",
   "dont": "",
-  "tags": ["woodworker", "wood", "saw"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "woodworker",
+    "wood",
+    "saw"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

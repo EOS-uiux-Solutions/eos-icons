@@ -8,3 +8,5 @@ material-design-icons
 scripts/md-web-data.json
 .idea/
 TODO
+.todo
+temp/

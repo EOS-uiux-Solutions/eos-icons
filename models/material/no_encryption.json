@@ -10,6 +10,11 @@
     "decrypt",
     "decipher"
   ],
-  "category": ["notification"],
-  "type": "static"
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,12 @@
   "name": "background_tasks",
   "do": "<ul><li>To indicate tasks that are running in the background.</li></ul>",
   "dont": "",
-  "tags": ["pending", "loading"],
+  "tags": [
+    "pending",
+    "loading"
+  ],
   "category": "development",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

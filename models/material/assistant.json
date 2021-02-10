@@ -2,7 +2,15 @@
   "name": "assistant",
   "do": "",
   "dont": "",
-  "tags": ["aide", "help"],
-  "category": ["roles"],
-  "type": "static"
+  "tags": [
+    "aide",
+    "help"
+  ],
+  "category": [
+    "roles"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

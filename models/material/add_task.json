@@ -2,7 +2,17 @@
   "name": "add_task",
   "do": "",
   "dont": "",
-  "tags": ["plus", "new", "file", "document"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "plus",
+    "new",
+    "file",
+    "document"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

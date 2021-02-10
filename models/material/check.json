@@ -2,7 +2,17 @@
   "name": "check",
   "do": "",
   "dont": "",
-  "tags": ["tick", "checkmark", "checked", "approve"],
-  "category": ["navigation"],
-  "type": "static"
+  "tags": [
+    "tick",
+    "checkmark",
+    "checked",
+    "approve"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

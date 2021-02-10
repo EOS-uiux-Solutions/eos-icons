@@ -2,7 +2,18 @@
   "name": "healing",
   "do": "<ul><li>Use it for fixes or patches.</li></ul>",
   "dont": "<ul><li>Don't use it for help.</li></ul>",
-  "tags": ["edit", "repair", "patch", "fix", "bugfix"],
-  "category": ["development"],
-  "type": "static"
+  "tags": [
+    "edit",
+    "repair",
+    "patch",
+    "fix",
+    "bugfix"
+  ],
+  "category": [
+    "development"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

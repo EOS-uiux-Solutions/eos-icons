@@ -2,7 +2,16 @@
   "name": "blur_off",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "bokeh"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "photography",
+    "photo",
+    "bokeh"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

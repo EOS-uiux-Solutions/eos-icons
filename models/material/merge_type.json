@@ -2,7 +2,19 @@
   "name": "merge_type",
   "do": "",
   "dont": "",
-  "tags": ["margin", "arrow", "format", "text", "type", "combine"],
-  "category": ["editor"],
-  "type": "static"
+  "tags": [
+    "margin",
+    "arrow",
+    "format",
+    "text",
+    "type",
+    "combine"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

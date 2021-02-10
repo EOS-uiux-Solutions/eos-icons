@@ -2,7 +2,15 @@
   "name": "stateful_set",
   "do": "<ul><li>Use this icon when deploying or executing services, containers, or others in a sequence.</li></ul>",
   "dont": "<ul><li>Don't use it for copy, duplicate, or similar.</li></ul>",
-  "tags": ["sequence", "sequential", "ordinal", "index", "kubernetes"],
+  "tags": [
+    "sequence",
+    "sequential",
+    "ordinal",
+    "index",
+    "kubernetes"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

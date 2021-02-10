@@ -2,7 +2,17 @@
   "name": "rotate_left",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "direction", "back", "arrows"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "arrow",
+    "direction",
+    "back",
+    "arrows"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

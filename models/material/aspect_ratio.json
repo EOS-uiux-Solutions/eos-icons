@@ -2,7 +2,20 @@
   "name": "aspect_ratio",
   "do": "",
   "dont": "",
-  "tags": ["image", "square", "expand", "size", "aspect", "scale", "ratio"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "image",
+    "square",
+    "expand",
+    "size",
+    "aspect",
+    "scale",
+    "ratio"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

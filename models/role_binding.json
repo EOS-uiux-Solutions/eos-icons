@@ -2,7 +2,12 @@
   "name": "role_binding",
   "do": "<ul><li>Use it in features that grant special role permissions to a user or group of users</li></ul>",
   "dont": "<ul><li>Don't use it for user account, admin, or similar</li></ul>",
-  "tags": ["grant access", "grant permission"],
+  "tags": [
+    "grant access",
+    "grant permission"
+  ],
   "category": "roles",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

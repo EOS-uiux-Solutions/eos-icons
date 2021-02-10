@@ -2,7 +2,15 @@
   "name": "action_chains",
   "do": "<ul><li>For chains of actions.</li><li>Also use when multiple steps are required.</li></ul>",
   "dont": "",
-  "tags": ["chain actions", "multiple actions", "consecuences"],
-  "category": ["development"],
-  "type": "static"
+  "tags": [
+    "chain actions",
+    "multiple actions",
+    "consecuences"
+  ],
+  "category": [
+    "development"
+  ],
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

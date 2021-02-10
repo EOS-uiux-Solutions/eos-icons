@@ -2,7 +2,15 @@
   "name": "model_training",
   "do": "",
   "dont": "",
-  "tags": ["lightbulb", "cycle"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "lightbulb",
+    "cycle"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

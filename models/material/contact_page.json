@@ -2,7 +2,16 @@
   "name": "contact_page",
   "do": "",
   "dont": "",
-  "tags": ["approach", "connect", "reach"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "approach",
+    "connect",
+    "reach"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

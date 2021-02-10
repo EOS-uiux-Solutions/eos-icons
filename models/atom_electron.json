@@ -2,7 +2,14 @@
   "name": "atom_electron",
   "do": "<ul><li>Use it to represent running experiments.</li></ul>",
   "dont": "<ul><li>n/a</li></ul>",
-  "tags": ["experiment", "science", "unit", "atom"],
+  "tags": [
+    "experiment",
+    "science",
+    "unit",
+    "atom"
+  ],
   "category": "development",
-  "type": "animated"
+  "type": "animated",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

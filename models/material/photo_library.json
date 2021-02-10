@@ -2,7 +2,16 @@
   "name": "photo_library",
   "do": "",
   "dont": "",
-  "tags": ["photography", "image", "collection"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "photography",
+    "image",
+    "collection"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

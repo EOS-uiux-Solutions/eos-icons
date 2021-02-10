@@ -2,7 +2,18 @@
   "name": "perm_camera_mic",
   "do": "",
   "dont": "",
-  "tags": ["mic", "speaker", "photo", "camera", "microphone"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "mic",
+    "speaker",
+    "photo",
+    "camera",
+    "microphone"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

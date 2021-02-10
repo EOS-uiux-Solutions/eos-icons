@@ -2,7 +2,16 @@
   "name": "request_quote",
   "do": "",
   "dont": "",
-  "tags": ["$", "money", "cash"],
-  "category": ["file"],
-  "type": "static"
+  "tags": [
+    "$",
+    "money",
+    "cash"
+  ],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

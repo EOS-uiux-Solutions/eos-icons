@@ -2,7 +2,17 @@
   "name": "archive",
   "do": "",
   "dont": "",
-  "tags": ["mail", "archive", "store", "inbox"],
-  "category": ["content"],
-  "type": "static"
+  "tags": [
+    "mail",
+    "archive",
+    "store",
+    "inbox"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

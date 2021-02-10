@@ -2,7 +2,17 @@
   "name": "all_inclusive",
   "do": "",
   "dont": "",
-  "tags": ["infinity", "infinite", "eternity", "continuity"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "infinity",
+    "infinite",
+    "eternity",
+    "continuity"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

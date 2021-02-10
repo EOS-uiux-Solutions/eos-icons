@@ -2,7 +2,18 @@
   "name": "business",
   "do": "",
   "dont": "",
-  "tags": ["address", "company", "building", "structure", "Business"],
-  "category": ["communication"],
-  "type": "static"
+  "tags": [
+    "address",
+    "company",
+    "building",
+    "structure",
+    "Business"
+  ],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

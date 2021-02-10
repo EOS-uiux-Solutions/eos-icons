@@ -2,7 +2,18 @@
   "name": "call_received",
   "do": "",
   "dont": "",
-  "tags": ["Call", "arrow", "mobile", "received", "device"],
-  "category": ["communication"],
-  "type": "static"
+  "tags": [
+    "Call",
+    "arrow",
+    "mobile",
+    "received",
+    "device"
+  ],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

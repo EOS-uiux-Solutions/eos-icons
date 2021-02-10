@@ -2,7 +2,17 @@
   "name": "last_page",
   "do": "",
   "dont": "",
-  "tags": ["end", "finale", "move", "later"],
-  "category": ["navigation"],
-  "type": "static"
+  "tags": [
+    "end",
+    "finale",
+    "move",
+    "later"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

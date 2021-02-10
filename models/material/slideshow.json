@@ -2,7 +2,18 @@
   "name": "slideshow",
   "do": "",
   "dont": "",
-  "tags": ["camera", "setting", "presentation", "slide", "play"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "camera",
+    "setting",
+    "presentation",
+    "slide",
+    "play"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

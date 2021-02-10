@@ -2,7 +2,18 @@
   "name": "cancel",
   "do": "",
   "dont": "",
-  "tags": ["remove", "circle", "abort", "omit", "eliminate"],
-  "category": ["navigation"],
-  "type": "static"
+  "tags": [
+    "remove",
+    "circle",
+    "abort",
+    "omit",
+    "eliminate"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

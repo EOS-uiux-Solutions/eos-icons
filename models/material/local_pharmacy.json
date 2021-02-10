@@ -2,7 +2,20 @@
   "name": "local_pharmacy",
   "do": "",
   "dont": "",
-  "tags": ["cross", "911", "emergency", "medicine", "hospital", "aid", "first"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "cross",
+    "911",
+    "emergency",
+    "medicine",
+    "hospital",
+    "aid",
+    "first"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,16 @@
   "name": "no_cell",
   "do": "",
   "dont": "",
-  "tags": ["mobile", "cellphone", "phone"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "mobile",
+    "cellphone",
+    "phone"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

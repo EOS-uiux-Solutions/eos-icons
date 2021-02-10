@@ -2,7 +2,13 @@
   "name": "software",
   "do": "<ul><li>To represent software.</li></ul>",
   "dont": "<ul><li>For software download. Use the material icon file_download instead.</li></ul>",
-  "tags": ["channel", "list", "program"],
+  "tags": [
+    "channel",
+    "list",
+    "program"
+  ],
   "category": "development",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

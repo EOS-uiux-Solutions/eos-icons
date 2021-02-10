@@ -2,7 +2,16 @@
   "name": "power_input",
   "do": "",
   "dont": "",
-  "tags": ["energy", "industry", "plug"],
-  "category": ["hardware"],
-  "type": "static"
+  "tags": [
+    "energy",
+    "industry",
+    "plug"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

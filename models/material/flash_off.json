@@ -2,7 +2,20 @@
   "name": "flash_off",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "image", "style", "custom", "glare", "glow"],
-  "category": ["image"],
-  "type": "static"
+  "tags": [
+    "photography",
+    "photo",
+    "image",
+    "style",
+    "custom",
+    "glare",
+    "glow"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

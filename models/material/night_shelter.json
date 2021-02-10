@@ -12,6 +12,11 @@
     "safety",
     "house"
   ],
-  "category": ["places"],
-  "type": "static"
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

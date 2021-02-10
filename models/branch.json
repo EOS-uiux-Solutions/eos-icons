@@ -2,7 +2,16 @@
   "name": "branch",
   "do": "<ul><li>Use it to identify a division or subdivision of an application, code, repository, etc.</li></ul>",
   "dont": "<ul><li>Don't use it to show hierarchy, endpoints, organization, or file system. All of them have an icon.</li></ul>",
-  "tags": ["branch", "division", "subdivision", "copie", "version", "git"],
+  "tags": [
+    "branch",
+    "division",
+    "subdivision",
+    "copie",
+    "version",
+    "git"
+  ],
   "category": "development",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

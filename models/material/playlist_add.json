@@ -2,7 +2,20 @@
   "name": "playlist_add",
   "do": "",
   "dont": "",
-  "tags": ["add", "play", "Playlist", "music", "collection", "list", "plus"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "add",
+    "play",
+    "Playlist",
+    "music",
+    "collection",
+    "list",
+    "plus"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

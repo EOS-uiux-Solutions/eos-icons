@@ -2,7 +2,19 @@
   "name": "https",
   "do": "",
   "dont": "",
-  "tags": ["lock", "connection", "https", "locked", "secure", "key"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "lock",
+    "connection",
+    "https",
+    "locked",
+    "secure",
+    "key"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

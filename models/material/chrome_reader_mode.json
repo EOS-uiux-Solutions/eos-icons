@@ -2,7 +2,18 @@
   "name": "chrome_reader_mode",
   "do": "",
   "dont": "",
-  "tags": ["mode", "read", "chrome", "reader", "text"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "mode",
+    "read",
+    "chrome",
+    "reader",
+    "text"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

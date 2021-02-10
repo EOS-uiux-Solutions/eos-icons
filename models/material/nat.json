@@ -2,7 +2,16 @@
   "name": "nat",
   "do": "",
   "dont": "",
-  "tags": ["network", "address", "translation"],
-  "category": ["communication"],
-  "type": "static"
+  "tags": [
+    "network",
+    "address",
+    "translation"
+  ],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

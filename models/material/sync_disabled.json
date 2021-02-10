@@ -2,7 +2,17 @@
   "name": "sync_disabled",
   "do": "",
   "dont": "",
-  "tags": ["refresh", "reload", "update", "off"],
-  "category": ["notification"],
-  "type": "static"
+  "tags": [
+    "refresh",
+    "reload",
+    "update",
+    "off"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

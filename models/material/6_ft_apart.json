@@ -2,7 +2,15 @@
   "name": "6_ft_apart",
   "do": "",
   "dont": "",
-  "tags": ["distance", "location"],
-  "category": ["social"],
-  "type": "static"
+  "tags": [
+    "distance",
+    "location"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

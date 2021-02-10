@@ -2,7 +2,13 @@
   "name": "loading",
   "do": "<ul><li>The user is waiting for new content to be served.</li></ul>",
   "dont": "<ul><li>The action returns invisible results for the user.</li></ul>",
-  "tags": ["load", "fill", "charge"],
+  "tags": [
+    "load",
+    "fill",
+    "charge"
+  ],
   "category": "virtualization",
-  "type": "animated"
+  "type": "animated",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

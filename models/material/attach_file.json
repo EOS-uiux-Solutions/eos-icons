@@ -2,7 +2,20 @@
   "name": "attach_file",
   "do": "",
   "dont": "",
-  "tags": ["add", "file", "mail", "link", "attach", "media", "clip"],
-  "category": ["editor"],
-  "type": "static"
+  "tags": [
+    "add",
+    "file",
+    "mail",
+    "link",
+    "attach",
+    "media",
+    "clip"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

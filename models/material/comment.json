@@ -2,7 +2,18 @@
   "name": "comment",
   "do": "",
   "dont": "",
-  "tags": ["Comment", "note", "bubble", "document", "doc"],
-  "category": ["communication"],
-  "type": "static"
+  "tags": [
+    "Comment",
+    "note",
+    "bubble",
+    "document",
+    "doc"
+  ],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

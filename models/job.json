@@ -2,7 +2,15 @@
   "name": "job",
   "do": "<ul><li>Use this icon for algorithm/script that is run to perform a certain action/job</li></ul>",
   "dont": "<ul><li>Use it for flochart and logic scheme</li></ul>",
-  "tags": ["script", "job", "algorithm", "kubernetes", "action"],
+  "tags": [
+    "script",
+    "job",
+    "algorithm",
+    "kubernetes",
+    "action"
+  ],
   "category": "virtualization",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,19 @@
   "name": "dock",
   "do": "",
   "dont": "",
-  "tags": ["connection", "rack", "communication", "plug", "charge", "charging"],
-  "category": ["hardware"],
-  "type": "static"
+  "tags": [
+    "connection",
+    "rack",
+    "communication",
+    "plug",
+    "charge",
+    "charging"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

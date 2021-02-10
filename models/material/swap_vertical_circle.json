@@ -2,7 +2,19 @@
   "name": "swap_vertical_circle",
   "do": "",
   "dont": "",
-  "tags": ["arrow", "arrows", "back", "vertical", "circle", "direction"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "arrow",
+    "arrows",
+    "back",
+    "vertical",
+    "circle",
+    "direction"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

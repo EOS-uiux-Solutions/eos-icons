@@ -2,7 +2,17 @@
   "name": "wheelchair_pickup",
   "do": "",
   "dont": "",
-  "tags": ["station", "stop", "handicapped", "wounded"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "station",
+    "stop",
+    "handicapped",
+    "wounded"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

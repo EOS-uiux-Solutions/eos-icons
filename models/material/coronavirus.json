@@ -2,7 +2,15 @@
   "name": "coronavirus",
   "do": "",
   "dont": "",
-  "tags": ["microorganism", "germ"],
-  "category": ["social"],
-  "type": "static"
+  "tags": [
+    "microorganism",
+    "germ"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

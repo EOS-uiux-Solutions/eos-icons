@@ -2,7 +2,19 @@
   "name": "done_outline",
   "do": "",
   "dont": "",
-  "tags": ["check", "complete", "done", "finished", "mark", "outline"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "check",
+    "complete",
+    "done",
+    "finished",
+    "mark",
+    "outline"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

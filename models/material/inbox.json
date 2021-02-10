@@ -2,7 +2,19 @@
   "name": "inbox",
   "do": "",
   "dont": "",
-  "tags": ["incoming", "mail", "archive", "message", "inbox", "email"],
-  "category": ["content"],
-  "type": "static"
+  "tags": [
+    "incoming",
+    "mail",
+    "archive",
+    "message",
+    "inbox",
+    "email"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,14 @@
   "name": "templates",
   "do": "Use it to represent a mockup or template of any type: configuration, web UI, etc.",
   "dont": "Don't use it for images.",
-  "tags": ["atomic", "arrangement", "guide", "diagram"],
+  "tags": [
+    "atomic",
+    "arrangement",
+    "guide",
+    "diagram"
+  ],
   "category": "design",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

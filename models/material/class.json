@@ -2,7 +2,18 @@
   "name": "class",
   "do": "",
   "dont": "",
-  "tags": ["bookmark", "read", "book", "reading", "class"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "bookmark",
+    "read",
+    "book",
+    "reading",
+    "class"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

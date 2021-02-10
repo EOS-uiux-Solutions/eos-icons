@@ -2,7 +2,18 @@
   "name": "local_pizza",
   "do": "",
   "dont": "",
-  "tags": ["meal", "pizza", "drink", "fastfood", "food"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "meal",
+    "pizza",
+    "drink",
+    "fastfood",
+    "food"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

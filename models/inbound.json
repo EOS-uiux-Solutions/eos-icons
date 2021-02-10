@@ -2,7 +2,14 @@
   "name": "inbound",
   "do": "To illustrate inbound information or data",
   "dont": "To illustrate email behaivor",
-  "tags": ["information", "flow", "incoming", "email"],
+  "tags": [
+    "information",
+    "flow",
+    "incoming",
+    "email"
+  ],
   "category": "communication",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

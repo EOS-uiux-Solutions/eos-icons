@@ -2,7 +2,17 @@
   "name": "switch_left",
   "do": "",
   "dont": "",
-  "tags": ["control", "setting", "arrow", "shuffle"],
-  "category": ["navigation"],
-  "type": "static"
+  "tags": [
+    "control",
+    "setting",
+    "arrow",
+    "shuffle"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

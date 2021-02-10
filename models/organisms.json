@@ -2,7 +2,16 @@
   "name": "organisms",
   "do": "to represent a system or organization consisting of interdependent parts.",
   "dont": "",
-  "tags": ["atomic", "module", "system", "organization", "entity", "structure"],
+  "tags": [
+    "atomic",
+    "module",
+    "system",
+    "organization",
+    "entity",
+    "structure"
+  ],
   "category": "design",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

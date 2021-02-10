@@ -2,7 +2,14 @@
   "name": "fire_extinguisher",
   "do": "",
   "dont": "",
-  "tags": ["extinguish"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "extinguish"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

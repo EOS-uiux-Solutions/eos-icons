@@ -2,7 +2,17 @@
   "name": "tv",
   "do": "",
   "dont": "",
-  "tags": ["television", "watch", "tube", "screen"],
-  "category": ["device"],
-  "type": "static"
+  "tags": [
+    "television",
+    "watch",
+    "tube",
+    "screen"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

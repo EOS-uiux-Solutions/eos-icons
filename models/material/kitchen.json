@@ -2,7 +2,17 @@
   "name": "kitchen",
   "do": "",
   "dont": "",
-  "tags": ["fridge", "refrigerator", "freezer", "cooler"],
-  "category": ["social"],
-  "type": "static"
+  "tags": [
+    "fridge",
+    "refrigerator",
+    "freezer",
+    "cooler"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,19 @@
   "name": "local_police",
   "do": "",
   "dont": "",
-  "tags": ["911", "badge", "law", "officer", "police", "security"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "911",
+    "badge",
+    "law",
+    "officer",
+    "police",
+    "security"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

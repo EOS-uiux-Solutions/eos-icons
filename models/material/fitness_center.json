@@ -2,7 +2,19 @@
   "name": "fitness_center",
   "do": "",
   "dont": "",
-  "tags": ["sport", "health", "weight", "strengh", "dumbbell", "barbbell"],
-  "category": ["places"],
-  "type": "static"
+  "tags": [
+    "sport",
+    "health",
+    "weight",
+    "strengh",
+    "dumbbell",
+    "barbbell"
+  ],
+  "category": [
+    "places"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

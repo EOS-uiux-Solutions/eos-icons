@@ -2,7 +2,19 @@
   "name": "line_weight",
   "do": "",
   "dont": "",
-  "tags": ["spacing", "thickness", "line", "weight", "style", "height"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "spacing",
+    "thickness",
+    "line",
+    "weight",
+    "style",
+    "height"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

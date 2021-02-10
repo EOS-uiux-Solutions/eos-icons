@@ -2,7 +2,16 @@
   "name": "wysiwyg",
   "do": "",
   "dont": "",
-  "tags": ["editor", "text", "design software"],
-  "category": ["action"],
-  "type": "static"
+  "tags": [
+    "editor",
+    "text",
+    "design software"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

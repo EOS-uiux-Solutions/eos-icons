@@ -2,7 +2,16 @@
   "name": "closed_caption_disabled",
   "do": "",
   "dont": "",
-  "tags": ["subs", "subtitles", "off"],
-  "category": ["av"],
-  "type": "static"
+  "tags": [
+    "subs",
+    "subtitles",
+    "off"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

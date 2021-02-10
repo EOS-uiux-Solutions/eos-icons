@@ -2,7 +2,15 @@
   "name": "near_me_disabled",
   "do": "",
   "dont": "",
-  "tags": ["map", "location"],
-  "category": ["maps"],
-  "type": "static"
+  "tags": [
+    "map",
+    "location"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

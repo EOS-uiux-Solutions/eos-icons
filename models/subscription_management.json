@@ -2,7 +2,13 @@
   "name": "subscription_management",
   "do": "<ul><li>To represent SMT/RMT servers with the SMT/RMT server information.</li></ul>",
   "dont": "",
-  "tags": ["SMT", "RMT servers", "server information"],
+  "tags": [
+    "SMT",
+    "RMT servers",
+    "server information"
+  ],
   "category": "services",
-  "type": "static"
+  "type": "static",
+  "label": "EOS",
+  "date": "30/11/2020"
 }

@@ -2,7 +2,15 @@
   "name": "toys",
   "do": "",
   "dont": "",
-  "tags": ["game", "play"],
-  "category": ["hardware"],
-  "type": "static"
+  "tags": [
+    "game",
+    "play"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }

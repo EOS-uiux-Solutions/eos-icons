@@ -2,7 +2,19 @@
   "name": "computer",
   "do": "",
   "dont": "",
-  "tags": ["pc", "laptop", "desktop", "microsoft", "apple", "macbook"],
-  "category": ["device"],
-  "type": "static"
+  "tags": [
+    "pc",
+    "laptop",
+    "desktop",
+    "microsoft",
+    "apple",
+    "macbook"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "hasOutlined": true,
+  "label": "None",
+  "date": "30/11/2020"
 }
