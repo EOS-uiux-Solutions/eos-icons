@@ -2,13 +2,7 @@
   "name": "test_tube",
   "do": "<ul><li>Use it to represent an experiment or test.</li></ul>",
   "dont": "<ul><li>Don't use it to represent a scientist role.</li></ul>",
-  "tags": [
-    "lab",
-    "science",
-    "chemist",
-    "research",
-    "beaker"
-  ],
+  "tags": ["lab", "science", "chemist", "research", "beaker"],
   "category": "social",
   "type": "static",
   "label": "EOS",

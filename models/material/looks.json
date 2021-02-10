@@ -2,17 +2,8 @@
   "name": "looks",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "style",
-    "custom",
-    "glance"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "style", "custom", "glance"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

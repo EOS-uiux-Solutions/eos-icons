@@ -2,17 +2,8 @@
   "name": "line_style",
   "do": "",
   "dont": "",
-  "tags": [
-    "spacing",
-    "line",
-    "rule",
-    "style",
-    "dash",
-    "dotted"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["spacing", "line", "rule", "style", "dash", "dotted"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

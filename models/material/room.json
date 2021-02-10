@@ -2,18 +2,8 @@
   "name": "room",
   "do": "",
   "dont": "",
-  "tags": [
-    "pin",
-    "marker",
-    "spot",
-    "place",
-    "map",
-    "mark",
-    "room"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["pin", "marker", "spot", "place", "map", "mark", "room"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

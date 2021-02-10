@@ -2,16 +2,8 @@
   "name": "watch_later",
   "do": "",
   "dont": "",
-  "tags": [
-    "hour",
-    "watch",
-    "clock",
-    "time",
-    "minute"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["hour", "watch", "clock", "time", "minute"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

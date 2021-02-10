@@ -2,14 +2,8 @@
   "name": "request_quote",
   "do": "",
   "dont": "",
-  "tags": [
-    "$",
-    "money",
-    "cash"
-  ],
-  "category": [
-    "file"
-  ],
+  "tags": ["$", "money", "cash"],
+  "category": ["file"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

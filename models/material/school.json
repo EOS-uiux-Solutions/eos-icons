@@ -2,15 +2,8 @@
   "name": "school",
   "do": "",
   "dont": "",
-  "tags": [
-    "education",
-    "study",
-    "learning",
-    "student"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["education", "study", "learning", "student"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

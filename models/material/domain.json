@@ -2,15 +2,8 @@
   "name": "domain",
   "do": "",
   "dont": "",
-  "tags": [
-    "web",
-    "website",
-    "internet",
-    "www"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["web", "website", "internet", "www"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

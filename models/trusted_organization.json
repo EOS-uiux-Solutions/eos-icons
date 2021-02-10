@@ -2,11 +2,7 @@
   "name": "trusted_organization",
   "do": "<ul><li>To represent a trusted organization.</li></ul>",
   "dont": "<ul><li>To represent certification.</li></ul>",
-  "tags": [
-    "honorable",
-    "credible",
-    "reliable"
-  ],
+  "tags": ["honorable", "credible", "reliable"],
   "category": "services",
   "type": "static",
   "label": "EOS",

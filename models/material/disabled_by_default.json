@@ -2,13 +2,8 @@
   "name": "disabled_by_default",
   "do": "",
   "dont": "",
-  "tags": [
-    "off",
-    "unavailable"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["off", "unavailable"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

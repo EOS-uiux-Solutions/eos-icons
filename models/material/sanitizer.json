@@ -2,16 +2,8 @@
   "name": "sanitizer",
   "do": "",
   "dont": "",
-  "tags": [
-    "disinfect",
-    "disinfection",
-    "antiseptic",
-    "sanitize",
-    "virus"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["disinfect", "disinfection", "antiseptic", "sanitize", "virus"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

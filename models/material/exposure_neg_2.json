@@ -11,9 +11,7 @@
     "light",
     "negative"
   ],
-  "category": [
-    "image"
-  ],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,16 +2,8 @@
   "name": "gamepad",
   "do": "",
   "dont": "",
-  "tags": [
-    "toy",
-    "videogame",
-    "joystick",
-    "stick",
-    "button"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["toy", "videogame", "joystick", "stick", "button"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

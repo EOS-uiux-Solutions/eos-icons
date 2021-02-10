@@ -2,14 +2,8 @@
   "name": "brush",
   "do": "",
   "dont": "",
-  "tags": [
-    "pencil",
-    "paintbrush",
-    "watercolor"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["pencil", "paintbrush", "watercolor"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,19 +2,8 @@
   "name": "calculate",
   "do": "",
   "dont": "",
-  "tags": [
-    "+",
-    "-",
-    "=",
-    "account",
-    "calculate",
-    "count",
-    "fiance",
-    "math"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["+", "-", "=", "account", "calculate", "count", "fiance", "math"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "style",
   "do": "",
   "dont": "",
-  "tags": [
-    "camera",
-    "setting",
-    "pattern"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["camera", "setting", "pattern"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

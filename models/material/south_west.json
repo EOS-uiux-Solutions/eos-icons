@@ -2,16 +2,8 @@
   "name": "south_west",
   "do": "",
   "dont": "",
-  "tags": [
-    "direction",
-    "arrow",
-    "compass",
-    "sign",
-    "travel"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["direction", "arrow", "compass", "sign", "travel"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

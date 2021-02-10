@@ -2,13 +2,7 @@
   "name": "storage_class",
   "do": "<ul><li>Use it when defining a profile or label that can be applied to storage to assign predefined options.</li></ul>",
   "dont": "<ul><li>Don't use it for tags or labels in general</li></ul>",
-  "tags": [
-    "tag",
-    "label",
-    "profile",
-    "kubernetes",
-    "data"
-  ],
+  "tags": ["tag", "label", "profile", "kubernetes", "data"],
   "category": "virtualization",
   "type": "static",
   "label": "EOS",

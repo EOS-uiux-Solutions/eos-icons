@@ -2,12 +2,7 @@
   "name": "virtual_space",
   "do": "<ul><li>To represent a Cloudfoundry space.</li></ul>",
   "dont": "<ul><li>To represent an action.</li></ul>",
-  "tags": [
-    "cloudfoundry",
-    "kubernetes",
-    "spaces",
-    "simulation"
-  ],
+  "tags": ["cloudfoundry", "kubernetes", "spaces", "simulation"],
   "category": "virtualization",
   "type": "static",
   "label": "EOS",

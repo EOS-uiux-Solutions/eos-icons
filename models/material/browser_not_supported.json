@@ -2,12 +2,8 @@
   "name": "browser_not_supported",
   "do": "",
   "dont": "",
-  "tags": [
-    "unsupported"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["unsupported"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

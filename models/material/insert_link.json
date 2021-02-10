@@ -2,18 +2,8 @@
   "name": "insert_link",
   "do": "",
   "dont": "",
-  "tags": [
-    "add",
-    "file",
-    "mail",
-    "link",
-    "attach",
-    "media",
-    "clip"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["add", "file", "mail", "link", "attach", "media", "clip"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

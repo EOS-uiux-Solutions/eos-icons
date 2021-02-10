@@ -2,17 +2,8 @@
   "name": "save",
   "do": "",
   "dont": "",
-  "tags": [
-    "disk",
-    "multimedia",
-    "file",
-    "floppy",
-    "document",
-    "save"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["disk", "multimedia", "file", "floppy", "document", "save"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

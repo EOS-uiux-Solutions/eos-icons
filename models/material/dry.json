@@ -2,14 +2,8 @@
   "name": "dry",
   "do": "",
   "dont": "",
-  "tags": [
-    "blow",
-    "towel",
-    "wipe"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["blow", "towel", "wipe"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

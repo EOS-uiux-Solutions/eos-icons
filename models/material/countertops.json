@@ -2,13 +2,8 @@
   "name": "countertops",
   "do": "",
   "dont": "",
-  "tags": [
-    "surface",
-    "worktable"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["surface", "worktable"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

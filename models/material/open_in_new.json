@@ -2,16 +2,8 @@
   "name": "open_in_new",
   "do": "",
   "dont": "",
-  "tags": [
-    "new",
-    "arrow",
-    "box",
-    "window",
-    "open"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["new", "arrow", "box", "window", "open"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

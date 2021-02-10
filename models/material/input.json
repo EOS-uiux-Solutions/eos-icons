@@ -2,15 +2,8 @@
   "name": "input",
   "do": "",
   "dont": "",
-  "tags": [
-    "input",
-    "arrow",
-    "box",
-    "right"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["input", "arrow", "box", "right"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

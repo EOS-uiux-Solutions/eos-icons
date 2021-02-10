@@ -2,16 +2,8 @@
   "name": "texture",
   "do": "",
   "dont": "",
-  "tags": [
-    "camera",
-    "pattern",
-    "background",
-    "setting",
-    "photo"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["camera", "pattern", "background", "setting", "photo"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

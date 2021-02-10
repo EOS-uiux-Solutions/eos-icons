@@ -2,16 +2,8 @@
   "name": "group_add",
   "do": "",
   "dont": "",
-  "tags": [
-    "team",
-    "people",
-    "users",
-    "plus",
-    "new"
-  ],
-  "category": [
-    "roles"
-  ],
+  "tags": ["team", "people", "users", "plus", "new"],
+  "category": ["roles"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

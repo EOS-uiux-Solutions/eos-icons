@@ -2,16 +2,8 @@
   "name": "amp_stories",
   "do": "",
   "dont": "",
-  "tags": [
-    "amp",
-    "flow",
-    "gallery",
-    "stories",
-    "view"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["amp", "flow", "gallery", "stories", "view"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

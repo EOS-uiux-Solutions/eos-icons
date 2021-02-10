@@ -2,17 +2,8 @@
   "name": "cake",
   "do": "",
   "dont": "",
-  "tags": [
-    "dessert",
-    "food",
-    "sweet",
-    "birthday",
-    "party",
-    "celebration"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["dessert", "food", "sweet", "birthday", "party", "celebration"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

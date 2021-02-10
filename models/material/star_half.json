@@ -10,9 +10,7 @@
     "rank",
     "fifty percent"
   ],
-  "category": [
-    "toggle"
-  ],
+  "category": ["toggle"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

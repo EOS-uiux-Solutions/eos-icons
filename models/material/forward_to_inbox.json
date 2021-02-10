@@ -2,13 +2,8 @@
   "name": "forward_to_inbox",
   "do": "",
   "dont": "",
-  "tags": [
-    "email",
-    "send to"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["email", "send to"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

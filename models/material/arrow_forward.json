@@ -2,16 +2,8 @@
   "name": "arrow_forward",
   "do": "",
   "dont": "",
-  "tags": [
-    "direction",
-    "right",
-    "indicator",
-    "ahead",
-    "onward"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["direction", "right", "indicator", "ahead", "onward"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

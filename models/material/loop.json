@@ -2,17 +2,8 @@
   "name": "loop",
   "do": "",
   "dont": "",
-  "tags": [
-    "Loop",
-    "rotate",
-    "music",
-    "arrow",
-    "repeat",
-    "arrows"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["Loop", "rotate", "music", "arrow", "repeat", "arrows"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

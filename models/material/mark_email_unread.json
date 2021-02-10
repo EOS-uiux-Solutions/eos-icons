@@ -2,14 +2,8 @@
   "name": "mark_email_unread",
   "do": "",
   "dont": "",
-  "tags": [
-    "message",
-    "not seen",
-    "unseen"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["message", "not seen", "unseen"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

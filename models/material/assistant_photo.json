@@ -2,13 +2,8 @@
   "name": "assistant_photo",
   "do": "",
   "dont": "",
-  "tags": [
-    "aide",
-    "help"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["aide", "help"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

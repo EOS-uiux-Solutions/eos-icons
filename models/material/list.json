@@ -2,16 +2,8 @@
   "name": "list",
   "do": "",
   "dont": "",
-  "tags": [
-    "file",
-    "format",
-    "index",
-    "list",
-    "menu"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["file", "format", "index", "list", "menu"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

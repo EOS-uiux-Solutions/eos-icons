@@ -2,16 +2,8 @@
   "name": "android",
   "do": "",
   "dont": "",
-  "tags": [
-    "character",
-    "mascot",
-    "android",
-    "logo",
-    "toy"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["character", "mascot", "android", "logo", "toy"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

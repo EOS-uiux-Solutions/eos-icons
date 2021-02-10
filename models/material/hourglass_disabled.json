@@ -2,17 +2,8 @@
   "name": "hourglass_disabled",
   "do": "",
   "dont": "",
-  "tags": [
-    "off",
-    "time",
-    "countdown",
-    "loading",
-    "waiting",
-    "minutes"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["off", "time", "countdown", "loading", "waiting", "minutes"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

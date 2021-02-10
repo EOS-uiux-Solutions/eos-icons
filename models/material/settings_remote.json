@@ -2,15 +2,8 @@
   "name": "settings_remote",
   "do": "",
   "dont": "",
-  "tags": [
-    "settings",
-    "wifi",
-    "bluetooth",
-    "remote"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["settings", "wifi", "bluetooth", "remote"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

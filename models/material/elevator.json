@@ -2,12 +2,8 @@
   "name": "elevator",
   "do": "",
   "dont": "",
-  "tags": [
-    "lift"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["lift"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,15 +2,8 @@
   "name": "directions_off",
   "do": "",
   "dont": "",
-  "tags": [
-    "turn",
-    "arrow",
-    "steer",
-    "canceled"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["turn", "arrow", "steer", "canceled"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

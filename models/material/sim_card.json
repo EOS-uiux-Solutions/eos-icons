@@ -2,13 +2,8 @@
   "name": "sim_card",
   "do": "",
   "dont": "",
-  "tags": [
-    "telephone",
-    "communication"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["telephone", "communication"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,13 +2,8 @@
   "name": "fence",
   "do": "",
   "dont": "",
-  "tags": [
-    "rail",
-    "net"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["rail", "net"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

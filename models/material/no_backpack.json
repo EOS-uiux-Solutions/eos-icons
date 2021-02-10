@@ -2,12 +2,8 @@
   "name": "no_backpack",
   "do": "",
   "dont": "",
-  "tags": [
-    "rucksack"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["rucksack"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

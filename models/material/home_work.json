@@ -14,9 +14,7 @@
     "shelter",
     "work"
   ],
-  "category": [
-    "navigation"
-  ],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

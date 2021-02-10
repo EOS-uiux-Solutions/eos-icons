@@ -2,15 +2,8 @@
   "name": "all_inclusive",
   "do": "",
   "dont": "",
-  "tags": [
-    "infinity",
-    "infinite",
-    "eternity",
-    "continuity"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["infinity", "infinite", "eternity", "continuity"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

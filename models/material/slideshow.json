@@ -2,16 +2,8 @@
   "name": "slideshow",
   "do": "",
   "dont": "",
-  "tags": [
-    "camera",
-    "setting",
-    "presentation",
-    "slide",
-    "play"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["camera", "setting", "presentation", "slide", "play"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

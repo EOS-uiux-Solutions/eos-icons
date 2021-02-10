@@ -2,14 +2,8 @@
   "name": "pages",
   "do": "",
   "dont": "",
-  "tags": [
-    "documents",
-    "files",
-    "document"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["documents", "files", "document"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

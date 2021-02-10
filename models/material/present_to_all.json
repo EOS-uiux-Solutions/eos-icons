@@ -10,9 +10,7 @@
     "present",
     "device"
   ],
-  "category": [
-    "communication"
-  ],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

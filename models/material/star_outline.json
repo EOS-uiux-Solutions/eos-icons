@@ -14,9 +14,7 @@
     "star",
     "toggle"
   ],
-  "category": [
-    "toggle"
-  ],
+  "category": ["toggle"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

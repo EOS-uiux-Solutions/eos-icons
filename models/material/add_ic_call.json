@@ -2,18 +2,8 @@
   "name": "add_ic_call",
   "do": "",
   "dont": "",
-  "tags": [
-    "add",
-    "call",
-    "contact",
-    "device",
-    "mobile",
-    "phone",
-    "plus"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["add", "call", "contact", "device", "mobile", "phone", "plus"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,13 +2,8 @@
   "name": "wifi_protected_setup",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "cycle"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["arrow", "cycle"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

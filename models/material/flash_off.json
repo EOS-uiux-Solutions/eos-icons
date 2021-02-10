@@ -2,18 +2,8 @@
   "name": "flash_off",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "style",
-    "custom",
-    "glare",
-    "glow"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "style", "custom", "glare", "glow"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

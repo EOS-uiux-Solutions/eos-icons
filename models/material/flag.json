@@ -2,18 +2,8 @@
   "name": "flag",
   "do": "",
   "dont": "",
-  "tags": [
-    "country",
-    "flag",
-    "goal",
-    "nation",
-    "report",
-    "start",
-    "mark"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["country", "flag", "goal", "nation", "report", "start", "mark"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

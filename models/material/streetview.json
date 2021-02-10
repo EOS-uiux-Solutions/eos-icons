@@ -2,15 +2,8 @@
   "name": "streetview",
   "do": "",
   "dont": "",
-  "tags": [
-    "maps",
-    "google maps",
-    "ar",
-    "road"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["maps", "google maps", "ar", "road"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

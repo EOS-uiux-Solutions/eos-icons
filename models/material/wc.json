@@ -2,15 +2,8 @@
   "name": "wc",
   "do": "",
   "dont": "",
-  "tags": [
-    "toilet",
-    "bathroom",
-    "restroom",
-    "bath"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["toilet", "bathroom", "restroom", "bath"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

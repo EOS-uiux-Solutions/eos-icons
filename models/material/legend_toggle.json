@@ -2,13 +2,8 @@
   "name": "legend_toggle",
   "do": "",
   "dont": "",
-  "tags": [
-    "caption",
-    "subtitle"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["caption", "subtitle"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

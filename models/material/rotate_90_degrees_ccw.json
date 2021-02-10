@@ -2,14 +2,8 @@
   "name": "rotate_90_degrees_ccw",
   "do": "",
   "dont": "",
-  "tags": [
-    "camera",
-    "setting",
-    "image"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["camera", "setting", "image"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

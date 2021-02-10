@@ -17,9 +17,7 @@
     "device",
     "hardware"
   ],
-  "category": [
-    "device"
-  ],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

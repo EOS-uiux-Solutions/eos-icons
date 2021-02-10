@@ -2,16 +2,8 @@
   "name": "settings_phone",
   "do": "",
   "dont": "",
-  "tags": [
-    "settings",
-    "phone",
-    "mobile",
-    "cell",
-    "device"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["settings", "phone", "mobile", "cell", "device"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

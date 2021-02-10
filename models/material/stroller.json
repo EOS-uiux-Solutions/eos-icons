@@ -2,16 +2,8 @@
   "name": "stroller",
   "do": "",
   "dont": "",
-  "tags": [
-    "baby",
-    "care",
-    "kid",
-    "pushchair",
-    "child"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["baby", "care", "kid", "pushchair", "child"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

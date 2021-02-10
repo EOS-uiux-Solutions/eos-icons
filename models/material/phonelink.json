@@ -2,13 +2,8 @@
   "name": "phonelink",
   "do": "",
   "dont": "",
-  "tags": [
-    "phone",
-    "link"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["phone", "link"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

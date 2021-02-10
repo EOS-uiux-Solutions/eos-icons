@@ -2,13 +2,8 @@
   "name": "microwave",
   "do": "",
   "dont": "",
-  "tags": [
-    "food",
-    "heating"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["food", "heating"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

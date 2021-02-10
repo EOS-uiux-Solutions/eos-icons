@@ -2,17 +2,8 @@
   "name": "cloud_circle",
   "do": "",
   "dont": "",
-  "tags": [
-    "cloud",
-    "server",
-    "storage",
-    "remote",
-    "circle",
-    "round"
-  ],
-  "category": [
-    "file"
-  ],
+  "tags": ["cloud", "server", "storage", "remote", "circle", "round"],
+  "category": ["file"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

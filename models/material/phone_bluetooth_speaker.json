@@ -11,9 +11,7 @@
     "volume",
     "connectivity"
   ],
-  "category": [
-    "notification"
-  ],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

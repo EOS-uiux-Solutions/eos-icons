@@ -2,16 +2,8 @@
   "name": "compare_arrows",
   "do": "",
   "dont": "",
-  "tags": [
-    "compare",
-    "arrow",
-    "arrows",
-    "facing",
-    "pointing"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["compare", "arrow", "arrows", "facing", "pointing"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

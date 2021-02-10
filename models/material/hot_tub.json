@@ -2,14 +2,8 @@
   "name": "hot_tub",
   "do": "",
   "dont": "",
-  "tags": [
-    "bath",
-    "whirlpool",
-    "bubble"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["bath", "whirlpool", "bubble"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

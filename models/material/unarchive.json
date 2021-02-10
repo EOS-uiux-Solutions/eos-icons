@@ -2,18 +2,8 @@
   "name": "unarchive",
   "do": "",
   "dont": "",
-  "tags": [
-    "undo",
-    "mail",
-    "arrow",
-    "archive",
-    "store",
-    "up",
-    "inbox"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["undo", "mail", "arrow", "archive", "store", "up", "inbox"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

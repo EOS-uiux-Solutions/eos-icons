@@ -2,17 +2,8 @@
   "name": "check_circle_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "check",
-    "circle",
-    "complete",
-    "done",
-    "finished",
-    "outline"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["check", "circle", "complete", "done", "finished", "outline"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

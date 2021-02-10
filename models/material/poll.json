@@ -2,17 +2,8 @@
   "name": "poll",
   "do": "",
   "dont": "",
-  "tags": [
-    "vote",
-    "election",
-    "survey",
-    "voting",
-    "graph",
-    "bar"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["vote", "election", "survey", "voting", "graph", "bar"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

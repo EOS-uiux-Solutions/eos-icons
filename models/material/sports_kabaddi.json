@@ -21,9 +21,7 @@
     "wrestle",
     "wrestling"
   ],
-  "category": [
-    "social"
-  ],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

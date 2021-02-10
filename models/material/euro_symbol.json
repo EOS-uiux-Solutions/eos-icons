@@ -2,16 +2,8 @@
   "name": "euro_symbol",
   "do": "",
   "dont": "",
-  "tags": [
-    "symbol",
-    "euro",
-    "money",
-    "currency",
-    "dollar"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["symbol", "euro", "money", "currency", "dollar"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

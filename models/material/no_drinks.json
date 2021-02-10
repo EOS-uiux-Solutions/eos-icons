@@ -2,13 +2,8 @@
   "name": "no_drinks",
   "do": "",
   "dont": "",
-  "tags": [
-    "beberage",
-    "liquids"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["beberage", "liquids"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

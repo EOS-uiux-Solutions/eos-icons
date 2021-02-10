@@ -2,13 +2,8 @@
   "name": "lightbulb_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "light",
-    "idea"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["light", "idea"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

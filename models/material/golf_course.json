@@ -2,15 +2,8 @@
   "name": "golf_course",
   "do": "",
   "dont": "",
-  "tags": [
-    "sport",
-    "game",
-    "fun",
-    "play"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["sport", "game", "fun", "play"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

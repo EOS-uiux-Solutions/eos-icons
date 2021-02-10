@@ -2,19 +2,8 @@
   "name": "post_add",
   "do": "",
   "dont": "",
-  "tags": [
-    "+",
-    "add",
-    "doc",
-    "document",
-    "plus",
-    "post",
-    "text",
-    "writing"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["+", "add", "doc", "document", "plus", "post", "text", "writing"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

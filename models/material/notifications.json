@@ -2,16 +2,8 @@
   "name": "notifications",
   "do": "",
   "dont": "",
-  "tags": [
-    "alert",
-    "notification",
-    "alarm",
-    "ring",
-    "attention"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["alert", "notification", "alarm", "ring", "attention"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

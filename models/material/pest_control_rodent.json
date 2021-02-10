@@ -2,15 +2,8 @@
   "name": "pest_control_rodent",
   "do": "",
   "dont": "",
-  "tags": [
-    "rodent",
-    "mouse",
-    "rat",
-    "mice"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["rodent", "mouse", "rat", "mice"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

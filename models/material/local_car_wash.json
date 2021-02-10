@@ -2,16 +2,8 @@
   "name": "local_car_wash",
   "do": "",
   "dont": "",
-  "tags": [
-    "auto",
-    "car",
-    "wash",
-    "local",
-    "vehicle"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["auto", "car", "wash", "local", "vehicle"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

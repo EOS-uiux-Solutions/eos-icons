@@ -2,15 +2,8 @@
   "name": "mode_comment",
   "do": "",
   "dont": "",
-  "tags": [
-    "bubble",
-    "speech",
-    "chat",
-    "comment"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["bubble", "speech", "chat", "comment"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

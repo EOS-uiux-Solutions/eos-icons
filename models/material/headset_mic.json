@@ -2,17 +2,8 @@
   "name": "headset_mic",
   "do": "",
   "dont": "",
-  "tags": [
-    "audio",
-    "music",
-    "sound",
-    "conference",
-    "listen",
-    "input"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["audio", "music", "sound", "conference", "listen", "input"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "tablet",
   "do": "",
   "dont": "",
-  "tags": [
-    "pad",
-    "ipad",
-    "memo"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["pad", "ipad", "memo"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

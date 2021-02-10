@@ -2,17 +2,8 @@
   "name": "mood",
   "do": "",
   "dont": "",
-  "tags": [
-    "emoticon",
-    "face",
-    "emotion",
-    "expression",
-    "sad",
-    "happy"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["emoticon", "face", "emotion", "expression", "sad", "happy"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "remove_red_eye",
   "do": "",
   "dont": "",
-  "tags": [
-    "delete",
-    "view",
-    "vision"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["delete", "view", "vision"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",
