@@ -18,9 +18,7 @@
     "supervisor",
     "parents"
   ],
-  "category": [
-    "roles"
-  ],
+  "category": ["roles"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

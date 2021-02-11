@@ -2,16 +2,8 @@
   "name": "tapas",
   "do": "",
   "dont": "",
-  "tags": [
-    "food",
-    "spanish",
-    "meal",
-    "dinner",
-    "restaurant"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["food", "spanish", "meal", "dinner", "restaurant"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

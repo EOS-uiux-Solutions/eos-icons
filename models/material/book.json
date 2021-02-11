@@ -2,15 +2,8 @@
   "name": "book",
   "do": "",
   "dont": "",
-  "tags": [
-    "bookmark",
-    "read",
-    "book",
-    "reading"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["bookmark", "read", "book", "reading"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

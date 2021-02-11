@@ -2,18 +2,8 @@
   "name": "insert_drive_file",
   "do": "",
   "dont": "",
-  "tags": [
-    "file",
-    "slide",
-    "format",
-    "doc",
-    "insert",
-    "sheet",
-    "drive"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["file", "slide", "format", "doc", "insert", "sheet", "drive"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

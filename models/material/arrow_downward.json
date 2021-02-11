@@ -2,15 +2,8 @@
   "name": "arrow_downward",
   "do": "",
   "dont": "",
-  "tags": [
-    "direction",
-    "down",
-    "downwards",
-    "dash"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["direction", "down", "downwards", "dash"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

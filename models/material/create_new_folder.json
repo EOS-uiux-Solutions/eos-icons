@@ -11,9 +11,7 @@
     "documents",
     "repository"
   ],
-  "category": [
-    "file"
-  ],
+  "category": ["file"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

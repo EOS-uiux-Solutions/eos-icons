@@ -12,9 +12,7 @@
     "safety",
     "house"
   ],
-  "category": [
-    "places"
-  ],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,17 +2,8 @@
   "name": "open_in_browser",
   "do": "",
   "dont": "",
-  "tags": [
-    "new",
-    "arrow",
-    "browser",
-    "box",
-    "window",
-    "open"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["new", "arrow", "browser", "box", "window", "open"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -10,9 +10,7 @@
     "option",
     "unchecked"
   ],
-  "category": [
-    "toggle"
-  ],
+  "category": ["toggle"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

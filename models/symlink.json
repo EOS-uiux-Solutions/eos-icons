@@ -2,11 +2,7 @@
   "name": "symlink",
   "do": "<ul><li>To represent a file that contains a reference to another file or directory.</li></ul>",
   "dont": "<ul><li>To represent an external link, or links of any type other the one described above.</li></ul>",
-  "tags": [
-    "link",
-    "symbolic",
-    "reference"
-  ],
+  "tags": ["link", "symbolic", "reference"],
   "category": "development",
   "type": "static",
   "label": "EOS",

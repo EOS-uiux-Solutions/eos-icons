@@ -2,13 +2,8 @@
   "name": "videogame_asset",
   "do": "",
   "dont": "",
-  "tags": [
-    "device",
-    "game"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["device", "game"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

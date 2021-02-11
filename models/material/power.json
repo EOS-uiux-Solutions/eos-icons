@@ -2,17 +2,8 @@
   "name": "power",
   "do": "",
   "dont": "",
-  "tags": [
-    "energy",
-    "switch",
-    "electricity",
-    "on",
-    "connector",
-    "plug"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["energy", "switch", "electricity", "on", "connector", "plug"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

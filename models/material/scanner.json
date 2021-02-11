@@ -2,13 +2,8 @@
   "name": "scanner",
   "do": "",
   "dont": "",
-  "tags": [
-    "ocr",
-    "digitalize"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["ocr", "digitalize"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

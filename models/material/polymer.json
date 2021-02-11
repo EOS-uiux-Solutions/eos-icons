@@ -2,15 +2,8 @@
   "name": "polymer",
   "do": "",
   "dont": "",
-  "tags": [
-    "polymer",
-    "logo",
-    "emblem",
-    "mark"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["polymer", "logo", "emblem", "mark"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

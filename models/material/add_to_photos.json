@@ -2,17 +2,8 @@
   "name": "add_to_photos",
   "do": "",
   "dont": "",
-  "tags": [
-    "image",
-    "picture",
-    "snapshot",
-    "add",
-    "photo",
-    "photography"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["image", "picture", "snapshot", "add", "photo", "photography"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

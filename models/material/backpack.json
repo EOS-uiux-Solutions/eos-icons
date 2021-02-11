@@ -2,16 +2,8 @@
   "name": "backpack",
   "do": "",
   "dont": "",
-  "tags": [
-    "rucksack",
-    "knapsack",
-    "pack",
-    "bag",
-    "hike"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["rucksack", "knapsack", "pack", "bag", "hike"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

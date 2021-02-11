@@ -2,16 +2,8 @@
   "name": "local_printshop",
   "do": "",
   "dont": "",
-  "tags": [
-    "composer",
-    "pressroom",
-    "printer",
-    "pressroom",
-    "ink"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["composer", "pressroom", "printer", "pressroom", "ink"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

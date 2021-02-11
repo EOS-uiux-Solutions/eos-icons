@@ -2,17 +2,8 @@
   "name": "chat_bubble_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "bubble",
-    "speech",
-    "Chat",
-    "talk",
-    "text",
-    "message"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["bubble", "speech", "Chat", "talk", "text", "message"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

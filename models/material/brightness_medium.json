@@ -11,9 +11,7 @@
     "monitor",
     "medium"
   ],
-  "category": [
-    "device"
-  ],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

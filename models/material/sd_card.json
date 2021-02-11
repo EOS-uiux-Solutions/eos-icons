@@ -2,17 +2,8 @@
   "name": "sd_card",
   "do": "",
   "dont": "",
-  "tags": [
-    "information",
-    "data",
-    "memory",
-    "usb",
-    "drive",
-    "storage"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["information", "data", "memory", "usb", "drive", "storage"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

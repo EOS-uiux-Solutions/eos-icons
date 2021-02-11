@@ -2,15 +2,8 @@
   "name": "phone_forwarded",
   "do": "",
   "dont": "",
-  "tags": [
-    "mobile",
-    "smartphone",
-    "call",
-    "communication"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["mobile", "smartphone", "call", "communication"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

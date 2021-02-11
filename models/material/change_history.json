@@ -2,15 +2,8 @@
   "name": "change_history",
   "do": "",
   "dont": "",
-  "tags": [
-    "shape",
-    "change",
-    "history",
-    "triangle"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["shape", "change", "history", "triangle"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

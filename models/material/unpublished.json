@@ -2,13 +2,8 @@
   "name": "unpublished",
   "do": "",
   "dont": "",
-  "tags": [
-    "unprinted",
-    "not public"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["unprinted", "not public"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

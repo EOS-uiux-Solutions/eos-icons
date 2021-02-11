@@ -2,14 +2,8 @@
   "name": "confirmation_number",
   "do": "",
   "dont": "",
-  "tags": [
-    "ticket",
-    "card",
-    "coupon"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["ticket", "card", "coupon"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "open_in_full",
   "do": "",
   "dont": "",
-  "tags": [
-    "full screen",
-    "full size",
-    "resize"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["full screen", "full size", "resize"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

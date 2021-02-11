@@ -2,16 +2,8 @@
   "name": "live_tv",
   "do": "",
   "dont": "",
-  "tags": [
-    "telly",
-    "video",
-    "television",
-    "screen",
-    "real time"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["telly", "video", "television", "screen", "real time"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

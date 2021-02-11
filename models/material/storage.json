@@ -2,16 +2,8 @@
   "name": "storage",
   "do": "",
   "dont": "",
-  "tags": [
-    "computer",
-    "memory",
-    "data",
-    "storage",
-    "drive"
-  ],
-  "category": [
-    "device"
-  ],
+  "tags": ["computer", "memory", "data", "storage", "drive"],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

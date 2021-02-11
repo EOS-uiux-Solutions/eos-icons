@@ -2,15 +2,7 @@
   "name": "miscellaneous",
   "do": "<ul><li>To indicate an additional set of features or actions that might not have been included in other sections.</li></ul>",
   "dont": "<ul><li>To indicate elements that are unrelated to the application.</li></ul>",
-  "tags": [
-    "misc",
-    "various",
-    "varied",
-    "mix",
-    "assorted",
-    "mixed",
-    "diverse"
-  ],
+  "tags": ["misc", "various", "varied", "mix", "assorted", "mixed", "diverse"],
   "category": "design",
   "type": "static",
   "label": "EOS",

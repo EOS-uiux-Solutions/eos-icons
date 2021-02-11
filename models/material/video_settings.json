@@ -12,9 +12,7 @@
     "setting",
     "settings"
   ],
-  "category": [
-    "av"
-  ],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

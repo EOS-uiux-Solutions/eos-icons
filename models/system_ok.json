@@ -2,13 +2,7 @@
   "name": "system_ok",
   "do": "<ul><li>Use it to show the state of a system as correct, patched, fixed, or others.</li></ul>",
   "dont": "<ul><li>Don't use it for general success in an action. In that case, you should use \"check\".</li></ul>",
-  "tags": [
-    "patched",
-    "systemfixed",
-    "fixed",
-    "correct",
-    "verified"
-  ],
+  "tags": ["patched", "systemfixed", "fixed", "correct", "verified"],
   "category": "hardware",
   "type": "static",
   "label": "EOS",

@@ -2,14 +2,7 @@
   "name": "critical_bug",
   "do": "<ul><li>To represent a critical bug fix or detection.</li></ul>",
   "dont": "<ul><li>To display alerts or errors.</li></ul>",
-  "tags": [
-    "bug",
-    "error",
-    "fault",
-    "flaw",
-    "glitch",
-    "defect"
-  ],
+  "tags": ["bug", "error", "fault", "flaw", "glitch", "defect"],
   "category": "development",
   "type": "static",
   "label": "EOS",

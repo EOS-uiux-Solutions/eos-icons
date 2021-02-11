@@ -2,17 +2,8 @@
   "name": "keyboard_arrow_left",
   "do": "",
   "dont": "",
-  "tags": [
-    "writing",
-    "words",
-    "type",
-    "key",
-    "letter",
-    "words"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["writing", "words", "type", "key", "letter", "words"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

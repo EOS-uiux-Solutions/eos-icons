@@ -2,17 +2,8 @@
   "name": "line_weight",
   "do": "",
   "dont": "",
-  "tags": [
-    "spacing",
-    "thickness",
-    "line",
-    "weight",
-    "style",
-    "height"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["spacing", "thickness", "line", "weight", "style", "height"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

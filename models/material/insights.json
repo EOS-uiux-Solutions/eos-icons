@@ -2,13 +2,8 @@
   "name": "insights",
   "do": "",
   "dont": "",
-  "tags": [
-    "understanding",
-    "awareness"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["understanding", "awareness"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,18 +2,8 @@
   "name": "add_circle_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "add",
-    "new",
-    "create",
-    "box",
-    "+",
-    "circle",
-    "plus"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["add", "new", "create", "box", "+", "circle", "plus"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

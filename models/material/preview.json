@@ -2,16 +2,8 @@
   "name": "preview",
   "do": "",
   "dont": "",
-  "tags": [
-    "sample",
-    "sneak",
-    "advance showing",
-    "sneak peek",
-    "premiere"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["sample", "sneak", "advance showing", "sneak peek", "premiere"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,18 +2,8 @@
   "name": "flare",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "style",
-    "custom",
-    "burst",
-    "glow"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "style", "custom", "burst", "glow"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

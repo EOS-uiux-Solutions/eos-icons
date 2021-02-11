@@ -2,15 +2,8 @@
   "name": "settings_system_daydream",
   "do": "",
   "dont": "",
-  "tags": [
-    "cloud",
-    "system",
-    "daydream",
-    "setting"
-  ],
-  "category": [
-    "device"
-  ],
+  "tags": ["cloud", "system", "daydream", "setting"],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

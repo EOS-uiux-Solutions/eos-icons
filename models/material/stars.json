@@ -2,18 +2,8 @@
   "name": "stars",
   "do": "",
   "dont": "",
-  "tags": [
-    "love",
-    "star",
-    "like",
-    "rate",
-    "rating",
-    "circle",
-    "favorite"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["love", "star", "like", "rate", "rating", "circle", "favorite"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "wine_bar",
   "do": "",
   "dont": "",
-  "tags": [
-    "glass",
-    "drink",
-    "beverage"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["glass", "drink", "beverage"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -14,9 +14,7 @@
     "title",
     "order"
   ],
-  "category": [
-    "action"
-  ],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

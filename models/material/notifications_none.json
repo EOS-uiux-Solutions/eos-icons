@@ -2,16 +2,8 @@
   "name": "notifications_none",
   "do": "",
   "dont": "",
-  "tags": [
-    "bell",
-    "alert",
-    "notification",
-    "alarm",
-    "ring"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["bell", "alert", "notification", "alarm", "ring"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

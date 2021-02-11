@@ -2,11 +2,7 @@
   "name": "pin",
   "do": "<ul><li>For actions that will let the user pin certain information to a list, table, or another type of accumulative data form.</li></ul>",
   "dont": "<ul><li>To attache a file.</li></ul>",
-  "tags": [
-    "nail",
-    "badge",
-    "brooch"
-  ],
+  "tags": ["nail", "badge", "brooch"],
   "category": "action",
   "type": "static",
   "label": "EOS",

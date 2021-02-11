@@ -2,15 +2,8 @@
   "name": "security",
   "do": "",
   "dont": "",
-  "tags": [
-    "lock",
-    "safe",
-    "precoution",
-    "guard"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["lock", "safe", "precoution", "guard"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

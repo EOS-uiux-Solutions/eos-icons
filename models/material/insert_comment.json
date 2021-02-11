@@ -2,17 +2,8 @@
   "name": "insert_comment",
   "do": "",
   "dont": "",
-  "tags": [
-    "add",
-    "feedback",
-    "bubble",
-    "chat",
-    "comment",
-    "message"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["add", "feedback", "bubble", "chat", "comment", "message"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

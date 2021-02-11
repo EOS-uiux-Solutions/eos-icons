@@ -2,18 +2,8 @@
   "name": "local_pharmacy",
   "do": "",
   "dont": "",
-  "tags": [
-    "cross",
-    "911",
-    "emergency",
-    "medicine",
-    "hospital",
-    "aid",
-    "first"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["cross", "911", "emergency", "medicine", "hospital", "aid", "first"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

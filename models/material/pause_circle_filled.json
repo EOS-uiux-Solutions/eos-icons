@@ -2,16 +2,8 @@
   "name": "pause_circle_filled",
   "do": "",
   "dont": "",
-  "tags": [
-    "Pause",
-    "controls",
-    "music",
-    "control",
-    "video"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["Pause", "controls", "music", "control", "video"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

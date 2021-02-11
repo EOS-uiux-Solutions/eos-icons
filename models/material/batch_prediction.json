@@ -2,15 +2,8 @@
   "name": "batch_prediction",
   "do": "",
   "dont": "",
-  "tags": [
-    "forecast",
-    "projection",
-    "prognosis",
-    "prognostic"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["forecast", "projection", "prognosis", "prognostic"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

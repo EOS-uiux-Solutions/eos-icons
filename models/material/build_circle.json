@@ -2,14 +2,8 @@
   "name": "build_circle",
   "do": "",
   "dont": "",
-  "tags": [
-    "wrench",
-    "settings",
-    "configure"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["wrench", "settings", "configure"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

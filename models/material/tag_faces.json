@@ -2,16 +2,8 @@
   "name": "tag_faces",
   "do": "",
   "dont": "",
-  "tags": [
-    "camera",
-    "setting",
-    "photo",
-    "face recognition",
-    "detection"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["camera", "setting", "photo", "face recognition", "detection"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

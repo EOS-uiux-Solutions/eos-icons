@@ -2,14 +2,8 @@
   "name": "family_restroom",
   "do": "",
   "dont": "",
-  "tags": [
-    "wc",
-    "toilet",
-    "washroom"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["wc", "toilet", "washroom"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

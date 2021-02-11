@@ -2,17 +2,8 @@
   "name": "exposure",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "expose",
-    "lens",
-    "light"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "expose", "lens", "light"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

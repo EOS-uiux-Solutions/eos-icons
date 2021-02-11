@@ -12,9 +12,7 @@
     "user",
     "card"
   ],
-  "category": [
-    "roles"
-  ],
+  "category": ["roles"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

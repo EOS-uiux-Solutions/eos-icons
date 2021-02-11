@@ -2,17 +2,8 @@
   "name": "not_interested",
   "do": "",
   "dont": "",
-  "tags": [
-    "no",
-    "dislike",
-    "x",
-    "circle",
-    "Not interested",
-    "off"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["no", "dislike", "x", "circle", "Not interested", "off"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

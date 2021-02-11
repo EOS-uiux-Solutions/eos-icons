@@ -2,17 +2,8 @@
   "name": "swap_horizontal_circle",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "arrows",
-    "back",
-    "circle",
-    "direction",
-    "horizontal"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["arrow", "arrows", "back", "circle", "direction", "horizontal"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

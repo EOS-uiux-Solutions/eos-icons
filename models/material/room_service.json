@@ -2,15 +2,8 @@
   "name": "room_service",
   "do": "",
   "dont": "",
-  "tags": [
-    "maid service",
-    "housekeeping",
-    "food",
-    "serve"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["maid service", "housekeeping", "food", "serve"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

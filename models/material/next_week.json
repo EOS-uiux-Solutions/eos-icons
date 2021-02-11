@@ -11,9 +11,7 @@
     "briefcase",
     "work"
   ],
-  "category": [
-    "content"
-  ],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

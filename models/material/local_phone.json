@@ -2,16 +2,8 @@
   "name": "local_phone",
   "do": "",
   "dont": "",
-  "tags": [
-    "call",
-    "phone",
-    "communication",
-    "telecommunication",
-    "booth"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["call", "phone", "communication", "telecommunication", "booth"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

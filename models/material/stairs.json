@@ -2,14 +2,8 @@
   "name": "stairs",
   "do": "",
   "dont": "",
-  "tags": [
-    "steps",
-    "upstairs",
-    "up"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["steps", "upstairs", "up"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

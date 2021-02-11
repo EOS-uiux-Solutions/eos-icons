@@ -2,16 +2,8 @@
   "name": "work_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "briefcase",
-    "job",
-    "suit",
-    "suitcase",
-    "work"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["briefcase", "job", "suit", "suitcase", "work"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

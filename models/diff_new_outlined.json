@@ -2,13 +2,7 @@
   "name": "diff_new_outlined",
   "do": "<ul><li>Use it to display when a diff has been created.</li></ul>",
   "dont": "<ul><li>Don't use it to display an operation.</li></ul>",
-  "tags": [
-    "change",
-    "divergence",
-    "added",
-    "fresh",
-    "more"
-  ],
+  "tags": ["change", "divergence", "added", "fresh", "more"],
   "category": "editor",
   "type": "static",
   "label": "EOS",

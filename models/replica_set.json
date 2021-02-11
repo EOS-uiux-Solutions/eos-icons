@@ -2,12 +2,7 @@
   "name": "replica_set",
   "do": "<ul><li>Use it when more than one replicas of the same item are present in a set.</li></ul>",
   "dont": "<ul><li>Don't use it for copy.</li></ul>",
-  "tags": [
-    "duplication",
-    "duplicate",
-    "exactcopies",
-    "copies"
-  ],
+  "tags": ["duplication", "duplicate", "exactcopies", "copies"],
   "category": "file",
   "type": "static",
   "label": "EOS",

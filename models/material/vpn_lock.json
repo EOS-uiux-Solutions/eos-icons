@@ -2,16 +2,8 @@
   "name": "vpn_lock",
   "do": "",
   "dont": "",
-  "tags": [
-    "security",
-    "secure",
-    "protection",
-    "key",
-    "private"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["security", "secure", "protection", "key", "private"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

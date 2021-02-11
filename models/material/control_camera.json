@@ -13,9 +13,7 @@
     "move",
     "right"
   ],
-  "category": [
-    "av"
-  ],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

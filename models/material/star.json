@@ -2,16 +2,8 @@
   "name": "star",
   "do": "",
   "dont": "",
-  "tags": [
-    "review",
-    "rating",
-    "valuation",
-    "appraisal",
-    "rank"
-  ],
-  "category": [
-    "toggle"
-  ],
+  "tags": ["review", "rating", "valuation", "appraisal", "rank"],
+  "category": ["toggle"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

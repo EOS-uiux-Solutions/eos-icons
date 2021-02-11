@@ -2,17 +2,8 @@
   "name": "delete",
   "do": "",
   "dont": "",
-  "tags": [
-    "can",
-    "bin",
-    "garbage",
-    "delete",
-    "remove",
-    "trash"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["can", "bin", "garbage", "delete", "remove", "trash"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

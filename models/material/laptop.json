@@ -2,15 +2,8 @@
   "name": "laptop",
   "do": "",
   "dont": "",
-  "tags": [
-    "notebook",
-    "computer",
-    "microcomputer",
-    "portable"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["notebook", "computer", "microcomputer", "portable"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

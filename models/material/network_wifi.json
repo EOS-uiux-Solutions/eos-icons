@@ -2,14 +2,8 @@
   "name": "network_wifi",
   "do": "",
   "dont": "",
-  "tags": [
-    "chain",
-    "grid",
-    "net"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["chain", "grid", "net"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

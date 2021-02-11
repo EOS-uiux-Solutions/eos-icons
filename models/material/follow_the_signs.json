@@ -2,13 +2,8 @@
   "name": "follow_the_signs",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "directions"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["arrow", "directions"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

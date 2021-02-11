@@ -2,16 +2,8 @@
   "name": "airline_seat_legroom_extra",
   "do": "",
   "dont": "",
-  "tags": [
-    "plane",
-    "airplane",
-    "chair",
-    "big",
-    "large"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["plane", "airplane", "chair", "big", "large"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

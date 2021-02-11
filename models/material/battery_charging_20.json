@@ -2,15 +2,8 @@
   "name": "battery_charging_20",
   "do": "",
   "dont": "",
-  "tags": [
-    "charge",
-    "mobile",
-    "power",
-    "cell"
-  ],
-  "category": [
-    "device"
-  ],
+  "tags": ["charge", "mobile", "power", "cell"],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

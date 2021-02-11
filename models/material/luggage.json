@@ -2,13 +2,8 @@
   "name": "luggage",
   "do": "",
   "dont": "",
-  "tags": [
-    "baggage",
-    "bag"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["baggage", "bag"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

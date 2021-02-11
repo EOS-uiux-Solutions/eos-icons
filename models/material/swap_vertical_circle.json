@@ -2,17 +2,8 @@
   "name": "swap_vertical_circle",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "arrows",
-    "back",
-    "vertical",
-    "circle",
-    "direction"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["arrow", "arrows", "back", "vertical", "circle", "direction"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

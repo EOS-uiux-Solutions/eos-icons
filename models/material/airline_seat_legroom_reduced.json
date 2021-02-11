@@ -2,15 +2,8 @@
   "name": "airline_seat_legroom_reduced",
   "do": "",
   "dont": "",
-  "tags": [
-    "plane",
-    "airplane",
-    "chair",
-    "small"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["plane", "airplane", "chair", "small"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,15 +2,8 @@
   "name": "all_out",
   "do": "",
   "dont": "",
-  "tags": [
-    "all",
-    "shape",
-    "circle",
-    "out"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["all", "shape", "circle", "out"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

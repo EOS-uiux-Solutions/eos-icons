@@ -2,16 +2,8 @@
   "name": "usb",
   "do": "",
   "dont": "",
-  "tags": [
-    "wire",
-    "usb",
-    "connection",
-    "cable",
-    "device"
-  ],
-  "category": [
-    "device"
-  ],
+  "tags": ["wire", "usb", "connection", "cable", "device"],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

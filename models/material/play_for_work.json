@@ -2,18 +2,8 @@
   "name": "play_for_work",
   "do": "",
   "dont": "",
-  "tags": [
-    "play",
-    "half",
-    "arrow",
-    "work",
-    "google",
-    "circle",
-    "down"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["play", "half", "arrow", "work", "google", "circle", "down"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

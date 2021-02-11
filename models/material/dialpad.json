@@ -2,17 +2,8 @@
   "name": "dialpad",
   "do": "",
   "dont": "",
-  "tags": [
-    "Dial",
-    "call",
-    "number",
-    "pad",
-    "numbers",
-    "device"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["Dial", "call", "number", "pad", "numbers", "device"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

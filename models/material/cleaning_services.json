@@ -2,13 +2,8 @@
   "name": "cleaning_services",
   "do": "",
   "dont": "",
-  "tags": [
-    "broom",
-    "mop"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["broom", "mop"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

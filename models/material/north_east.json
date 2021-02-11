@@ -2,14 +2,8 @@
   "name": "north_east",
   "do": "",
   "dont": "",
-  "tags": [
-    "diagonal",
-    "corner",
-    "up right"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["diagonal", "corner", "up right"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

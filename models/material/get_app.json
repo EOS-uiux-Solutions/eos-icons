@@ -2,17 +2,8 @@
   "name": "get_app",
   "do": "",
   "dont": "",
-  "tags": [
-    "download",
-    "arrow",
-    "get",
-    "retrieve",
-    "pointing",
-    "down"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["download", "arrow", "get", "retrieve", "pointing", "down"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

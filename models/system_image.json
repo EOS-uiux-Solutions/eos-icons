@@ -2,12 +2,7 @@
   "name": "system_image",
   "do": "<ul><li>To represent disk images, containers or ISOs.</li></ul>",
   "dont": "<ul><li>For images, such as photos or pictures.</li></ul>",
-  "tags": [
-    "docker",
-    "container",
-    "disk",
-    "iso"
-  ],
+  "tags": ["docker", "container", "disk", "iso"],
   "category": "virtualization",
   "type": "static",
   "label": "EOS",

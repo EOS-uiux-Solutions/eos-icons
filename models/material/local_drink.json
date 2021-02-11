@@ -2,16 +2,8 @@
   "name": "local_drink",
   "do": "",
   "dont": "",
-  "tags": [
-    "tree",
-    "air",
-    "attr",
-    "fresh",
-    "park"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["tree", "air", "attr", "fresh", "park"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

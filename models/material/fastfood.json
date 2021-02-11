@@ -2,16 +2,8 @@
   "name": "fastfood",
   "do": "",
   "dont": "",
-  "tags": [
-    "drink",
-    "fastfood",
-    "food",
-    "hamburger",
-    "meal"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["drink", "fastfood", "food", "hamburger", "meal"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

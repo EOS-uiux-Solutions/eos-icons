@@ -2,16 +2,8 @@
   "name": "filter_7",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "edit",
-    "seven"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "edit", "seven"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

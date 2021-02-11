@@ -2,17 +2,8 @@
   "name": "leak_remove",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "style",
-    "custom",
-    "edit"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "style", "custom", "edit"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

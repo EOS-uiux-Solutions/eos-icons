@@ -2,17 +2,8 @@
   "name": "phone",
   "do": "",
   "dont": "",
-  "tags": [
-    "call",
-    "Phone",
-    "chat",
-    "mobile",
-    "text",
-    "device"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["call", "Phone", "chat", "mobile", "text", "device"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

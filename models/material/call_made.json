@@ -2,16 +2,8 @@
   "name": "call_made",
   "do": "",
   "dont": "",
-  "tags": [
-    "Call",
-    "arrow",
-    "made",
-    "mobile",
-    "device"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["Call", "arrow", "made", "mobile", "device"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

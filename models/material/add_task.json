@@ -2,15 +2,8 @@
   "name": "add_task",
   "do": "",
   "dont": "",
-  "tags": [
-    "plus",
-    "new",
-    "file",
-    "document"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["plus", "new", "file", "document"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

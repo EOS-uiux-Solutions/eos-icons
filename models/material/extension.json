@@ -2,17 +2,8 @@
   "name": "extension",
   "do": "",
   "dont": "",
-  "tags": [
-    "extension",
-    "shape",
-    "piece",
-    "puzzle",
-    "jigsaw",
-    "extended"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["extension", "shape", "piece", "puzzle", "jigsaw", "extended"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "align_horizontal_right",
   "do": "",
   "dont": "",
-  "tags": [
-    "line up",
-    "position",
-    "place"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["line up", "position", "place"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

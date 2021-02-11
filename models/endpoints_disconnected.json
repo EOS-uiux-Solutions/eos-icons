@@ -2,11 +2,7 @@
   "name": "endpoints_disconnected",
   "do": "<ul><li>To represent a disconnection between two or more endpoints.</li></ul>",
   "dont": "<ul><li>To represent routes.</li></ul>",
-  "tags": [
-    "endpoints",
-    "disconnection",
-    "api"
-  ],
+  "tags": ["endpoints", "disconnection", "api"],
   "category": "development",
   "type": "static",
   "label": "EOS",

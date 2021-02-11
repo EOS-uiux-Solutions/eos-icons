@@ -2,13 +2,8 @@
   "name": "broken_image",
   "do": "",
   "dont": "",
-  "tags": [
-    "missing",
-    "defective"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["missing", "defective"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

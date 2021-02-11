@@ -2,15 +2,8 @@
   "name": "child_care",
   "do": "",
   "dont": "",
-  "tags": [
-    "children",
-    "baby",
-    "face",
-    "babysit"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["children", "baby", "face", "babysit"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,11 +2,7 @@
   "name": "commit",
   "do": "<ul><li>Use it to represent a record of a permanent change added to an application or codebase.</li></ul>",
   "dont": "<ul><li>Don't use it to represent a node. There is an icon for it already.</li></ul>",
-  "tags": [
-    "record",
-    "change",
-    "git"
-  ],
+  "tags": ["record", "change", "git"],
   "category": "development",
   "type": "static",
   "label": "EOS",

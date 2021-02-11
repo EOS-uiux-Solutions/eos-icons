@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Wed Feb 10 16:59:54 2021
- By Cynthia Sanchez
+Created by FontForge 20190801 at Thu Feb 11 11:15:19 2021
+ By Manuele Carlini
 </metadata>
 <defs>
 <font id="eos-icons-outlined" horiz-adv-x="512" >
@@ -51,8 +51,8 @@ v43h43h1q13 0 22 9t9 22v1zM384 128v128h-32v-128h32zM95 176l12 33l12 -33h-24z" />
 d="M0 384q0 18 12.5 30.5t30.5 12.5h384q17 0 29.5 -12.5t12.5 -30.5v-43h-469v43zM64 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM128 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM0 320h469v-299q0 -17 -12.5 -29.5t-29.5 -12.5h-384
 q-18 0 -30.5 12.5t-12.5 29.5v299zM235 43q44 0 75 31t31 75h-106v107q-44 0 -75.5 -31.5t-31.5 -75.5t31.5 -75t75.5 -31z" />
     <glyph glyph-name="application_instance" unicode="application_instance" horiz-adv-x="469" 
-d="M0 320h469v-299q0 -17 -12.5 -29.5t-29.5 -12.5h-384q-18 0 -30.5 12.5t-12.5 29.5v299zM171 43l149 96l-149 96v-96v-96zM0 384q0 18 12.5 30.5t30.5 12.5h384q17 0 29.5 -12.5t12.5 -30.5v-43h-469v43zM64 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6z
-M128 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6z" />
+d="M0 384q0 18 12.5 30.5t30.5 12.5h384q17 0 29.5 -12.5t12.5 -30.5v-43h-469v43zM64 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM128 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM0 320h469v-299q0 -17 -12.5 -29.5t-29.5 -12.5h-384
+q-18 0 -30.5 12.5t-12.5 29.5v299zM427 43v234h-384v-234q0 -9 6 -15.5t15 -6.5h341q9 0 15.5 6.5t6.5 15.5zM320 149l-149 -85v85v86z" />
     <glyph glyph-name="application_window" unicode="application_window" horiz-adv-x="469" 
 d="M427 427q17 0 29.5 -12.5t12.5 -30.5v-43h-469v43q0 18 12.5 30.5t30.5 12.5h384zM64 363q9 0 15 6t6 15q0 6 -2.5 11t-7.5 7.5t-11 2.5q-9 0 -15 -6t-6 -15t6 -15t15 -6zM128 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM469 235v-214q0 -17 -12.5 -29.5
 t-29.5 -12.5h-384q-18 0 -30.5 12.5t-12.5 29.5v299h469v-85z" />

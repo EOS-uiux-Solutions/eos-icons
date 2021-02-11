@@ -2,18 +2,8 @@
   "name": "edit_road",
   "do": "",
   "dont": "",
-  "tags": [
-    "edit",
-    "location",
-    "pen",
-    "pencil",
-    "road",
-    "street",
-    "change"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["edit", "location", "pen", "pencil", "road", "street", "change"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

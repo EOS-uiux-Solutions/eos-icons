@@ -2,15 +2,8 @@
   "name": "person_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "user",
-    "avatar",
-    "person",
-    "profile"
-  ],
-  "category": [
-    "roles"
-  ],
+  "tags": ["user", "avatar", "person", "profile"],
+  "category": ["roles"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

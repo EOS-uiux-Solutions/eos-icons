@@ -19,9 +19,7 @@
     "alignment",
     "speadsheet"
   ],
-  "category": [
-    "editor"
-  ],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

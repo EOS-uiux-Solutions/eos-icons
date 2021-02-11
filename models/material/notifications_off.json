@@ -2,17 +2,8 @@
   "name": "notifications_off",
   "do": "",
   "dont": "",
-  "tags": [
-    "bell",
-    "alert",
-    "notification",
-    "alarm",
-    "ring",
-    "sleep mode"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["bell", "alert", "notification", "alarm", "ring", "sleep mode"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

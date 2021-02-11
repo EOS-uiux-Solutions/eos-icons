@@ -2,17 +2,8 @@
   "name": "double_arrow",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "arrows",
-    "direction",
-    "double",
-    "multiple",
-    "right"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["arrow", "arrows", "direction", "double", "multiple", "right"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

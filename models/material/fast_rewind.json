@@ -2,18 +2,8 @@
   "name": "fast_rewind",
   "do": "",
   "dont": "",
-  "tags": [
-    "music",
-    "rewind",
-    "control",
-    "time",
-    "video",
-    "Fast",
-    "speed"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["music", "rewind", "control", "time", "video", "Fast", "speed"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

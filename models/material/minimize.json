@@ -2,14 +2,8 @@
   "name": "minimize",
   "do": "",
   "dont": "",
-  "tags": [
-    "line",
-    "minimize",
-    "shape"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["line", "minimize", "shape"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

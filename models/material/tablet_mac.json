@@ -2,16 +2,8 @@
   "name": "tablet_mac",
   "do": "",
   "dont": "",
-  "tags": [
-    "pad",
-    "ipad",
-    "memo",
-    "apple",
-    "ios"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["pad", "ipad", "memo", "apple", "ios"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",
