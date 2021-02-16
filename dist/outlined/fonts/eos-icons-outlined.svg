@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Fri Feb 12 15:48:24 2021
- By Sorin
+Created by FontForge 20190801 at Tue Feb 16 14:18:44 2021
+ By Manuele Carlini
 </metadata>
 <defs>
 <font id="eos-icons-outlined" horiz-adv-x="512" >
@@ -58,7 +58,8 @@ d="M427 427q17 0 29.5 -12.5t12.5 -30.5v-43h-469v43q0 18 12.5 30.5t30.5 12.5h384z
 t-29.5 -12.5h-384q-18 0 -30.5 12.5t-12.5 29.5v299h469v-85z" />
     <glyph glyph-name="application" unicode="application" horiz-adv-x="469" 
 d="M0 384q0 18 12.5 30.5t30.5 12.5h384q17 0 29.5 -12.5t12.5 -30.5v-43h-469v43zM64 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM128 363q9 0 15 6t6 15t-6 15t-15 6t-15 -6t-6 -15t6 -15t15 -6zM0 320h469v-299q0 -17 -12.5 -29.5t-29.5 -12.5h-384
-q-18 0 -30.5 12.5t-12.5 29.5v299zM173 122l-28 27l28 28l28 28l-15 15l-15 15l-43 -43l-43 -43l43 -42l43 -43l15 15l15 15zM341 107l43 42l-43 43l-42 43l-15 -15l-15 -15l28 -28l27 -28l-27 -27l-28 -28l15 -15l15 -15z" />
+q-18 0 -30.5 12.5t-12.5 29.5v299zM427 43v234h-384v-256h384v22zM171 64l-43 43l-43 42l43 43l43 43l15 -15l15 -15l-28 -28l-28 -28l28 -27l28 -28l-15 -15zM269 94l28 28l27 27l-27 28l-28 28l15 15l15 15l42 -43l43 -43l-43 -42l-42 -43l-15 15zM171 64l-43 43l-43 42
+l43 43l43 43l15 -15l15 -15l-28 -28l-28 -28l28 -27l28 -28l-15 -15zM269 94l28 28l27 27l-27 28l-28 28l15 15l15 15l42 -43l43 -43l-43 -42l-42 -43l-15 15z" />
     <glyph glyph-name="autoinstallation" unicode="autoinstallation" horiz-adv-x="428" 
 d="M180 96l66 -66q-26 -8 -54 -8q-79 0 -135.5 56t-56.5 136t56.5 136t135.5 56q76 0 132 -53.5t60 -128.5h-95v-128h-109zM139 214q0 -22 15.5 -37.5t38 -15.5t38 15.5t15.5 37.5t-15.5 37.5t-38 15.5t-38 -15.5t-15.5 -37.5zM428 64l-86 -85l-85 85h64v128h43v-128h64z
 " />
