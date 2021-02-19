@@ -89,7 +89,9 @@ const eosIcons = [
     ],
     "category": "roles",
     "type": "static",
-    "date": "30/11/2020"
+    "date": "30/11/2020",
+    "hasOutlined": true,
+    "dateOutlined": "26/02/2021"
   },
   {
     "name": "ai",
