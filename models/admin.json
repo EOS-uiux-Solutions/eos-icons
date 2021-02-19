@@ -2,9 +2,15 @@
   "name": "admin",
   "do": "<ul><li>When a user or admin role needs to be distinguished in a list of users.</li></ul>",
   "dont": "<ul><li>For a regular user profile.</li></ul>",
-  "tags": ["user admin", "user icon", "administrator"],
+  "tags": [
+    "user admin",
+    "user icon",
+    "administrator"
+  ],
   "category": "roles",
   "type": "static",
   "label": "EOS",
-  "date": "30/11/2020"
+  "date": "30/11/2020",
+  "hasOutlined": true,
+  "dateOutlined": "19/02/2021"
 }
