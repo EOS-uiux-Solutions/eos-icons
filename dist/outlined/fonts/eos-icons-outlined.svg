@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20201107 at Fri Feb 26 15:25:41 2021
- By Jesus Herman Marina
+Created by FontForge 20201107 at Fri Feb 26 15:43:46 2021
+ By Richa Bisht
 </metadata>
 <defs>
 <font id="eos-icons-outlined" horiz-adv-x="512" >
@@ -34,9 +34,9 @@ d="M342 21.5q0 26.5 18.5 45t45 18.5t45.5 -18.5t19 -45t-19 -45.5t-45.5 -19t-45 19
 v64l85 -86l-85 -85v64h-128q-44 0 -75.5 31.5t-31.5 75.5t31.5 75t75.5 31h68q7 19 23 31t36.5 12t37 -12t23.5 -31h68q26 0 45 19t19 45.5t-19 45t-45 18.5h-239q-6 -19 -22.5 -30.5t-37.5 -11.5q-26 0 -45 18.5t-19 45t19 45.5t45 19q21 0 37.5 -12t22.5 -31h239z" />
     <glyph glyph-name="activate_subscriptions" unicode="activate_subscriptions" horiz-adv-x="427" 
 d="M43 277v43h341v-43h-341zM85 363v42h256v-42h-256zM384 235q18 0 30.5 -12.5t12.5 -30.5v-171q0 -17 -12.5 -29.5t-30.5 -12.5h-341q-18 0 -30.5 12.5t-12.5 29.5v171q0 18 12.5 30.5t30.5 12.5h341zM277 85v43h-42v43h-43v-43h-43v-43h43v-42h43v42h42z" />
-    <glyph glyph-name="admin" unicode="admin" horiz-adv-x="384" 
-d="M192 427l192 -86v-128q0 -89 -55 -162.5t-137 -93.5q-82 20 -137 93.5t-55 162.5v128zM192 343q-26 0 -45 -18.5t-19 -45t19 -45.5t45 -19t45 19t19 45.5t-19 45t-45 18.5zM192 175q-23 0 -52 -7t-52.5 -23t-23.5 -36q21 -31 55 -50t73 -19t73 19t55 50q0 20 -23.5 36
-t-52.5 23t-52 7z" />
+    <glyph glyph-name="admin" unicode="admin" horiz-adv-x="425" 
+d="M212 383l172 -69v-103q-2 -76 -50.5 -135t-121.5 -76q-73 17 -121 76t-50 136v51v51zM425 211v130l-213 86l-212 -86v-130q3 -92 61.5 -162t146.5 -90q4 -2 9 0q88 20 146.5 90.5t61.5 161.5zM159 267q0 22 15.5 37.5t37.5 15.5t37.5 -15.5t15.5 -37.5t-15.5 -38
+t-37.5 -16t-37.5 16t-15.5 38zM105 129q1 28 37.5 45.5t69.5 17.5t69.5 -17.5t37.5 -45.5q-16 -29 -44.5 -46.5t-62.5 -18.5q-34 1 -62.5 18.5t-44.5 46.5z" />
     <glyph glyph-name="ai_operator" unicode="ai_operator" 
 d="M178 341l42 -170h-22l-10 40h-50l-9 -40h-22l43 170h28zM141 228h44l-21 93h-1zM240 171v170h21v-170h-21zM244 149q2 -22 12 -43v-42h-43v43h-42v-43h-43v43h-43q-17 0 -29.5 12.5t-12.5 29.5v43h-43v43h43v42h-43v43h43v43q0 17 12.5 29.5t29.5 12.5h43v43h43v-43h42
 v43h43v-43h43q17 0 29.5 -12.5t12.5 -29.5v-43h43v-43q-10 2 -22 2q-34 0 -63 -18v102h-214v-214h159zM288 160q0 31 22 53t53 22t52.5 -22t21.5 -53t-21.5 -53t-52.5 -22t-53 22t-22 53zM362.5 43q27.5 0 61 -8t61 -26t27.5 -41v-32h-299v32q0 23 28 41t61 26t60.5 8z" />
