@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Fri Feb 12 12:41:39 2021
+Created by FontForge 20190801 at Thu Feb 25 09:45:51 2021
  By Manuele Carlini
 </metadata>
 <defs>
@@ -26,8 +26,8 @@ d="M17 0v341h136v-341h-136zM34 17h102v307h-102v-307z" />
 d="M421 213q5 -10 5 -21v0q0 -11 -5 -21l-86 -149q-3 -6 -9 -11t-13.5 -8t-14.5 -3h-170q-10 0 -21 6.5t-16 15.5l-33 57l-17 29l-35 63q-6 10 -6 21t6 21l35 63l17 29l33 57q5 9 16 15.5t21 6.5h170q11 0 21.5 -6.5t15.5 -15.5zM327 86zM390 192l-88 149h-176l-26 -43
 q3 1 7 1q44 0 75 -31.5t31 -75.5v-2q1 -43 32.5 -74t74.5 -31l7 1z" />
     <glyph glyph-name="abstract_instance" unicode="abstract_instance" horiz-adv-x="426" 
-d="M421 213q5 -10 5 -21t-5 -21l-86 -150q-5 -8 -15.5 -14.5t-21.5 -6.5h-170q-11 0 -21.5 6.5t-15.5 14.5l-85 150q-6 10 -6 21t6 21l85 150q3 5 9 10t13.5 8t14.5 3h170q11 0 21.5 -6t15.5 -15zM298 43l86 149l-86 149h-170l-86 -149l86 -149h170zM170 192q0 18 12.5 30.5
-t30.5 12.5t30.5 -12.5t12.5 -30.5t-12.5 -30.5t-30.5 -12.5t-30.5 12.5t-12.5 30.5z" />
+d="M421 213q5 -10 5 -21t-5 -21l-86 -150q-5 -8 -15.5 -14.5t-20.5 -6.5h-171q-10 0 -21 6.5t-16 14.5l-85 150q-6 10 -6 21t6 21l85 150q5 8 16 14.5t21 6.5h171q10 0 20.5 -6.5t15.5 -14.5zM299 43l85 149l-85 149h-171l-85 -149l85 -149h171zM171 192q0 18 12.5 30.5
+t30 12.5t30 -12.5t12.5 -30.5t-12.5 -30.5t-30 -12.5t-30 12.5t-12.5 30.5z" />
     <glyph glyph-name="abstract" unicode="abstract" horiz-adv-x="426" 
 d="M298 384q7 0 14.5 -3t13.5 -8t9 -10l86 -150q5 -10 5 -21t-5 -21l-86 -150q-5 -8 -15.5 -14.5t-21.5 -6.5h-170q-7 0 -14.5 3t-13.5 8t-9 10l-85 150q-6 10 -6 21t6 21l85 150q5 8 15.5 14.5t21.5 6.5h170z" />
     <glyph glyph-name="action_chains" unicode="action_chains" horiz-adv-x="470" 
