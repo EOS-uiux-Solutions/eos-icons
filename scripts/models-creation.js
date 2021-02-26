@@ -70,12 +70,6 @@ const inputForModel = async () => {
         name: 'type',
         message: '⚙️  Indicate the type:',
         choices: ['static', 'animated']
-      },
-      {
-        type: 'list',
-        name: 'label',
-        message: '⚙️  Indicate the EOS label:',
-        choices: ['EOS', 'None']
       }
     ])
   } catch (error) {
@@ -84,6 +78,7 @@ const inputForModel = async () => {
 }
 
 const createNewModel = async ({ ModelsMissingSVGs, modelsSrc }) => {
+  console.log('modelsSrc: ', modelsSrc)
   try {
     for (let i = 0; i < ModelsMissingSVGs.length; i++) {
       console.log('===============================================')
@@ -99,13 +94,14 @@ const createNewModel = async ({ ModelsMissingSVGs, modelsSrc }) => {
               .split(',')
               .map((ele) => ele.replace(/^\s+|\s+$/g, ''))
               .filter((ele) => ele)
+            const tags =
+              modelsSrc === './models' ? [...arrayOftags, 'eos'] : arrayOftags
 
             acc = {
               ...cur,
               do: `<ul><li>${[cur.do]}</li></ul>`,
               dont: `<ul><li>${[cur.dont]}</li></ul>`,
-              tags: [...arrayOftags],
-              label: `${[cur.label]}`,
+              tags: [...tags],
               date: today
             }
 

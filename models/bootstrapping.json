@@ -2,9 +2,8 @@
   "name": "bootstrapping",
   "do": "<ul><li>When bootstraping a new element into a system.</li></ul>",
   "dont": "",
-  "tags": ["minion", "boot", "startup", "booting"],
+  "tags": ["eos", "minion", "boot", "startup", "booting"],
   "category": "action",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,9 +2,8 @@
   "name": "snapshot_rollback",
   "do": "<ul><li>To rollback a snapshot, backup, or data saved, to a previous state.</li></ul>",
   "dont": "",
-  "tags": ["snapshot", "rollback", "previous state", "backup"],
+  "tags": ["eos", "snapshot", "rollback", "previous state", "backup"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

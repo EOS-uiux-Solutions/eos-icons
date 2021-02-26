@@ -2,7 +2,7 @@
   "name": "sports_hockey",
   "do": "",
   "dont": "",
-  "tags": ["sport", "ice", "hockey stick", "game", "activity"],
+  "tags": ["eos", "sport", "ice", "hockey stick", "game", "activity"],
   "category": ["social"],
   "type": "static"
 }

@@ -2,7 +2,7 @@
   "name": "image_search",
   "do": "",
   "dont": "",
-  "tags": ["photography", "photo", "image", "locate", "edit", "find"],
+  "tags": ["eos", "photography", "photo", "image", "locate", "edit", "find"],
   "category": ["image"],
   "type": "static"
 }

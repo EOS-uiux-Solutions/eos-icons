@@ -2,7 +2,7 @@
   "name": "double_arrow",
   "do": "",
   "dont": "",
-  "tags": ["right", "arrow", "direction", "forward", "double"],
+  "tags": ["eos", "right", "arrow", "direction", "forward", "double"],
   "category": ["navigation"],
   "type": "static"
 }

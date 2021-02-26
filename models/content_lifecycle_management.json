@@ -2,9 +2,8 @@
   "name": "content_lifecycle_management",
   "do": "<ul><li>To illustrate the planning cycle</li></ul>",
   "dont": "<ul><li>To represent recycling documents actions</li></ul>",
-  "tags": ["content", "lifecycle"],
+  "tags": ["eos", "content", "lifecycle"],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

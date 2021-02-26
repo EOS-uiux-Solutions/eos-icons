@@ -1,94 +1,57 @@
-const fs = require('fs-extra')
-const { lstatSync, readdirSync } = require('fs')
-const { join } = require('path')
-
-/**
- * Filter out directories
- */
-const isDirectory = (source) => lstatSync(source).isDirectory()
-const getDirectories = async (source) =>
-  readdirSync(source)
-    .map((name) => join(source, name))
-    .filter(isDirectory)
-
+const fs = require('fs')
 const readFiles = async (dir) => {
-  /**
-   * RegEx to match 24px icons only.
-   */
-  const regEx = /(.*)24px.svg/gm
-
   try {
     const icons = await fs.readdirSync(dir, (err, filenames) => {
       if (err) console.error(err)
-
       return filenames
     })
 
-    /**
-     * If the target is node_modules, we match the regex and we rename the icons by removing the ic_ prefix and _24px sufix
-     */
-    if (dir.includes('node_modules')) {
-      return icons
-        .filter((item) => item.match(regEx))
-        .map((ele) => ele.replace('ic_', '').replace('_24px', ''))
-    } else {
-      return icons
-    }
+    /* We filter out the subfolder (or others elements in the future) */
+    const iconsContent = icons.filter((ele) => {
+      return ele.includes('.svg') || ele.includes('.json') ? ele : null
+    })
+
+    /* Return the files name without the extension */
+    return iconsContent.map((ele) => ele.split('.')[0])
   } catch (error) {
     /* Filtr out the erros that are not -2: Folder not found */
-    if (error.errno !== -2) {
-      console.log('ERROR: readFiles() => : ', error)
-    } else {
-    }
-  }
-}
-
-const fetchIcons = async (mainDir) => {
-  try {
-    /* Get all the sub directory */
-    const arrayOfFolders = await getDirectories(mainDir)
-
-    let arr = []
-
-    /* For each directory, we push the matched file_name to the empty array */
-    for await (const ele of arrayOfFolders) {
-      const data = await readFiles(`${ele}/svg/production`)
-      arr.push(data)
-    }
-
-    /**
-     * We combine all the arrays in a sigle array that contains all the files name.
-     */
-    return (arr = arr.reduce((a, b) => a.concat(b), []))
-  } catch (error) {
-    console.log('error: ', error)
+    console.log('ERROR: readFiles() => : ', error)
   }
 }
 
 const compareFolders = async (params) => {
   const { mdRepo, eosRepo } = params
+  const eosModelsSrc = './models'
+  const mdModelsSrc = './models/material'
 
   try {
     /* Get the two arrays with the icons for md and eos */
-    const mdIcons = await fetchIcons(mdRepo)
+    const mdIcons = await readFiles(mdRepo)
     const eosIcons = await readFiles(eosRepo)
 
     /**
-     * We comparte the two arrays for matching names
+     * We compare the two arrays for matching names
      */
-    const checkForMatchingIcon = mdIcons.filter((element) => {
+
+    const duplicatedIconsList = mdIcons.filter((element) => {
       return eosIcons.includes(element)
     })
 
-    /**
-     * We return a warning or success message bases on the result
-     */
-    return checkForMatchingIcon.length >= 1
-      ? {
-          error: true,
-          message: `⚠️  Duplicate name for: ${checkForMatchingIcon}`
-        }
-      : { error: false, message: `✅  No duplicates` }
+    /* Get the two arrays with the models for md and eos */
+    const mdModelsList = await readFiles(mdModelsSrc)
+    const eosModelsList = await readFiles(eosModelsSrc)
+
+    /* Identify duplicated icons with an existing model in models/material/ */
+    const duplicatedEOSicon = mdModelsList.filter((value) =>
+      duplicatedIconsList.includes(value)
+    )
+
+    /* Identify duplicated icons with an existing model in models/ */
+    const duplicatedMDicon = eosModelsList.filter((value) =>
+      duplicatedIconsList.includes(value)
+    )
+
+    return { duplicatedEOSicon, duplicatedMDicon, duplicatedIconsList }
   } catch (error) {
     console.log('ERROR: compareFolders() => : ', error)
   }

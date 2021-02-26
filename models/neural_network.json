@@ -3,6 +3,7 @@
   "do": "<ul><li>As a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns.</li></ul>",
   "dont": "<ul><li>Don't use it as AI, machine learning, or similar concepts since they have their own icon.</li></ul>",
   "tags": [
+    "eos",
     "neurological",
     "net",
     "brain",
@@ -13,6 +14,5 @@
   ],
   "category": "artificial intelligence",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -3,6 +3,7 @@
   "do": "<ul><li>Use it when two sources or states combine into one.</li></ul>",
   "dont": "<ul><li>Don't use it to represent fork, branch, or other splitting related ideas.</li></ul>",
   "tags": [
+    "eos",
     "absorb",
     "combine",
     "unite",
@@ -16,6 +17,5 @@
   ],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

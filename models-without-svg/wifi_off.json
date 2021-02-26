@@ -2,7 +2,7 @@
   "name": "wifi_off",
   "do": "",
   "dont": "",
-  "tags": ["internet", "wireless", "network", "communication"],
+  "tags": ["eos", "internet", "wireless", "network", "communication"],
   "category": ["notification"],
   "type": "static"
 }

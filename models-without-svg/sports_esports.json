@@ -2,7 +2,14 @@
   "name": "sports_esports",
   "do": "",
   "dont": "",
-  "tags": ["sport", "electronic sports", "video game", "gamer", "activity"],
+  "tags": [
+    "eos",
+    "sport",
+    "electronic sports",
+    "video game",
+    "gamer",
+    "activity"
+  ],
   "category": ["social"],
   "type": "static"
 }

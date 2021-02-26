@@ -2,7 +2,7 @@
   "name": "device_unknown",
   "do": "",
   "dont": "",
-  "tags": ["question mark", "unsure", "unaware"],
+  "tags": ["eos", "question mark", "unsure", "unaware"],
   "category": ["hardware"],
   "type": "static"
 }

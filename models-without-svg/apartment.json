@@ -2,7 +2,7 @@
   "name": "apartment",
   "do": "",
   "dont": "",
-  "tags": ["flat", "building", "condo", "residence", "suite"],
+  "tags": ["eos", "flat", "building", "condo", "residence", "suite"],
   "category": ["places"],
   "type": "static"
 }

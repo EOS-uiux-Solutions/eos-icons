@@ -2,9 +2,8 @@
   "name": "cleanup",
   "do": "<ul><li>To represent a cleanup process or action.</li></ul>",
   "dont": "<ul><li>For remove or delete actions.</li></ul>",
-  "tags": ["clean", "cleanup"],
+  "tags": ["eos", "clean", "cleanup"],
   "category": "action",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

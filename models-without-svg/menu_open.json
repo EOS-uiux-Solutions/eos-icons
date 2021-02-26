@@ -2,7 +2,7 @@
   "name": "menu_open",
   "do": "",
   "dont": "",
-  "tags": ["menu", "list", "navigate", "expanded", "unravel"],
+  "tags": ["eos", "menu", "list", "navigate", "expanded", "unravel"],
   "category": ["navigation"],
   "type": "static"
 }

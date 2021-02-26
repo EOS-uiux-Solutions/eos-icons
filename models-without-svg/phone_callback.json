@@ -2,7 +2,7 @@
   "name": "phone_callback",
   "do": "",
   "dont": "",
-  "tags": ["mobile", "smartphone", "call", "communication", "incoming"],
+  "tags": ["eos", "mobile", "smartphone", "call", "communication", "incoming"],
   "category": ["notification"],
   "type": "static"
 }

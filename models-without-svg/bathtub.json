@@ -2,7 +2,7 @@
   "name": "bathtub",
   "do": "",
   "dont": "",
-  "tags": ["wash"],
+  "tags": ["eos", "wash"],
   "category": ["places"],
   "type": "static"
 }

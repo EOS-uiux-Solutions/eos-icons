@@ -2,9 +2,8 @@
   "name": "system_re_registered",
   "do": "<ul><li>To represent re-registered systems or the action of re-registering a system.</li></ul>",
   "dont": "<ul><li>To represent a new system.</li></ul>",
-  "tags": ["system", "enrolled"],
+  "tags": ["eos", "system", "enrolled"],
   "category": "hardware",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,9 +2,8 @@
   "name": "data_scientist",
   "do": "<ul><li>Use it to represent a data scientist role</li></ul>",
   "dont": "<ul><li>Don't use it to represent any other role.</li></ul>",
-  "tags": ["lab", "science", "chemist", "research", "beaker"],
+  "tags": ["eos", "lab", "science", "chemist", "research", "beaker"],
   "category": "roles",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -3,6 +3,7 @@
   "do": "<ul><li>Use it to replicate PODs automatically</li></ul>",
   "dont": "<ul><li>Don't use it for regular PODs</li></ul>",
   "tags": [
+    "eos",
     "replication",
     "deployment",
     "replica",
@@ -13,6 +14,5 @@
   ],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

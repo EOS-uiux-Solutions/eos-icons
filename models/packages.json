@@ -3,6 +3,7 @@
   "do": "<ul><li>To represent a list of packages.</li></ul>",
   "dont": "",
   "tags": [
+    "eos",
     "module",
     "extension",
     "upgrade",
@@ -16,6 +17,5 @@
   ],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

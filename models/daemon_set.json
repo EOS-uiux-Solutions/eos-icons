@@ -2,9 +2,8 @@
   "name": "daemon_set",
   "do": "<ul><li>Use this icon to represent a group of processes running in the background</li></ul>",
   "dont": "<ul><li>Don't use it to represent a library or comic</li></ul>",
-  "tags": ["group", "processes", "kubernetes", "background", "demons"],
+  "tags": ["eos", "group", "processes", "kubernetes", "background", "demons"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,9 +2,8 @@
   "name": "route",
   "do": "<ul><li>To represent application routes.</li></ul>",
   "dont": "<ul><li>To represent URL.</li></ul>",
-  "tags": ["way", "application routes"],
+  "tags": ["eos", "way", "application routes"],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,9 +2,8 @@
   "name": "move",
   "do": "<ul><li>To represent the action of relocating elements.</li></ul>",
   "dont": "<ul><li>To represent directions.</li></ul>",
-  "tags": ["change", "relocate", "relocate", "transfer"],
+  "tags": ["eos", "change", "relocate", "relocate", "transfer"],
   "category": "navigation",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

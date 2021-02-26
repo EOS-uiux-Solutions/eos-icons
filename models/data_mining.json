@@ -2,9 +2,8 @@
   "name": "data_mining",
   "do": "<ul><li>Use it to represent a data mining process.</li></ul>",
   "dont": "<ul><li>Don't use it to represent settings or other actions.</li></ul>",
-  "tags": ["science", "process", "extraction", "database"],
+  "tags": ["eos", "science", "process", "extraction", "database"],
   "category": "artificial intelligence",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,6 +2,7 @@
   "name": "eos-icons",
   "version": "4.12.0",
   "description": "The iconic and open source font made for EOS Design System.",
+  "dependencies": {},
   "devDependencies": {
     "@semantic-release/git": "^5.0.0",
     "@semantic-release/gitlab": "^2.1.4",
@@ -25,6 +26,7 @@
     "grunt-webfont": "^1.7.2",
     "husky": "^4.3.0",
     "inquirer": "^7.0.4",
+    "lint-staged": "^10.5.4",
     "prettier": "^2.2.0",
     "semantic-release": "^15.14.0",
     "xcode": "^2.1.0"
@@ -36,8 +38,15 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run format && npm run js:fix"
+      "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run js:fix",
+      "npm run format"
+    ],
+    "*.json": "npm run format"
   },
   "repository": {
     "type": "git",
@@ -84,6 +93,5 @@
   "bugs": {
     "url": "https://gitlab.com/SUSE-UIUX/eos-icons/issues"
   },
-  "homepage": "https://gitlab.com/SUSE-UIUX/eos-icons#README",
-  "dependencies": {}
+  "homepage": "https://gitlab.com/SUSE-UIUX/eos-icons#README"
 }

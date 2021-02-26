@@ -2,7 +2,7 @@
   "name": "sports_kabaddi",
   "do": "",
   "dont": "",
-  "tags": ["sport", "ground", "game", "activity"],
+  "tags": ["eos", "sport", "ground", "game", "activity"],
   "category": ["social"],
   "type": "static"
 }

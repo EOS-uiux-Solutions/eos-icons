@@ -2,9 +2,8 @@
   "name": "performance",
   "do": "<ul><li>Use it to represent the performance of a system.</li></ul>",
   "dont": "<ul><li>Don't use it to represent time.</li></ul>",
-  "tags": ["efficiency", "effectiveness", "execution"],
+  "tags": ["eos", "efficiency", "effectiveness", "execution"],
   "category": "hardware",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

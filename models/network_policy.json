@@ -3,6 +3,7 @@
   "do": "<ul><li>To represent principle of action adopted or proposed by an organization or individual applied to a network.</li></ul>",
   "dont": "<ul><li>To represent location or language.</li></ul>",
   "tags": [
+    "eos",
     "network",
     "servers",
     "cloud",
@@ -13,6 +14,5 @@
   ],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

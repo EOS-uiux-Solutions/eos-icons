@@ -2,9 +2,8 @@
   "name": "pipeline",
   "do": "<ul><li>To show a line of processes in sales or businesses, but also in a product delivery.</li></ul>",
   "dont": "<ul><li>don't use it to show branches or any other git related term.</li></ul>",
-  "tags": ["process", "flow", "delivery", "course", "duct", "channel"],
+  "tags": ["eos", "process", "flow", "delivery", "course", "duct", "channel"],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

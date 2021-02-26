@@ -2,9 +2,10 @@
   "name": "api",
   "do": "Use this icon to represent an API.",
   "dont": "Don't use it for an endpoint, there is an icon for this.",
-  "tags": ["api", "kubernetes", "data"],
+  "tags": ["eos", "api", "kubernetes", "data"],
   "category": "development",
   "type": "static",
-  "label": "EOS",
-  "date": "30/11/2020"
+  "date": "30/11/2020",
+  "hasOutlined": true,
+  "dateOutlined": "15/02/2021"
 }

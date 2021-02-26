@@ -2,7 +2,15 @@
   "name": "emoji_emotions",
   "do": "",
   "dont": "",
-  "tags": ["face", "emoticon", "emotion", "smiley", "expression", "happy"],
+  "tags": [
+    "eos",
+    "face",
+    "emoticon",
+    "emotion",
+    "smiley",
+    "expression",
+    "happy"
+  ],
   "category": ["social"],
   "type": "static"
 }

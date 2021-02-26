@@ -2,7 +2,15 @@
   "name": "add_photo_alternate",
   "do": "",
   "dont": "",
-  "tags": ["image", "picture", "snapshot", "add", "photo", "photography"],
+  "tags": [
+    "eos",
+    "image",
+    "picture",
+    "snapshot",
+    "add",
+    "photo",
+    "photography"
+  ],
   "category": ["image"],
   "type": "static"
 }

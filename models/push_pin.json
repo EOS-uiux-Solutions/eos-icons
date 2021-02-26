@@ -2,9 +2,8 @@
   "name": "push_pin",
   "do": "",
   "dont": "",
-  "tags": ["nail", "badge", "brooch", "placed", "pinned"],
+  "tags": ["eos", "nail", "badge", "brooch", "placed", "pinned"],
   "category": ["content"],
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -3,6 +3,7 @@
   "do": "<ul><li>Use this icon to represent an abstract resource or tool.</li></ul>",
   "dont": "<ul><li>n/a.</li></ul>",
   "tags": [
+    "eos",
     "resource",
     "conceptual",
     "non-representational",
@@ -11,6 +12,6 @@
   ],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
-  "date": "30/11/2020"
+  "date": "30/11/2020",
+  "hasOutlined": true
 }

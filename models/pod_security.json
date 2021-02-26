@@ -2,9 +2,8 @@
   "name": "pod_security",
   "do": "<ul><li>Use to edit the security configuration of a pod, to view the security settings, or to enable/disable it.</li></ul>",
   "dont": "<ul><li>Don't use it for general security settings</li></ul>",
-  "tags": ["kubernetes", "containers", "safety"],
+  "tags": ["eos", "kubernetes", "containers", "safety"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

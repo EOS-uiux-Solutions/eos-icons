@@ -2,9 +2,8 @@
   "name": "service_instance",
   "do": "<ul><li>To represent service instance.</li></ul>",
   "dont": "<ul><li>To represent service.</li></ul>",
-  "tags": ["service", "kubernetes", "instance", "supply", "serve"],
+  "tags": ["eos", "service", "kubernetes", "instance", "supply", "serve"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

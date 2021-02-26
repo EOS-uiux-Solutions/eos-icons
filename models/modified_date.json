@@ -3,6 +3,7 @@
   "do": "<ul><li>To represent a date that has been modified.</li></ul>",
   "dont": "<ul><li>To represent any other type of editing that is not date.</li></ul>",
   "tags": [
+    "eos",
     "altered",
     "changed",
     "ammended",
@@ -14,6 +15,5 @@
   ],
   "category": "action",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

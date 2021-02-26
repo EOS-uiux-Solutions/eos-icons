@@ -53,6 +53,11 @@
       text-align: center;
     }
 
+    .latest {
+      border: 1px solid #b7b7b7;
+      margin-bottom: 30px;
+    }
+
     .two-columns {
       -webkit-column-count: 2;
       -moz-column-count: 2;
@@ -151,6 +156,8 @@
     }
   </style>
   <link rel="stylesheet" type="text/css" href="css/eos-icons-outlined.css">
+  <script src='js/eos-icons.js'></script>
+  <script src='js/new-icons.js'></script>
 </head>
 
 <body>
@@ -169,6 +176,11 @@
     </div>
   </header>
   <div class='container icons-container'>
+    <div class='latest'>
+      <h3>New icons since last release:</h3>
+      <div class='latest-icons'></div>
+    </div>
+
     <div id="icons">
       
         <div class="icons__item" data-name="abstract_incomplete">
@@ -1376,7 +1388,6 @@
           }
         }
       }
-
     })();
   </script>
 </body>

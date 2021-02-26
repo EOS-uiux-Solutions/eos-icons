@@ -3,6 +3,7 @@
   "do": "<ul> <li> To represent predictable behaivor </li> </ul",
   "dont": "<ul> <li> To represent routes </li> </ul>",
   "tags": [
+    "eos",
     "design",
     "information",
     "motif",
@@ -21,6 +22,5 @@
   ],
   "category": "design",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

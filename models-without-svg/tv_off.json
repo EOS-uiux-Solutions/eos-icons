@@ -2,7 +2,7 @@
   "name": "tv_off",
   "do": "",
   "dont": "",
-  "tags": ["television", "screen", "monitor", "stop"],
+  "tags": ["eos", "television", "screen", "monitor", "stop"],
   "category": ["notification"],
   "type": "static"
 }

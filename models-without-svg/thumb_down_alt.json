@@ -2,7 +2,7 @@
   "name": "thumb_down_alt",
   "do": "",
   "dont": "",
-  "tags": ["disapproval", "bad", "dislike", "no"],
+  "tags": ["eos", "disapproval", "bad", "dislike", "no"],
   "category": ["social"],
   "type": "static"
 }

@@ -2,7 +2,7 @@
   "name": "home_work",
   "do": "",
   "dont": "",
-  "tags": ["place", "residence", "house", "office", "station", "job"],
+  "tags": ["eos", "place", "residence", "house", "office", "station", "job"],
   "category": ["navigation"],
   "type": "static"
 }

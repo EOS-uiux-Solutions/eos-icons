@@ -2,9 +2,8 @@
   "name": "init_container",
   "do": "<ul><li>Use it to initialize a container by providing some configuration.</li></ul>",
   "dont": "<ul><li>n/a</li></ul>",
-  "tags": ["kubernetes", "docker", "setup", "deploy"],
+  "tags": ["eos", "kubernetes", "docker", "setup", "deploy"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

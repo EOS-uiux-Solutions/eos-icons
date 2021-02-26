@@ -3,6 +3,7 @@
   "do": "<ul><li>Indicates a cluster-scoped resources.</li><li>Indicates a non-resource endpoints.</li></ul>",
   "dont": "",
   "tags": [
+    "eos",
     "cluster",
     "role",
     "kubernetes",
@@ -13,6 +14,5 @@
   ],
   "category": "roles",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -3,6 +3,7 @@
   "do": "<ul><li>To represent program temporary fixes.</li><li>To represent hotfixes.</li><li>For a special patch.</li></ul>",
   "dont": "<ul><li>For a regular patch fix.</li></ul>",
   "tags": [
+    "eos",
     "ptf",
     "program temporary fixes",
     "patch",
@@ -13,6 +14,5 @@
   ],
   "category": "services",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

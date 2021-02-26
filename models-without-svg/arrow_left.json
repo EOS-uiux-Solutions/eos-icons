@@ -2,7 +2,7 @@
   "name": "arrow_left",
   "do": "",
   "dont": "",
-  "tags": ["direction", "right", "indicator", "previous", "caret"],
+  "tags": ["eos", "direction", "right", "indicator", "previous", "caret"],
   "category": ["navigation"],
   "type": "static"
 }

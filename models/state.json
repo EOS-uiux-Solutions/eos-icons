@@ -2,9 +2,8 @@
   "name": "state",
   "do": "<ul><li>To represent states. Normally booleans true/false, on/off.</li></ul>",
   "dont": "",
-  "tags": ["state", "boolean", "true", "false"],
+  "tags": ["eos", "state", "boolean", "true", "false"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

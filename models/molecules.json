@@ -2,9 +2,8 @@
   "name": "molecules",
   "do": "Use it in atomic design to represent components.",
   "dont": "",
-  "tags": ["atomic", "mote", "atom", "speck", "corpuscle", "particle"],
+  "tags": ["eos", "atomic", "mote", "atom", "speck", "corpuscle", "particle"],
   "category": "design",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

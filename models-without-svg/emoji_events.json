@@ -2,7 +2,7 @@
   "name": "emoji_events",
   "do": "",
   "dont": "",
-  "tags": ["calendar", "schedule", "award", "winner", "prize", "cup"],
+  "tags": ["eos", "calendar", "schedule", "award", "winner", "prize", "cup"],
   "category": ["social"],
   "type": "static"
 }

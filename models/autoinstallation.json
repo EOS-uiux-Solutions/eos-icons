@@ -2,9 +2,8 @@
   "name": "autoinstallation",
   "do": "<ul><li>To represent an autoinstallation process.</li></ul>",
   "dont": "<ul><li>To represent a downloading processs.</li></ul>",
-  "tags": ["application", "installation"],
+  "tags": ["eos", "application", "installation"],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

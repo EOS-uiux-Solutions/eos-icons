@@ -2,9 +2,8 @@
   "name": "service_plan",
   "do": "<ul><li>To represent a service or product plan, where plan is the detail of benefits the user subscribed/paid for.</li></ul>",
   "dont": "<ul><li>To represent service or service instance.</li><li>To represent a singular product.</li></ul>",
-  "tags": ["service", "plans", "supply", "serve"],
+  "tags": ["eos", "service", "plans", "supply", "serve"],
   "category": "services",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -3,6 +3,7 @@
   "do": "<ul><li>To represent product classes.</li></ul>",
   "dont": "",
   "tags": [
+    "eos",
     "subscription",
     "SCC",
     "category",
@@ -13,6 +14,5 @@
   ],
   "category": "services",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

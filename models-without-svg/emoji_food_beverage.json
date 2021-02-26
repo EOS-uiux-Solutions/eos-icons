@@ -2,7 +2,7 @@
   "name": "emoji_food_beverage",
   "do": "",
   "dont": "",
-  "tags": ["drink", "cooking", "restaurant", "hot", "coffee", "tea"],
+  "tags": ["eos", "drink", "cooking", "restaurant", "hot", "coffee", "tea"],
   "category": ["social"],
   "type": "static"
 }

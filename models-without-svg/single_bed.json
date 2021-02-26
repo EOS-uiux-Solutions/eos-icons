@@ -2,7 +2,7 @@
   "name": "single_bed",
   "do": "",
   "dont": "",
-  "tags": ["sleep", "single room", "hotel", "furniture"],
+  "tags": ["eos", "sleep", "single room", "hotel", "furniture"],
   "category": ["social"],
   "type": "static"
 }

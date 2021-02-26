@@ -2,7 +2,14 @@
   "name": "emoji_symbols",
   "do": "",
   "dont": "",
-  "tags": ["emoticon", "expression", "input symbols", "keyboard", "software"],
+  "tags": [
+    "eos",
+    "emoticon",
+    "expression",
+    "input symbols",
+    "keyboard",
+    "software"
+  ],
   "category": ["social"],
   "type": "static"
 }

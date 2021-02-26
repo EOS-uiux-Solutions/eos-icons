@@ -2,9 +2,8 @@
   "name": "diff_modified",
   "do": "<ul><li>Use it to display when a diff has been modified.</li></ul>",
   "dont": "<ul><li>Don't use it to represent a circle.</li></ul>",
-  "tags": ["change", "divergence", "altered"],
+  "tags": ["eos", "change", "divergence", "altered"],
   "category": "editor",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,9 +2,8 @@
   "name": "master",
   "do": "<ul><li>Use it to designate a main or principal volume, container, repository, etc</li></ul>",
   "dont": "<ul><li>Don't use it for admin icon </li></ul>",
-  "tags": ["main", "principal", "git", "kubernetes"],
+  "tags": ["eos", "main", "principal", "git", "kubernetes"],
   "category": "development",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

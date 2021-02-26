@@ -3,6 +3,7 @@
   "do": "<ul><li>Use it in features that take care of maintaining one or more PODs</li></ul>",
   "dont": "<ul><li>Don't use it for configuration of PODs</li></ul>",
   "tags": [
+    "eos",
     "container",
     "kubernetes",
     "vehicle",
@@ -13,6 +14,5 @@
   ],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -2,7 +2,7 @@
   "name": "toggle_off",
   "do": "",
   "dont": "",
-  "tags": ["switch", "power", "off", "knob"],
+  "tags": ["eos", "switch", "power", "off", "knob"],
   "category": ["toggle"],
   "type": "static"
 }

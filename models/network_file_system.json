@@ -2,9 +2,8 @@
   "name": "network_file_system",
   "do": "<ul><li>To access or share files across servers.</li></ul>",
   "dont": "",
-  "tags": ["network", "file system", "servers", "share files"],
+  "tags": ["eos", "network", "file system", "servers", "share files"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

@@ -23,14 +23,18 @@ const checkSvgName = async (params) => {
   return { eosIconsNew, mdIconsMdNew }
 }
 
-const renameSvgTo = async (originalFile, filePath) => {
+const renameSvgTo = async (originalFile, filePath, otherFilePath) => {
+  const eosSVG = await readFilesAndCleanNames(filePath)
+  const mdSVG = await readFilesAndCleanNames(otherFilePath)
+  const svgCollections = [...eosSVG, ...mdSVG]
+
   try {
     return inquirer
       .prompt([
         {
           type: 'input',
           name: 'name',
-          message: 'Indiquete a new name (without .svg): ',
+          message: 'Indicate the new name (without .svg): ',
           validate: function (input) {
             const done = this.async()
 
@@ -39,6 +43,10 @@ const renameSvgTo = async (originalFile, filePath) => {
               : !input.match(namingConventionRegex)
               ? done(
                   `Wrong naming convention, please use: filename or file_name`
+                )
+              : svgCollections.includes(input)
+              ? done(
+                  `This file name already exists. Please enter a new unique name`
                 )
               : done(null, true)
           }
@@ -61,7 +69,35 @@ const renameSvgTo = async (originalFile, filePath) => {
   }
 }
 
+const deleteDuplicateSvg = async (iconName) => {
+  await selectIconFolder().then(async (response) => {
+    if (response.answer === 'EOS (svg/)') {
+      fs.unlinkSync(`./svg/material/${iconName}.svg`)
+    } else {
+      fs.unlinkSync(`./svg/${iconName}.svg`)
+      console.log('Duplicated file from EOS is deleted!')
+    }
+  })
+}
+
+const selectIconFolder = async () => {
+  try {
+    return inquirer.prompt([
+      {
+        type: 'list',
+        name: 'answer',
+        message:
+          '✅ Two icons with the same name were found, please select which one you want to keep: ',
+        choices: ['EOS (svg/)', 'Material (svg/material/)']
+      }
+    ])
+  } catch (error) {
+    console.log(error)
+  }
+}
+
 module.exports = {
   checkSvgName,
-  renameSvgTo
+  renameSvgTo,
+  deleteDuplicateSvg
 }

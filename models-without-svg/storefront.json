@@ -2,7 +2,7 @@
   "name": "storefront",
   "do": "",
   "dont": "",
-  "tags": ["shop", "drugstore", "shopping", "market", "grocery"],
+  "tags": ["eos", "shop", "drugstore", "shopping", "market", "grocery"],
   "category": ["places"],
   "type": "static"
 }

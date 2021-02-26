@@ -2,9 +2,8 @@
   "name": "file_system",
   "do": "<ul><li>To manage files on a server.</li><li>To control how data is stored and retrieved.</li></ul>",
   "dont": "",
-  "tags": ["files system", "share file", "server"],
+  "tags": ["eos", "files system", "share file", "server"],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

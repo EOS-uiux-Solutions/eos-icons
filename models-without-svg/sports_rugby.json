@@ -2,7 +2,7 @@
   "name": "sports_rugby",
   "do": "",
   "dont": "",
-  "tags": ["sport", "ball", "game", "activity"],
+  "tags": ["eos", "sport", "ball", "game", "activity"],
   "category": ["social"],
   "type": "static"
 }

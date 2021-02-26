@@ -3,6 +3,7 @@
   "do": "<ul><li>Use it when listing or remarking a Domain Name System.</li></ul>",
   "dont": "<ul><li>Don't use it for routes or network.</li></ul>",
   "tags": [
+    "eos",
     "lookup",
     "server",
     "address",
@@ -16,6 +17,5 @@
   ],
   "category": "virtualization",
   "type": "static",
-  "label": "EOS",
   "date": "30/11/2020"
 }

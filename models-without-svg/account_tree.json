@@ -2,7 +2,7 @@
   "name": "account_tree",
   "do": "",
   "dont": "",
-  "tags": ["hierarchy", "structure"],
+  "tags": ["eos", "hierarchy", "structure"],
   "category": ["notification"],
   "type": "static"
 }

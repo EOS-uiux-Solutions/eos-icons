@@ -172,7 +172,10 @@ const eosIconsOutlineModels = async ({ outlineSvgDir, modelsFolder }) => {
       JSON.stringify(
         {
           ...newModel,
-          hasOutlined: true
+          hasOutlined: true,
+          dateOutlined: newModel.dateOutlined
+            ? newModel.dateOutlined
+            : new Date().toLocaleDateString()
         },
         null,
         2

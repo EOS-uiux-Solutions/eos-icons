@@ -2,7 +2,7 @@
   "name": "euro",
   "do": "",
   "dont": "",
-  "tags": ["money", "currency", "dollar", "pound"],
+  "tags": ["eos", "money", "currency", "dollar", "pound"],
   "category": ["image"],
   "type": "static"
 }
