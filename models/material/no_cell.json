@@ -2,14 +2,8 @@
   "name": "no_cell",
   "do": "",
   "dont": "",
-  "tags": [
-    "mobile",
-    "cellphone",
-    "phone"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["mobile", "cellphone", "phone"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

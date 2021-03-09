@@ -2,16 +2,8 @@
   "name": "roofing",
   "do": "",
   "dont": "",
-  "tags": [
-    "house",
-    "ceiling",
-    "home",
-    "shelter",
-    "housing"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["house", "ceiling", "home", "shelter", "housing"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

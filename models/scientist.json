@@ -2,12 +2,7 @@
   "name": "scientist",
   "do": "<ul><li>Use it to represent a Scientist role.</li></ul>",
   "dont": "<ul><li>Don't use it as a normal user role.</li></ul>",
-  "tags": [
-    "chemist",
-    "researcher",
-    "lab",
-    "science"
-  ],
+  "tags": ["chemist", "researcher", "lab", "science"],
   "category": "roles",
   "type": "static",
   "label": "EOS",

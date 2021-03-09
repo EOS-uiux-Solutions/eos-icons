@@ -2,14 +2,7 @@
   "name": "content_new",
   "do": "<ul><li>Use it to display that a new file has been added.</li></ul>",
   "dont": "<ul><li>Don't use it to display an operation.</li></ul>",
-  "tags": [
-    "add",
-    "added",
-    "more",
-    "fresh",
-    "composition",
-    "file"
-  ],
+  "tags": ["add", "added", "more", "fresh", "composition", "file"],
   "category": "editor",
   "type": "static",
   "label": "EOS",

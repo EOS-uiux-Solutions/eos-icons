@@ -2,10 +2,7 @@
   "name": "products",
   "do": "<ul><li>To show a collection of products.</li></ul>",
   "dont": "",
-  "tags": [
-    "product",
-    "collection"
-  ],
+  "tags": ["product", "collection"],
   "category": "services",
   "type": "static",
   "label": "EOS",

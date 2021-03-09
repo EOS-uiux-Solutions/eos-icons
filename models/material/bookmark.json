@@ -2,15 +2,8 @@
   "name": "bookmark",
   "do": "",
   "dont": "",
-  "tags": [
-    "bookmarks",
-    "remember",
-    "bookmark",
-    "save"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["bookmarks", "remember", "bookmark", "save"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

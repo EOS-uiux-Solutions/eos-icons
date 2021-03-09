@@ -2,11 +2,7 @@
   "name": "volume",
   "do": "<ul><li>Use it for unit of storage.</li><li>Use it for hard disk.</li></ul>",
   "dont": "",
-  "tags": [
-    "disk",
-    "drive",
-    "kubernetes"
-  ],
+  "tags": ["disk", "drive", "kubernetes"],
   "category": "hardware",
   "type": "static",
   "label": "EOS",

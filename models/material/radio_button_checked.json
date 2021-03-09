@@ -2,17 +2,8 @@
   "name": "radio_button_checked",
   "do": "",
   "dont": "",
-  "tags": [
-    "selected",
-    "marked",
-    "confirmed",
-    "chosen",
-    "picked",
-    "option"
-  ],
-  "category": [
-    "toggle"
-  ],
+  "tags": ["selected", "marked", "confirmed", "chosen", "picked", "option"],
+  "category": ["toggle"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

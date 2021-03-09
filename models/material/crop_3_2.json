@@ -2,16 +2,8 @@
   "name": "crop_3_2",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "cut",
-    "reduce"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "cut", "reduce"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

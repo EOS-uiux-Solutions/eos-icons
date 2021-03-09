@@ -16,9 +16,7 @@
     "speed",
     "network"
   ],
-  "category": [
-    "device"
-  ],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

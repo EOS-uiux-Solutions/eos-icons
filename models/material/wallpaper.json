@@ -2,15 +2,8 @@
   "name": "wallpaper",
   "do": "",
   "dont": "",
-  "tags": [
-    "image",
-    "wallpaper",
-    "background",
-    "landscape"
-  ],
-  "category": [
-    "device"
-  ],
+  "tags": ["image", "wallpaper", "background", "landscape"],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "medical_services",
   "do": "",
   "dont": "",
-  "tags": [
-    "docto",
-    "health",
-    "emergency"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["docto", "health", "emergency"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "groups",
   "do": "",
   "dont": "",
-  "tags": [
-    "team",
-    "people",
-    "users"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["team", "people", "users"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,18 +2,8 @@
   "name": "query_builder",
   "do": "",
   "dont": "",
-  "tags": [
-    "hour",
-    "query",
-    "builder",
-    "save",
-    "clock",
-    "time",
-    "minute"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["hour", "query", "builder", "save", "clock", "time", "minute"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

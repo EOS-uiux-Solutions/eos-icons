@@ -2,16 +2,8 @@
   "name": "view_compact",
   "do": "",
   "dont": "",
-  "tags": [
-    "grid",
-    "layout format",
-    "screen",
-    "photography",
-    "dashboard"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["grid", "layout format", "screen", "photography", "dashboard"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

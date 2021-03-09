@@ -16,9 +16,7 @@
     "account",
     "smile"
   ],
-  "category": [
-    "editor"
-  ],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

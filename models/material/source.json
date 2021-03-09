@@ -2,15 +2,8 @@
   "name": "source",
   "do": "",
   "dont": "",
-  "tags": [
-    "script",
-    "resource",
-    "program",
-    "data"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["script", "resource", "program", "data"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

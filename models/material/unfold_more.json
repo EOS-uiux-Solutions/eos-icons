@@ -2,15 +2,8 @@
   "name": "unfold_more",
   "do": "",
   "dont": "",
-  "tags": [
-    "spread",
-    "expand",
-    "extend",
-    "unreveal"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["spread", "expand", "extend", "unreveal"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

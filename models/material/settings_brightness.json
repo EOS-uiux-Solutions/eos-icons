@@ -2,16 +2,8 @@
   "name": "settings_brightness",
   "do": "",
   "dont": "",
-  "tags": [
-    "mode",
-    "settings",
-    "brightness",
-    "light",
-    "dark"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["mode", "settings", "brightness", "light", "dark"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

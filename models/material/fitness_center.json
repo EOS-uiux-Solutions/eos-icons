@@ -2,17 +2,8 @@
   "name": "fitness_center",
   "do": "",
   "dont": "",
-  "tags": [
-    "sport",
-    "health",
-    "weight",
-    "strengh",
-    "dumbbell",
-    "barbbell"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["sport", "health", "weight", "strengh", "dumbbell", "barbbell"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

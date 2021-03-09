@@ -2,18 +2,8 @@
   "name": "login",
   "do": "",
   "dont": "",
-  "tags": [
-    "access",
-    "arrow",
-    "enter",
-    "input",
-    "left",
-    "login",
-    "sign in"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["access", "arrow", "enter", "input", "left", "login", "sign in"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,16 +2,8 @@
   "name": "call_merge",
   "do": "",
   "dont": "",
-  "tags": [
-    "Call",
-    "arrow",
-    "merge",
-    "mobile",
-    "device"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["Call", "arrow", "merge", "mobile", "device"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

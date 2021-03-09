@@ -2,13 +2,8 @@
   "name": "text_snippet",
   "do": "",
   "dont": "",
-  "tags": [
-    "shortcut",
-    "keyboard"
-  ],
-  "category": [
-    "file"
-  ],
+  "tags": ["shortcut", "keyboard"],
+  "category": ["file"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

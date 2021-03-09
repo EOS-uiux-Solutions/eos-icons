@@ -2,16 +2,8 @@
   "name": "bug_report",
   "do": "",
   "dont": "",
-  "tags": [
-    "file",
-    "bug",
-    "insect",
-    "report",
-    "animal"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["file", "bug", "insect", "report", "animal"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,17 +2,8 @@
   "name": "timer",
   "do": "",
   "dont": "",
-  "tags": [
-    "time",
-    "timeout",
-    "setting",
-    "stopwatch",
-    "photo",
-    "camera"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["time", "timeout", "setting", "stopwatch", "photo", "camera"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

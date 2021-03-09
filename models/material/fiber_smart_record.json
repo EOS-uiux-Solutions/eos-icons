@@ -2,16 +2,8 @@
   "name": "fiber_smart_record",
   "do": "",
   "dont": "",
-  "tags": [
-    "play",
-    "watch",
-    "Fiber",
-    "record",
-    "smart"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["play", "watch", "Fiber", "record", "smart"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

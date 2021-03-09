@@ -13,9 +13,7 @@
     "plus",
     "stop"
   ],
-  "category": [
-    "maps"
-  ],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

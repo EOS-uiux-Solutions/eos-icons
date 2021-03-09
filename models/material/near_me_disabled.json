@@ -2,13 +2,8 @@
   "name": "near_me_disabled",
   "do": "",
   "dont": "",
-  "tags": [
-    "map",
-    "location"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["map", "location"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

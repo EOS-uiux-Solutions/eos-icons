@@ -2,16 +2,8 @@
   "name": "assignment_returned",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "assignment",
-    "clipboard",
-    "down",
-    "point"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["arrow", "assignment", "clipboard", "down", "point"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

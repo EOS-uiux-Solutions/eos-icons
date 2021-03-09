@@ -2,14 +2,8 @@
   "name": "desktop_windows",
   "do": "",
   "dont": "",
-  "tags": [
-    "pc",
-    "laptop",
-    "microsoft"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["pc", "laptop", "microsoft"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

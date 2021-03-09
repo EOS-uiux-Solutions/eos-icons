@@ -2,16 +2,8 @@
   "name": "filter_9_plus",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "edit",
-    "nine"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "edit", "nine"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

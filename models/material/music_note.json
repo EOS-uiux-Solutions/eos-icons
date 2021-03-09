@@ -2,14 +2,8 @@
   "name": "music_note",
   "do": "",
   "dont": "",
-  "tags": [
-    "musical",
-    "tune",
-    "song"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["musical", "tune", "song"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

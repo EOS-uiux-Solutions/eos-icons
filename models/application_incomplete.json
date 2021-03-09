@@ -2,10 +2,7 @@
   "name": "application_incomplete",
   "do": "<ul><li>When the status of an applications is incomplete.</li><li>When an application is missing configuration to work properly.</li></ul>",
   "dont": "<ul><li>To represent an application or application instance.</li></ul>",
-  "tags": [
-    "application",
-    "application status"
-  ],
+  "tags": ["application", "application status"],
   "category": "virtualization",
   "type": "static",
   "label": "EOS",

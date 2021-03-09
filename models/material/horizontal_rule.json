@@ -2,13 +2,8 @@
   "name": "horizontal_rule",
   "do": "",
   "dont": "",
-  "tags": [
-    "guide",
-    "line"
-  ],
-  "category": [
-    "editor"
-  ],
+  "tags": ["guide", "line"],
+  "category": ["editor"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

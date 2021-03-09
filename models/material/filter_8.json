@@ -2,16 +2,8 @@
   "name": "filter_8",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "edit",
-    "eight"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "edit", "eight"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

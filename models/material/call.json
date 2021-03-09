@@ -2,16 +2,8 @@
   "name": "call",
   "do": "",
   "dont": "",
-  "tags": [
-    "Call",
-    "phone",
-    "mobile",
-    "talk",
-    "device"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["Call", "phone", "mobile", "talk", "device"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

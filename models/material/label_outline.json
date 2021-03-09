@@ -2,16 +2,8 @@
   "name": "label_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "indent",
-    "sticker",
-    "stamp",
-    "label",
-    "tag"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["indent", "sticker", "stamp", "label", "tag"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "design_services",
   "do": "",
   "dont": "",
-  "tags": [
-    "graphic",
-    "drawing",
-    "sketch"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["graphic", "drawing", "sketch"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

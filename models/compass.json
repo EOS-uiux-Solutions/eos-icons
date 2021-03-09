@@ -2,11 +2,7 @@
   "name": "compass",
   "do": "<ul><li>Use it to indicate navigation or orientation.</li></ul>",
   "dont": "<ul><li>N/a</li></ul>",
-  "tags": [
-    "navigation",
-    "orientation",
-    "map"
-  ],
+  "tags": ["navigation", "orientation", "map"],
   "category": "maps",
   "type": "animated",
   "label": "EOS",

@@ -2,17 +2,8 @@
   "name": "open_with",
   "do": "",
   "dont": "",
-  "tags": [
-    "expand",
-    "move",
-    "arrow",
-    "arrows",
-    "open",
-    "direction"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["expand", "move", "arrow", "arrows", "open", "direction"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

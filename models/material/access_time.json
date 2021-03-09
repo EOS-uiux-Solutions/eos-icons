@@ -2,16 +2,8 @@
   "name": "access_time",
   "do": "",
   "dont": "",
-  "tags": [
-    "time",
-    "access",
-    "clock",
-    "interval",
-    "hour"
-  ],
-  "category": [
-    "device"
-  ],
+  "tags": ["time", "access", "clock", "interval", "hour"],
+  "category": ["device"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

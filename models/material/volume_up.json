@@ -2,18 +2,8 @@
   "name": "volume_up",
   "do": "",
   "dont": "",
-  "tags": [
-    "tv",
-    "music",
-    "Volume",
-    "sound",
-    "control",
-    "audio",
-    "up"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["tv", "music", "Volume", "sound", "control", "audio", "up"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -11,9 +11,7 @@
     "conversation",
     "Forum"
   ],
-  "category": [
-    "communication"
-  ],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

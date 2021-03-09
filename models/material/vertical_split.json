@@ -2,17 +2,8 @@
   "name": "vertical_split",
   "do": "",
   "dont": "",
-  "tags": [
-    "format",
-    "paragraph",
-    "split",
-    "text",
-    "vertical",
-    "website"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["format", "paragraph", "split", "text", "vertical", "website"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

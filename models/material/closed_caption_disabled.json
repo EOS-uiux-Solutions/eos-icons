@@ -2,14 +2,8 @@
   "name": "closed_caption_disabled",
   "do": "",
   "dont": "",
-  "tags": [
-    "subs",
-    "subtitles",
-    "off"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["subs", "subtitles", "off"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

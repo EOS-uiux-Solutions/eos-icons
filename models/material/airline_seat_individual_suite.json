@@ -2,16 +2,8 @@
   "name": "airline_seat_individual_suite",
   "do": "",
   "dont": "",
-  "tags": [
-    "room",
-    "bed",
-    "sleep",
-    "plane",
-    "airplane"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["room", "bed", "sleep", "plane", "airplane"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

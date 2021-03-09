@@ -2,13 +2,8 @@
   "name": "escalator",
   "do": "",
   "dont": "",
-  "tags": [
-    "moving stairway",
-    "moving staircase"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["moving stairway", "moving staircase"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

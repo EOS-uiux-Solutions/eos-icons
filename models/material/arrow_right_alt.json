@@ -2,15 +2,8 @@
   "name": "arrow_right_alt",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "pointing",
-    "right",
-    "shape"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["arrow", "pointing", "right", "shape"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

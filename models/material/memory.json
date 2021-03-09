@@ -2,15 +2,8 @@
   "name": "memory",
   "do": "",
   "dont": "",
-  "tags": [
-    "ram",
-    "chip",
-    "rom",
-    "hard drive"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["ram", "chip", "rom", "hard drive"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

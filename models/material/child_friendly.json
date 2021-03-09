@@ -2,17 +2,8 @@
   "name": "child_friendly",
   "do": "",
   "dont": "",
-  "tags": [
-    "baby",
-    "pram",
-    "baby carriage",
-    "stroller",
-    "children",
-    "cart"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["baby", "pram", "baby carriage", "stroller", "children", "cart"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

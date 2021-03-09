@@ -2,13 +2,8 @@
   "name": "sports_bar",
   "do": "",
   "dont": "",
-  "tags": [
-    "drinks",
-    "football"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["drinks", "football"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

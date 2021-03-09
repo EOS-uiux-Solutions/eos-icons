@@ -2,13 +2,8 @@
   "name": "coronavirus",
   "do": "",
   "dont": "",
-  "tags": [
-    "microorganism",
-    "germ"
-  ],
-  "category": [
-    "social"
-  ],
+  "tags": ["microorganism", "germ"],
+  "category": ["social"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

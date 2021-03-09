@@ -2,11 +2,7 @@
   "name": "endpoints_connected",
   "do": "<ul><li>To represent a connection between two or more endpoints.</li></ul>",
   "dont": "<ul><li>To represent routes.</li></ul>",
-  "tags": [
-    "endpoints",
-    "connection",
-    "api"
-  ],
+  "tags": ["endpoints", "connection", "api"],
   "category": "development",
   "type": "static",
   "label": "EOS",

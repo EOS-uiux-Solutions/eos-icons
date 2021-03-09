@@ -18,21 +18,28 @@ const checkForMissingModelsOrIcons = async (params) => {
     )
 
     const SVGsMissingModelsMd = compareTwoArraysOfElements(
-      [...existentMdModels], [...existentMdIcons]
+      [...existentMdModels],
+      [...existentMdIcons]
     )
 
     const ModelsMissingSVGsEos = compareTwoArraysOfElements(
-      [ ...existentIcons, ...existentAnimatedIcons],
+      [...existentIcons, ...existentAnimatedIcons],
       [...existentModels]
     )
 
     const ModelsMissingSVGsMd = compareTwoArraysOfElements(
-       [...existentMdIcons], [...existentMdModels]
+      [...existentMdIcons],
+      [...existentMdModels]
     )
 
     /* Return an object with all the missing SVGs and Models */
     // return { SVGsMissingModels, ModelsMissingSVGs }
-    return { SVGsMissingModelsEOS, SVGsMissingModelsMd, ModelsMissingSVGsEos, ModelsMissingSVGsMd }
+    return {
+      SVGsMissingModelsEOS,
+      SVGsMissingModelsMd,
+      ModelsMissingSVGsEos,
+      ModelsMissingSVGsMd
+    }
   } catch (error) {
     console.log('ERROR: checkForMissingModelsOrIcons() => : ', error)
   }
@@ -212,9 +219,15 @@ const checkModelKeys = async () => {
 
 /* Checks an object to see if it matches the given keys in the array */
 const checkForKeys = (model) => {
-  return ['name', 'do', 'dont', 'tags', 'category', 'type', 'date'].every((key) =>
-    model.includes(key)
-  )
+  return [
+    'name',
+    'do',
+    'dont',
+    'tags',
+    'category',
+    'type',
+    'date'
+  ].every((key) => model.includes(key))
 }
 
 const outlineModelsAndSvgTest = async ({ outlinedSvgs, normalSvgs }) => {

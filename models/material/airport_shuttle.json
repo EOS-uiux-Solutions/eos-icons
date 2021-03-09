@@ -2,13 +2,8 @@
   "name": "airport_shuttle",
   "do": "",
   "dont": "",
-  "tags": [
-    "transport",
-    "bus"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["transport", "bus"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

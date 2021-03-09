@@ -2,15 +2,8 @@
   "name": "leaderboard",
   "do": "",
   "dont": "",
-  "tags": [
-    "chart",
-    "bar",
-    "rank",
-    "scoreboard"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["chart", "bar", "rank", "scoreboard"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "umbrella",
   "do": "",
   "dont": "",
-  "tags": [
-    "parasol",
-    "brolly",
-    "protection"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["parasol", "brolly", "protection"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -14,9 +14,7 @@
     "look for",
     "user"
   ],
-  "category": [
-    "communication"
-  ],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

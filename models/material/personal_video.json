@@ -2,14 +2,8 @@
   "name": "personal_video",
   "do": "",
   "dont": "",
-  "tags": [
-    "screen",
-    "display",
-    "monitor"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["screen", "display", "monitor"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

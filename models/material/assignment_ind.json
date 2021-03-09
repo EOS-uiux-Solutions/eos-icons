@@ -13,9 +13,7 @@
     "user",
     "account"
   ],
-  "category": [
-    "roles"
-  ],
+  "category": ["roles"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

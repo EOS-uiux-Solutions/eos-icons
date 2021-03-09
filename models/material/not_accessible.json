@@ -2,13 +2,8 @@
   "name": "not_accessible",
   "do": "",
   "dont": "",
-  "tags": [
-    "inaccessible",
-    "dissabled"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["inaccessible", "dissabled"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

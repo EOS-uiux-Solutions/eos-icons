@@ -2,17 +2,8 @@
   "name": "gesture",
   "do": "",
   "dont": "",
-  "tags": [
-    "finger",
-    "motion",
-    "Gesture",
-    "drawing",
-    "gestures",
-    "hand"
-  ],
-  "category": [
-    "content"
-  ],
+  "tags": ["finger", "motion", "Gesture", "drawing", "gestures", "hand"],
+  "category": ["content"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

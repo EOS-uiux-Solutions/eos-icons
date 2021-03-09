@@ -2,15 +2,8 @@
   "name": "arrow_back",
   "do": "",
   "dont": "",
-  "tags": [
-    "direction",
-    "left",
-    "indicator",
-    "backward"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["direction", "left", "indicator", "backward"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

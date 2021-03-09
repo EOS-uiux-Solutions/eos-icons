@@ -2,14 +2,8 @@
   "name": "qr_code",
   "do": "",
   "dont": "",
-  "tags": [
-    "code",
-    "qr",
-    "barcode"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["code", "qr", "barcode"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

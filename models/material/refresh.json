@@ -2,14 +2,8 @@
   "name": "refresh",
   "do": "",
   "dont": "",
-  "tags": [
-    "restore",
-    "renew",
-    "regenerate"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["restore", "renew", "regenerate"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

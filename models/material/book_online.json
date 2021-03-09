@@ -2,15 +2,8 @@
   "name": "book_online",
   "do": "",
   "dont": "",
-  "tags": [
-    "reservation",
-    "reserve",
-    "booking",
-    "appointment"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["reservation", "reserve", "booking", "appointment"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,18 +2,8 @@
   "name": "keyboard_return",
   "do": "",
   "dont": "",
-  "tags": [
-    "writing",
-    "words",
-    "type",
-    "key",
-    "letter",
-    "words",
-    "enter"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["writing", "words", "type", "key", "letter", "words", "enter"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

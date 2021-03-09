@@ -2,11 +2,7 @@
   "name": "cronjob",
   "do": "<ul><li>Use for job/script that will run as scheduled.</li></ul>",
   "dont": "<ul><li>To show the time.</li></ul>",
-  "tags": [
-    "kubernetes",
-    "cronjob",
-    "schedule"
-  ],
+  "tags": ["kubernetes", "cronjob", "schedule"],
   "category": "development",
   "type": "static",
   "label": "EOS",

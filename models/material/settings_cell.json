@@ -13,9 +13,7 @@
     "Android",
     "hardware"
   ],
-  "category": [
-    "action"
-  ],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,18 +2,8 @@
   "name": "fast_forward",
   "do": "",
   "dont": "",
-  "tags": [
-    "music",
-    "forward",
-    "control",
-    "time",
-    "video",
-    "Fast",
-    "speed"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["music", "forward", "control", "time", "video", "Fast", "speed"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

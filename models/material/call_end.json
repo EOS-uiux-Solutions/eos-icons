@@ -2,17 +2,8 @@
   "name": "call_end",
   "do": "",
   "dont": "",
-  "tags": [
-    "Call",
-    "phone",
-    "mobile",
-    "end",
-    "talk",
-    "device"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["Call", "phone", "mobile", "end", "talk", "device"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

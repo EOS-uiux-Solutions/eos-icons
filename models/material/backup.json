@@ -2,17 +2,8 @@
   "name": "backup",
   "do": "",
   "dont": "",
-  "tags": [
-    "cloud",
-    "backup",
-    "arrow",
-    "upload",
-    "up",
-    "point"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["cloud", "backup", "arrow", "upload", "up", "point"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

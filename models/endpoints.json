@@ -2,11 +2,7 @@
   "name": "endpoints",
   "do": "<ul><li>To represent endpoints. E.g.: you have a table of information and you need to differentiate endpoint URIs.</li></ul>",
   "dont": "<ul><li>To represent an endpoints status.</li></ul>",
-  "tags": [
-    "endpoints",
-    "connection",
-    "api"
-  ],
+  "tags": ["endpoints", "connection", "api"],
   "category": "development",
   "type": "static",
   "label": "EOS",

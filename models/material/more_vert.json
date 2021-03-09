@@ -2,14 +2,8 @@
   "name": "more_vert",
   "do": "",
   "dont": "",
-  "tags": [
-    "more",
-    "vertical ellipsis",
-    "navigation"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["more", "vertical ellipsis", "navigation"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

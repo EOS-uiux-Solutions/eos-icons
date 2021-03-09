@@ -2,17 +2,8 @@
   "name": "view_agenda",
   "do": "",
   "dont": "",
-  "tags": [
-    "view",
-    "website",
-    "cards",
-    "stacked",
-    "format",
-    "agenda"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["view", "website", "cards", "stacked", "format", "agenda"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

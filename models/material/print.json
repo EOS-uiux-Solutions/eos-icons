@@ -2,17 +2,8 @@
   "name": "print",
   "do": "",
   "dont": "",
-  "tags": [
-    "print",
-    "paper",
-    "draft",
-    "ink",
-    "printer",
-    "send"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["print", "paper", "draft", "ink", "printer", "send"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

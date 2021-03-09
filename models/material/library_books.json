@@ -2,17 +2,8 @@
   "name": "library_books",
   "do": "",
   "dont": "",
-  "tags": [
-    "add",
-    "books",
-    "book",
-    "Library",
-    "audio",
-    "collection"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["add", "books", "book", "Library", "audio", "collection"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

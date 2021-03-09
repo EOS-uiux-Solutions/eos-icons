@@ -2,17 +2,8 @@
   "name": "folder_shared",
   "do": "",
   "dont": "",
-  "tags": [
-    "folder",
-    "open",
-    "file",
-    "accessed",
-    "common",
-    "public"
-  ],
-  "category": [
-    "file"
-  ],
+  "tags": ["folder", "open", "file", "accessed", "common", "public"],
+  "category": ["file"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

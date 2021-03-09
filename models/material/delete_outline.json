@@ -2,17 +2,8 @@
   "name": "delete_outline",
   "do": "",
   "dont": "",
-  "tags": [
-    "bin",
-    "can",
-    "delete",
-    "garbage",
-    "remove",
-    "trash"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["bin", "can", "delete", "garbage", "remove", "trash"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

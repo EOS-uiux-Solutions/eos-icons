@@ -2,15 +2,8 @@
   "name": "set_meal",
   "do": "",
   "dont": "",
-  "tags": [
-    "eat",
-    "food",
-    "kitchen",
-    "serve"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["eat", "food", "kitchen", "serve"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,13 +2,8 @@
   "name": "food_bank",
   "do": "",
   "dont": "",
-  "tags": [
-    "hunger",
-    "charity"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["hunger", "charity"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

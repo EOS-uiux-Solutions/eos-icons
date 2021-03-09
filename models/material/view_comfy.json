@@ -2,16 +2,8 @@
   "name": "view_comfy",
   "do": "",
   "dont": "",
-  "tags": [
-    "grid",
-    "ratio",
-    "layout format",
-    "screen",
-    "zoom"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["grid", "ratio", "layout format", "screen", "zoom"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

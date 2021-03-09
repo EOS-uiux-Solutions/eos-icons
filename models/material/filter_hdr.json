@@ -2,16 +2,8 @@
   "name": "filter_hdr",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "style",
-    "custom"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "style", "custom"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

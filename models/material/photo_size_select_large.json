@@ -2,16 +2,8 @@
   "name": "photo_size_select_large",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "image",
-    "custom",
-    "resize",
-    "edit"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "image", "custom", "resize", "edit"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

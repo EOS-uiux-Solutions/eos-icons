@@ -2,14 +2,8 @@
   "name": "flaky",
   "do": "",
   "dont": "",
-  "tags": [
-    "cracking",
-    "yes no",
-    "on off"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["cracking", "yes no", "on off"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

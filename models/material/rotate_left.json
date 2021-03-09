@@ -2,15 +2,8 @@
   "name": "rotate_left",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "direction",
-    "back",
-    "arrows"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["arrow", "direction", "back", "arrows"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

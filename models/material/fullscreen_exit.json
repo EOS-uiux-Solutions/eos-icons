@@ -2,18 +2,8 @@
   "name": "fullscreen_exit",
   "do": "",
   "dont": "",
-  "tags": [
-    "entire",
-    "frame",
-    "image",
-    "big screen",
-    "exit",
-    "stop",
-    "disable"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["entire", "frame", "image", "big screen", "exit", "stop", "disable"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

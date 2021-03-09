@@ -2,16 +2,8 @@
   "name": "note",
   "do": "",
   "dont": "",
-  "tags": [
-    "bookmark",
-    "paper",
-    "Note",
-    "message",
-    "mark"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["bookmark", "paper", "Note", "message", "mark"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

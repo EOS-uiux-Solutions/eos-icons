@@ -2,18 +2,8 @@
   "name": "pending_actions",
   "do": "",
   "dont": "",
-  "tags": [
-    "waiting",
-    "paused",
-    "clock",
-    "list",
-    "items",
-    "tasks",
-    "awaiting"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["waiting", "paused", "clock", "list", "items", "tasks", "awaiting"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

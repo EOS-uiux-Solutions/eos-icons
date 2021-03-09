@@ -175,15 +175,21 @@ module.exports = function (grunt) {
       iconsSrc: './svg',
       animatedSrc: './animated-svg'
     }).then(async (data) => {
-      const { SVGsMissingModelsEOS,
+      const {
+        SVGsMissingModelsEOS,
         SVGsMissingModelsMd,
         ModelsMissingSVGsEos,
-        ModelsMissingSVGsMd } = data
+        ModelsMissingSVGsMd
+      } = data
 
-      let SVGsMissingModels = [ ...SVGsMissingModelsMd, ...SVGsMissingModelsEOS ]
+      let SVGsMissingModels = [...SVGsMissingModelsMd, ...SVGsMissingModelsEOS]
       let ModelsMissingSVGs
 
-      if (SVGsMissingModels.length || ModelsMissingSVGsEos.length || ModelsMissingSVGsMd.length ) {
+      if (
+        SVGsMissingModels.length ||
+        ModelsMissingSVGsEos.length ||
+        ModelsMissingSVGsMd.length
+      ) {
         if (SVGsMissingModels.length) {
           console.log(
             `⚠️ ${
@@ -207,8 +213,10 @@ module.exports = function (grunt) {
           )
 
           /* If any model is missing, send it to be created. */
-          await createNewModel({ ModelsMissingSVGs, modelsSrc: './models' }).then(async () => {
-            
+          await createNewModel({
+            ModelsMissingSVGs,
+            modelsSrc: './models'
+          }).then(async () => {
             if (ModelsMissingSVGsMd.length) {
               ModelsMissingSVGs = ModelsMissingSVGsMd
               console.log(
@@ -218,9 +226,12 @@ module.exports = function (grunt) {
                   (ele) => ele
                 )} # but not the model inside ./models/material. Please create one below.`
               )
-    
+
               /* If any model is missing, send it to be created. */
-              await createNewModel({ ModelsMissingSVGs, modelsSrc: './models/material' }).then(done)
+              await createNewModel({
+                ModelsMissingSVGs,
+                modelsSrc: './models/material'
+              }).then(done)
             }
           })
         }

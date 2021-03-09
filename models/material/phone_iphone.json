@@ -2,16 +2,8 @@
   "name": "phone_iphone",
   "do": "",
   "dont": "",
-  "tags": [
-    "apple",
-    "ios",
-    "smarthphone",
-    "telephone",
-    "mobile"
-  ],
-  "category": [
-    "hardware"
-  ],
+  "tags": ["apple", "ios", "smarthphone", "telephone", "mobile"],
+  "category": ["hardware"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

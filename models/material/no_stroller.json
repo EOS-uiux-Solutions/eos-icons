@@ -2,14 +2,8 @@
   "name": "no_stroller",
   "do": "",
   "dont": "",
-  "tags": [
-    "buggie",
-    "no buggies",
-    "pushchair"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["buggie", "no buggies", "pushchair"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

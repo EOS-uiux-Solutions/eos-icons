@@ -2,12 +2,8 @@
   "name": "fire_extinguisher",
   "do": "",
   "dont": "",
-  "tags": [
-    "extinguish"
-  ],
-  "category": [
-    "places"
-  ],
+  "tags": ["extinguish"],
+  "category": ["places"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

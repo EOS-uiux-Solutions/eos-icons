@@ -2,18 +2,8 @@
   "name": "video_call",
   "do": "",
   "dont": "",
-  "tags": [
-    "call",
-    "conference",
-    "Video",
-    "chat",
-    "screen",
-    "camera",
-    "plus"
-  ],
-  "category": [
-    "av"
-  ],
+  "tags": ["call", "conference", "Video", "chat", "screen", "camera", "plus"],
+  "category": ["av"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,14 +2,8 @@
   "name": "mark_email_read",
   "do": "",
   "dont": "",
-  "tags": [
-    "viewed",
-    "email",
-    "message"
-  ],
-  "category": [
-    "communication"
-  ],
+  "tags": ["viewed", "email", "message"],
+  "category": ["communication"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,17 +2,8 @@
   "name": "tour",
   "do": "",
   "dont": "",
-  "tags": [
-    "destination",
-    "flag",
-    "places",
-    "tour",
-    "travel",
-    "visit"
-  ],
-  "category": [
-    "action"
-  ],
+  "tags": ["destination", "flag", "places", "tour", "travel", "visit"],
+  "category": ["action"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

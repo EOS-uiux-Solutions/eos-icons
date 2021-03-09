@@ -2,15 +2,8 @@
   "name": "arrow_left",
   "do": "",
   "dont": "",
-  "tags": [
-    "arrow",
-    "arrows",
-    "direction",
-    "left"
-  ],
-  "category": [
-    "navigation"
-  ],
+  "tags": ["arrow", "arrows", "direction", "left"],
+  "category": ["navigation"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

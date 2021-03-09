@@ -2,17 +2,8 @@
   "name": "filter_tilt_shift",
   "do": "",
   "dont": "",
-  "tags": [
-    "photography",
-    "photo",
-    "image",
-    "style",
-    "custom",
-    "lens"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["photography", "photo", "image", "style", "custom", "lens"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

@@ -2,18 +2,8 @@
   "name": "timer_off",
   "do": "",
   "dont": "",
-  "tags": [
-    "time",
-    "clock",
-    "alarm",
-    "timeout",
-    "setting",
-    "photo",
-    "camera"
-  ],
-  "category": [
-    "image"
-  ],
+  "tags": ["time", "clock", "alarm", "timeout", "setting", "photo", "camera"],
+  "category": ["image"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

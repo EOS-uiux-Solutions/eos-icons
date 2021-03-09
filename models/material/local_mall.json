@@ -26,9 +26,7 @@
     "coin",
     "shopping"
   ],
-  "category": [
-    "maps"
-  ],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

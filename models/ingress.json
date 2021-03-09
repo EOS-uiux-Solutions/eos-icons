@@ -2,12 +2,7 @@
   "name": "ingress",
   "do": "<ul><li>Use it for when allowing a resource entering and exiting access, for example, exposing HTTP routes to a service.</li></ul>",
   "dont": "<ul><li>Dont use it for login or logout</li></ul>",
-  "tags": [
-    "enter",
-    "exit",
-    "route",
-    "kubernetes"
-  ],
+  "tags": ["enter", "exit", "route", "kubernetes"],
   "category": "virtualization",
   "type": "static",
   "label": "EOS",

@@ -2,11 +2,7 @@
   "name": "proxy",
   "do": "<ul><li>To represent a proxy server or state.</li></ul>",
   "dont": "",
-  "tags": [
-    "intermediary",
-    "surrogate",
-    "stand-in"
-  ],
+  "tags": ["intermediary", "surrogate", "stand-in"],
   "category": "virtualization",
   "type": "static",
   "label": "EOS",

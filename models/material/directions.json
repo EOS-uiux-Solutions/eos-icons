@@ -2,18 +2,8 @@
   "name": "directions",
   "do": "",
   "dont": "",
-  "tags": [
-    "route",
-    "maps",
-    "arrow",
-    "sign",
-    "right",
-    "direction",
-    "traffic"
-  ],
-  "category": [
-    "maps"
-  ],
+  "tags": ["route", "maps", "arrow", "sign", "right", "direction", "traffic"],
+  "category": ["maps"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",

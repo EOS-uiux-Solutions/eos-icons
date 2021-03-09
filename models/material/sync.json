@@ -2,14 +2,8 @@
   "name": "sync",
   "do": "",
   "dont": "",
-  "tags": [
-    "refresh",
-    "reload",
-    "update"
-  ],
-  "category": [
-    "notification"
-  ],
+  "tags": ["refresh", "reload", "update"],
+  "category": ["notification"],
   "type": "static",
   "hasOutlined": true,
   "label": "None",
