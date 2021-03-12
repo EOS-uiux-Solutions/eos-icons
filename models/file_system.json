@@ -5,5 +5,7 @@
   "tags": ["eos", "files system", "share file", "server"],
   "category": "virtualization",
   "type": "static",
-  "date": "30/11/2020"
+  "date": "30/11/2020",
+  "hasOutlined": true,
+  "dateOutlined": "3/12/2021"
 }

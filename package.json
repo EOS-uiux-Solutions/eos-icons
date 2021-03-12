@@ -2,11 +2,10 @@
   "name": "eos-icons",
   "version": "4.12.0",
   "description": "The iconic and open source font made for EOS Design System.",
-  "dependencies": {},
   "devDependencies": {
     "@semantic-release/git": "^5.0.0",
     "@semantic-release/gitlab": "^2.1.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "conventional-changelog-eslint": "^1.0.9",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^6.15.0",
