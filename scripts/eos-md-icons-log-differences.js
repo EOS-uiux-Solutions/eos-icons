@@ -35,8 +35,8 @@ const eosMdIconsDifferences = async (params) => {
       `======= ${allMissingIconsInEos.length} New icons MD has that EOS doesn't =======`
     )
     console.dir(allMissingIconsInEos, { maxArrayLength: null })
-
     if (allMissingIconsInEos.length > 0) {
+      addNewMdiconsList(allMissingIconsInEos)
       const importMdIconsRes = await importMdIcons().then(async (response) => {
         return response
       })
@@ -70,6 +70,13 @@ const importMdIcons = async () => {
   } catch (error) {
     console.log(error)
   }
+}
+
+const addNewMdiconsList = (allMissingIconsInEos) => {
+  fs.writeFileSync(
+    `./scripts/new-md-icons-list.json`,
+    JSON.stringify(allMissingIconsInEos, null, 2)
+  )
 }
 
 const iconsDifferences = (array1, array2) =>
