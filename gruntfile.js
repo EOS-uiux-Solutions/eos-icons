@@ -458,18 +458,34 @@ module.exports = function (grunt) {
       .then()
   })
 
+  grunt.registerTask('fixOutlinedProps', async function () {
+    const done = this.async()
+    try {
+      grunt.task.run(['materialOutlineModels', 'eosIconsOutlineModels'])
+    } catch (error) {
+      console.error('ERROR: fixOutlinedProps(): ', error)
+    } finally {
+      done()
+    }
+  })
+
   /* Checks for each models to make sure it has all the properties we expect. */
   grunt.registerTask('checkModelKeysTask', async function () {
     const done = this.async()
 
     return checkModelKeys().then((result) => {
-      result.length
-        ? console.log(
-            `🚫 The following errors need fixing: \n\n  ${result.map(
-              (ele) => ele
-            )}`
-          )
-        : done()
+      if (!result.length) return done()
+
+      console.log(
+        `🚫 The following errors need fixing: \n\n  ${result.map((ele) => ele)}`
+      )
+
+      // If any of the results includes the missing dateOutlined propriety, add it.
+      if (result.map((ele) => ele.includes('Found hasOutlined'))) {
+        console.log(
+          '\n\n⚠️  To fix the missing dateOutlined property: grunt fixOutlinedProps'
+        )
+      }
     })
   })
 

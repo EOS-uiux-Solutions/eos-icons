@@ -80,7 +80,7 @@ const readModelKeys = async (params) => {
   const { modelsFolder } = params
 
   /* Get all files inside the models folder */
-  const filesName = await fs.readdirSync(modelsFolder, (err, file) => {
+  const filesName = fs.readdirSync(modelsFolder, (err, file) => {
     if (err) console.error(err)
 
     return file
@@ -114,7 +114,7 @@ const readModelKeys = async (params) => {
 }
 
 /**
- * Will check the models for material icons and add the propriety of hasOutlined to them.
+ * Will check the models for material icons and add the propriety of hasOutlined and outlinedDate to them.
  */
 const materialOutlineModels = async ({ outlineSvgDir, modelsFolder }) => {
   const models = await readModelKeys({ modelsFolder: modelsFolder })
@@ -129,11 +129,12 @@ const materialOutlineModels = async ({ outlineSvgDir, modelsFolder }) => {
     if (filesMd.includes(`${ele.name}.svg`)) return ele
   })
 
-  return modelsToCreate.map((model) => {
+  modelsToCreate.map((model) => {
     /* Get the object without the filename */
     const { fileName, ...newModel } = model
     /* If the object already has the property of hasOutlined, ignore it */
-    if (newModel.hasOutlined) return
+    if (newModel.hasOutlined && newModel.dateOutlined) return
+
     /* Rewrite the material-model to include the hasOutlined property */
     return fs.writeFileSync(
       `./${modelsFolder}/${model.name}.json`,
@@ -175,7 +176,7 @@ const eosIconsOutlineModels = async ({ outlineSvgDir, modelsFolder }) => {
     const { fileName, ...newModel } = model
 
     /* If the object already has the property of hasOutlined, ignore it */
-    if (newModel.hasOutlined) return
+    if (newModel.hasOutlined && newModel.dateOutlined) return
 
     /* Rewrite the material-model to include the hasOutlined property */
     return fs.writeFileSync(
@@ -195,7 +196,7 @@ const eosIconsOutlineModels = async ({ outlineSvgDir, modelsFolder }) => {
   })
 }
 
-/* Maps throught the array of objects checking for models to have all listed proprieties */
+/** Maps throught the array of objects checking for models to have all listed proprieties */
 const checkModelKeys = async () => {
   const modelsEos = await readModelKeys({ modelsFolder: './models' })
   const modelsMd = await readModelKeys({ modelsFolder: './models/material' })
@@ -220,6 +221,12 @@ const checkModelKeys = async () => {
       errors.push(`\n⛔️ Tags missing in: ${model.fileName}.`)
     }
 
+    if (model.hasOutlined && !model.dateOutlined) {
+      errors.push(
+        `\n⛔️ Found hasOutlined property in ${model.fileName}, missing dateOutlined`
+      )
+    }
+
     /* If a key is missing, add the error to the array */
     if (!checkForKeys(Object.keys(model))) {
       errors.push(
@@ -231,7 +238,7 @@ const checkModelKeys = async () => {
   return errors
 }
 
-/* Checks an object to see if it matches the given keys in the array */
+/** Checks an object to see if it matches the given keys in the array */
 const checkForKeys = (model) => {
   return [
     'name',
