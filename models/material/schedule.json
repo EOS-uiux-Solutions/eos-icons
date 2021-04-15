@@ -15,7 +15,13 @@
     "access",
     "interval",
     "hour",
-    "minute"
+    "minute",
+    "notification",
+    "alert",
+    "alarm",
+    "countdown",
+    "bell",
+    "watch"
   ],
   "category": ["action"],
   "type": "static",

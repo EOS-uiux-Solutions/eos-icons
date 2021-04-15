@@ -2,7 +2,17 @@
   "name": "sd_card",
   "do": "",
   "dont": "",
-  "tags": ["information", "data", "memory", "usb", "drive", "storage"],
+  "tags": [
+    "information",
+    "data",
+    "memory",
+    "usb",
+    "drive",
+    "storage",
+    "digital",
+    "camera",
+    "secure"
+  ],
   "category": ["notification"],
   "type": "static",
   "hasOutlined": true,

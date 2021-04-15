@@ -5,5 +5,7 @@
   "tags": ["eos", "atomic", "mote", "atom", "speck", "corpuscle", "particle"],
   "category": "design",
   "type": "static",
-  "date": "30/11/2020"
+  "date": "30/11/2020",
+  "hasOutlined": true,
+  "dateOutlined": "4/13/2021"
 }

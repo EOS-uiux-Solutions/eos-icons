@@ -10,7 +10,8 @@
     "connection",
     "locked",
     "secure",
-    "key"
+    "key",
+    "https"
   ],
   "category": ["action"],
   "type": "static",

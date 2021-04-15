@@ -1,0 +1,11 @@
+{
+  "name": "battery_charging_full",
+  "do": "",
+  "dont": "",
+  "tags": ["charge", "mobile", "power", "cell"],
+  "category": ["device"],
+  "type": "static",
+  "hasOutlined": true,
+  "date": "30/11/2020",
+  "dateOutlined": "15/04/2021"
+}

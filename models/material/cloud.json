@@ -2,7 +2,17 @@
   "name": "cloud",
   "do": "",
   "dont": "",
-  "tags": ["cloud", "server", "storage", "remote"],
+  "tags": [
+    "cloud",
+    "server",
+    "storage",
+    "remote",
+    "queue",
+    "line",
+    "progression",
+    "sequence",
+    "awaiting"
+  ],
   "category": ["file"],
   "type": "static",
   "hasOutlined": true,

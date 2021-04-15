@@ -17,5 +17,7 @@
   ],
   "category": "development",
   "type": "static",
-  "date": "30/11/2020"
+  "date": "30/11/2020",
+  "hasOutlined": true,
+  "dateOutlined": "4/9/2021"
 }

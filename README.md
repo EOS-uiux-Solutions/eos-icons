@@ -27,6 +27,10 @@ Add the Fonts and CSS file in your project as follows:
 
 `<link rel="stylesheet" href="assets/eos-icons.css">`
 
+or just add CDN and import icons easily :
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/eos-icons/dist/css/eos-icons.css" />`
+
 2- The file mentioned above will look for the font files which you can find inside the folder `dist/fonts` and should move to your `assets/fonts` folder.
 
 3- Use the icons in your html as follows:

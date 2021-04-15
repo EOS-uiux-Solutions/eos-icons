@@ -12,7 +12,11 @@
     "arrows",
     "control",
     "right",
-    "direction"
+    "direction",
+    "toy",
+    "videogame",
+    "joystick",
+    "stick"
   ],
   "category": ["av"],
   "type": "static",
