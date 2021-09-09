@@ -68,15 +68,12 @@
         const newIconsList = eosIcons.filter((ele) => {
           if (!ele[isOutlined]) return
           const date = ele[isOutlined].split('/')
-          const itemDate = new Date(
-            date[2],
-            date[1],
-            date[0]
-          ).toLocaleDateString()
+          const itemDate = new Date(date[2], date[1], date[0])
 
-          if (itemDate < tagRelease.toLocaleDateString()) return ele
+          if (itemDate > tagRelease) return ele
         })
 
+        console.log(newIconsList)
         // Removes the preview wrap if no new icons are found
         if (newIconsList.length === 0) {
           document.querySelector('.latest').style.display = 'none'

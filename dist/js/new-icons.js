@@ -62,7 +62,7 @@
       .then((response) => response.json())
       .then((tags) => {
         const tagRelease = new Date(tags[0].commit.committed_date)
-
+        
         // Filter out the icons that are newer than the latest release tag.
         // eslint-disable-next-line no-undef
         const newIconsList = eosIcons.filter((ele) => {
@@ -72,11 +72,12 @@
             date[2],
             date[1],
             date[0]
-          ).toLocaleDateString()
-
-          if (itemDate < tagRelease.toLocaleDateString()) return ele
+          )
+          
+          if (itemDate > tagRelease) return ele
         })
-
+        
+        console.log(newIconsList)
         // Removes the preview wrap if no new icons are found
         if (newIconsList.length === 0) {
           document.querySelector('.latest').style.display = 'none'
