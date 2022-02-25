@@ -19,6 +19,7 @@ const downloadMaterialIconsList = async (dest = 'md-web-data.json') => {
       responseType: 'stream'
     }).then((response) => {
       response.data.pipe(fs.createWriteStream(filePath))
+      return '✅ Done downloading new icon list from'
     })
   } catch (error) {
     console.log('error: ', error)

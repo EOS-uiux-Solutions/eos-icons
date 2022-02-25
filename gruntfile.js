@@ -433,12 +433,12 @@ module.exports = function (grunt) {
 
   /* compare MD icons in our repo and MD officical website Download MD svgs and create models */
   grunt.registerTask('importMdIcons', async function () {
-    const done = this.async()
-    const targetDir = '/svg/material'
+    try {
+      const done = this.async()
+      const targetDir = '/svg/material'
 
-    await downloadMaterialIconsList()
-      .then(
-        eosMdIconsDifferences({
+      await downloadMaterialIconsList().then(async (r) => {
+        await eosMdIconsDifferences({
           targetDirMd: targetDir,
           duplicatedIconsList: duplicatedIcons.filled
         }).then(async (res) => {
@@ -451,16 +451,18 @@ module.exports = function (grunt) {
             done()
           }
         })
-      )
-      .then()
+      })
+    } catch (error) {
+      console.log('error: ', 1)
+    }
   })
 
   /* Import outlined MD icons */
   grunt.registerTask('importOutlinedMdIcons', async function () {
-    const done = this.async()
-    const targetDir = '/svg-outlined/material'
-    await downloadMaterialIconsList()
-      .then(
+    try {
+      const done = this.async()
+      const targetDir = '/svg-outlined/material'
+      await downloadMaterialIconsList().then(async () => {
         eosMdIconsDifferences({
           targetDirMd: targetDir,
           duplicatedIconsList: [
@@ -477,8 +479,10 @@ module.exports = function (grunt) {
             done()
           }
         })
-      )
-      .then()
+      })
+    } catch (error) {
+      console.log('error: ', 1)
+    }
   })
 
   /* Checks for each models to make sure it has all the properties we expect. */
